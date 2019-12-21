@@ -1,0 +1,7850 @@
+[
+  {
+    "value": "Công nghệ thông tin",
+    "synonyms": [
+      "Công nghệ thông tin",
+      "cntt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ khí",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ khí"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật nhiệt",
+    "synonyms": [
+      "Công nghệ kỹ thuật nhiệt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hóa",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hóa"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hóa học",
+    "synonyms": [
+      "Công nghệ kỹ thuật hóa học"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Chính trị học",
+    "synonyms": [
+      "Chính trị học"
+    ]
+  },
+  {
+    "value": "Quản lý nhà nước",
+    "synonyms": [
+      "Quản lý nhà nước"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh",
+    "synonyms": [
+      "Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật xây dựng",
+    "synonyms": [
+      "Công nghệ kỹ thuật xây dựng"
+    ]
+  },
+  {
+    "value": "Thú y",
+    "synonyms": [
+      "Thú y"
+    ]
+  },
+  {
+    "value": "Y học cổ truyền",
+    "synonyms": [
+      "Y học cổ truyền"
+    ]
+  },
+  {
+    "value": "Dược học",
+    "synonyms": [
+      "Dược học"
+    ]
+  },
+  {
+    "value": "Điều dưỡng",
+    "synonyms": [
+      "Điều dưỡng"
+    ]
+  },
+  {
+    "value": "Dinh dưỡng",
+    "synonyms": [
+      "Dinh dưỡng"
+    ]
+  },
+  {
+    "value": "Quản lý đất đai",
+    "synonyms": [
+      "Quản lý đất đai"
+    ]
+  },
+  {
+    "value": "Sư phạm tiếng Pháp",
+    "synonyms": [
+      "Sư phạm tiếng Pháp"
+    ]
+  },
+  {
+    "value": "Sư phạm tiếng Trung",
+    "synonyms": [
+      "Sư phạm tiếng Trung"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh",
+    "synonyms": [
+      "Ngôn ngữ Anh"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh  Chất lượng cao ",
+    "synonyms": [
+      "Ngôn ngữ Anh  Chất lượng cao "
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Nga",
+    "synonyms": [
+      "Ngôn ngữ Nga"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Pháp",
+    "synonyms": [
+      "Ngôn ngữ Pháp"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung Quốc",
+    "synonyms": [
+      "Ngôn ngữ Trung Quốc"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung Quốc  Chất lượng cao ",
+    "synonyms": [
+      "Ngôn ngữ Trung Quốc  Chất lượng cao "
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Nhật  Chất lượng cao ",
+    "synonyms": [
+      "Ngôn ngữ Nhật  Chất lượng cao "
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Hàn Quốc",
+    "synonyms": [
+      "Ngôn ngữ Hàn Quốc"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Hàn Quốc  Chất lượng cao ",
+    "synonyms": [
+      "Ngôn ngữ Hàn Quốc  Chất lượng cao "
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Thái Lan",
+    "synonyms": [
+      "Ngôn ngữ Thái Lan"
+    ]
+  },
+  {
+    "value": "Quốc tế học",
+    "synonyms": [
+      "Quốc tế học"
+    ]
+  },
+  {
+    "value": "Quốc tế học  Chất lượng cao ",
+    "synonyms": [
+      "Quốc tế học  Chất lượng cao "
+    ]
+  },
+  {
+    "value": "Đông phương học",
+    "synonyms": [
+      "Đông phương học"
+    ]
+  },
+  {
+    "value": "Công nghệ dầu khí và khai thác dầu Chất lượng cao",
+    "synonyms": [
+      "Công nghệ dầu khí và khai thác dầu Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật nhiệt Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật nhiệt Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật môi trường Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật môi trường Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình thủy Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình thủy Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật XD công trình giao thông Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật XD công trình giao thông Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh tế xây dựng Chất lượng cao",
+    "synonyms": [
+      "Kinh tế xây dựng Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến ngành Điện tử viễn thông",
+    "synonyms": [
+      "Chương trình tiên tiến ngành Điện tử viễn thông"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến ngành Hệ thống nhúng",
+    "synonyms": [
+      "Chương trình tiên tiến ngành Hệ thống nhúng"
+    ]
+  },
+  {
+    "value": "Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp",
+    "synonyms": [
+      "Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp"
+    ]
+  },
+  {
+    "value": "Quản trị kính doanh chất lượng cao",
+    "synonyms": [
+      "Quản trị kính doanh chất lượng cao"
+    ]
+  },
+  {
+    "value": "Thương mại điện tử",
+    "synonyms": [
+      "Thương mại điện tử"
+    ]
+  },
+  {
+    "value": "Kế toán chất lượng cao",
+    "synonyms": [
+      "Kế toán chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kiểm toán",
+    "synonyms": [
+      "Kiểm toán"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật công trình xây dựng",
+    "synonyms": [
+      "Công nghệ kỹ thuật công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ điện tử",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ điện tử"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện, điện tử Chất lượng cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện, điện tử Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử - viễn thông",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử - viễn thông"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử - viễn thông Chất lượng cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử - viễn thông Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ lỹ thuất điều khiển và tự động hóa",
+    "synonyms": [
+      "Công nghệ lỹ thuất điều khiển và tự động hóa"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hóa chất lượng cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hóa chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật năng lượng",
+    "synonyms": [
+      "Công nghệ kỹ thuật năng lượng"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật môi trường",
+    "synonyms": [
+      "Công nghệ kỹ thuật môi trường"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hạt nhân",
+    "synonyms": [
+      "Công nghệ kỹ thuật hạt nhân"
+    ]
+  },
+  {
+    "value": "Quản lý công nghiệp chất lượng cao",
+    "synonyms": [
+      "Quản lý công nghiệp chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản lý năng lượng",
+    "synonyms": [
+      "Quản lý năng lượng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật địa chất",
+    "synonyms": [
+      "Kỹ thuật địa chất"
+    ]
+  },
+  {
+    "value": "Kỹ thuật mỏ",
+    "synonyms": [
+      "Kỹ thuật mỏ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật tuyển khoáng",
+    "synonyms": [
+      "Kỹ thuật tuyển khoáng"
+    ]
+  },
+  {
+    "value": "Quan hệ công chúng",
+    "synonyms": [
+      "Quan hệ công chúng"
+    ]
+  },
+  {
+    "value": "Kiến trúc",
+    "synonyms": [
+      "Kiến trúc"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng",
+    "synonyms": [
+      "Kỹ thuật xây dựng"
+    ]
+  },
+  {
+    "value": "Kế toán",
+    "synonyms": [
+      "Kế toán"
+    ]
+  },
+  {
+    "value": "Luật kinh tế",
+    "synonyms": [
+      "Luật kinh tế"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học",
+    "synonyms": [
+      "Công nghệ sinh học"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng Chuyên ngành Xây dựng dân dụng \u0026 công nghiệp",
+    "synonyms": [
+      "Kỹ thuật xây dựng Chuyên ngành Xây dựng dân dụng \u0026 công nghiệp"
+    ]
+  },
+  {
+    "value": "Lịch sử chuyên ngành Quan hệ quốc tế",
+    "synonyms": [
+      "Lịch sử chuyên ngành Quan hệ quốc tế"
+    ]
+  },
+  {
+    "value": "Văn học",
+    "synonyms": [
+      "Văn học"
+    ]
+  },
+  {
+    "value": "Văn hoá học",
+    "synonyms": [
+      "Văn hoá học"
+    ]
+  },
+  {
+    "value": "Tâm lý học",
+    "synonyms": [
+      "Tâm lý học"
+    ]
+  },
+  {
+    "value": "Địa lý học Chuyên ngành Địa lý du lịch",
+    "synonyms": [
+      "Địa lý học Chuyên ngành Địa lý du lịch"
+    ]
+  },
+  {
+    "value": "Báo chí",
+    "synonyms": [
+      "Báo chí"
+    ]
+  },
+  {
+    "value": "Vật lý học Chuyên ngành Điện tử-Công nghệ Viễn thông",
+    "synonyms": [
+      "Vật lý học Chuyên ngành Điện tử-Công nghệ Viễn thông"
+    ]
+  },
+  {
+    "value": "Toán ứng dụng",
+    "synonyms": [
+      "Toán ứng dụng"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin đặc thù",
+    "synonyms": [
+      "Công nghệ thông tin đặc thù"
+    ]
+  },
+  {
+    "value": "Công tác xã hội",
+    "synonyms": [
+      "Công tác xã hội"
+    ]
+  },
+  {
+    "value": "Y khoa",
+    "synonyms": [
+      "Y khoa"
+    ]
+  },
+  {
+    "value": "Răng - Hàm -Mặt",
+    "synonyms": [
+      "Răng - Hàm -Mặt"
+    ]
+  },
+  {
+    "value": "Kinh tế",
+    "synonyms": [
+      "Kinh tế"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế",
+    "synonyms": [
+      "Kinh doanh quốc tế"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin quản lý",
+    "synonyms": [
+      "Hệ thống thông tin quản lý"
+    ]
+  },
+  {
+    "value": "Luật",
+    "synonyms": [
+      "Luật"
+    ]
+  },
+  {
+    "value": "Giáo dục thể chất",
+    "synonyms": [
+      "Giáo dục thể chất"
+    ]
+  },
+  {
+    "value": "Du lịch",
+    "synonyms": [
+      "Du lịch"
+    ]
+  },
+  {
+    "value": "Du lịch điện tử",
+    "synonyms": [
+      "Du lịch điện tử"
+    ]
+  },
+  {
+    "value": "Quản trị nhà nhà và dịch vụ ăn uống",
+    "synonyms": [
+      "Quản trị nhà nhà và dịch vụ ăn uống"
+    ]
+  },
+  {
+    "value": "Kinh tế chuyên ngành Kế hoạch đầu tư CLC",
+    "synonyms": [
+      "Kinh tế chuyên ngành Kế hoạch đầu tư CLC"
+    ]
+  },
+  {
+    "value": "Kinh tế chính trị",
+    "synonyms": [
+      "Kinh tế chính trị"
+    ]
+  },
+  {
+    "value": "Thống kê kinh tế",
+    "synonyms": [
+      "Thống kê kinh tế"
+    ]
+  },
+  {
+    "value": "Marketing",
+    "synonyms": [
+      "Marketing"
+    ]
+  },
+  {
+    "value": "Tài chính ngân hàng Chất lượng cao",
+    "synonyms": [
+      "Tài chính ngân hàng Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản trị nhân lực",
+    "synonyms": [
+      "Quản trị nhân lực"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin quản lý  Tin học kinh tế CLC",
+    "synonyms": [
+      "Hệ thống thông tin quản lý  Tin học kinh tế CLC"
+    ]
+  },
+  {
+    "value": "Tài chính Ngân hàng  liên kết trường ĐH Rennes I, Pháp",
+    "synonyms": [
+      "Tài chính Ngân hàng  liên kết trường ĐH Rennes I, Pháp"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh  liên kết viện Công nghệ Tallaght - Ireland",
+    "synonyms": [
+      "Quản trị kinh doanh  liên kết viện Công nghệ Tallaght - Ireland"
+    ]
+  },
+  {
+    "value": "Kinh doanh nông nghiệp",
+    "synonyms": [
+      "Kinh doanh nông nghiệp"
+    ]
+  },
+  {
+    "value": "Kinh tế nông nghiệp",
+    "synonyms": [
+      "Kinh tế nông nghiệp"
+    ]
+  },
+  {
+    "value": "Song ngành Kinh tế Tài chính  giảng dạy Tiếng Anh, liên kết trường ĐH Sydney, Australia",
+    "synonyms": [
+      "Song ngành Kinh tế Tài chính  giảng dạy Tiếng Anh, liên kết trường ĐH Sydney, Australia"
+    ]
+  },
+  {
+    "value": "Bất động sản",
+    "synonyms": [
+      "Bất động sản"
+    ]
+  },
+  {
+    "value": "Sinh học ứng dụng",
+    "synonyms": [
+      "Sinh học ứng dụng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ - điện tử",
+    "synonyms": [
+      "Kỹ thuật cơ - điện tử"
+    ]
+  },
+  {
+    "value": "Công nghệ sau thu hoạch",
+    "synonyms": [
+      "Công nghệ sau thu hoạch"
+    ]
+  },
+  {
+    "value": "Công nghệ chế biến lâm sản",
+    "synonyms": [
+      "Công nghệ chế biến lâm sản"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ sở hạ tầng",
+    "synonyms": [
+      "Kỹ thuật cơ sở hạ tầng"
+    ]
+  },
+  {
+    "value": "Khuyến nông  song ngành Khuyến nông - Phát triển nông thôn",
+    "synonyms": [
+      "Khuyến nông  song ngành Khuyến nông - Phát triển nông thôn"
+    ]
+  },
+  {
+    "value": "Chăn nuôi  song ngành Chăn nuôi - Thú Y",
+    "synonyms": [
+      "Chăn nuôi  song ngành Chăn nuôi - Thú Y"
+    ]
+  },
+  {
+    "value": "Nông học",
+    "synonyms": [
+      "Nông học"
+    ]
+  },
+  {
+    "value": "Khoa học cây trồng",
+    "synonyms": [
+      "Khoa học cây trồng"
+    ]
+  },
+  {
+    "value": "Bảo vệ thực vật",
+    "synonyms": [
+      "Bảo vệ thực vật"
+    ]
+  },
+  {
+    "value": "Công nghệ rau, hoa quả và cảnh quan",
+    "synonyms": [
+      "Công nghệ rau, hoa quả và cảnh quan"
+    ]
+  },
+  {
+    "value": "Phát triển nông thôn",
+    "synonyms": [
+      "Phát triển nông thôn"
+    ]
+  },
+  {
+    "value": "Lâm học",
+    "synonyms": [
+      "Lâm học"
+    ]
+  },
+  {
+    "value": "Lâm nghiệp đô thị",
+    "synonyms": [
+      "Lâm nghiệp đô thị"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên rừng",
+    "synonyms": [
+      "Quản lý tài nguyên rừng"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thủy sản",
+    "synonyms": [
+      "Nuôi trồng thủy sản"
+    ]
+  },
+  {
+    "value": "Bệnh học thủy sản",
+    "synonyms": [
+      "Bệnh học thủy sản"
+    ]
+  },
+  {
+    "value": "Quản lý thủy sản",
+    "synonyms": [
+      "Quản lý thủy sản"
+    ]
+  },
+  {
+    "value": "Hội họa  Hội họa, Tạo hình đa phương tiện",
+    "synonyms": [
+      "Hội họa  Hội họa, Tạo hình đa phương tiện"
+    ]
+  },
+  {
+    "value": "Điêu khắc",
+    "synonyms": [
+      "Điêu khắc"
+    ]
+  },
+  {
+    "value": "Thiết kế đồ họa  thiết kế đồ họa, thiết kế mỹ thuật đa phương tiện",
+    "synonyms": [
+      "Thiết kế đồ họa  thiết kế đồ họa, thiết kế mỹ thuật đa phương tiện"
+    ]
+  },
+  {
+    "value": "Thiết kế thời trang",
+    "synonyms": [
+      "Thiết kế thời trang"
+    ]
+  },
+  {
+    "value": "Thiết kế nội thất  thiết kế nội thất, thiết kế truyền thống",
+    "synonyms": [
+      "Thiết kế nội thất  thiết kế nội thất, thiết kế truyền thống"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện",
+    "synonyms": [
+      "Kỹ thuật điện"
+    ]
+  },
+  {
+    "value": "Kinh tế xây dựng",
+    "synonyms": [
+      "Kinh tế xây dựng"
+    ]
+  },
+  {
+    "value": "Giáo dục tiểu học; Giáo dục tiểu học - Giáo dục hòa nhập",
+    "synonyms": [
+      "Giáo dục tiểu học - Giáo dục hòa nhập"
+    ]
+  },
+  {
+    "value": "Giáo dục công dân",
+    "synonyms": [
+      "Giáo dục công dân"
+    ]
+  },
+  {
+    "value": "Giáo dục chính trị",
+    "synonyms": [
+      "Giáo dục chính trị"
+    ]
+  },
+  {
+    "value": "Giáo dục Quốc Phòng - An Ninh",
+    "synonyms": [
+      "Giáo dục Quốc Phòng - An Ninh"
+    ]
+  },
+  {
+    "value": "Sư phạm Tin học",
+    "synonyms": [
+      "Sư phạm Tin học"
+    ]
+  },
+  {
+    "value": "Sư phạm Sinh học",
+    "synonyms": [
+      "Sư phạm Sinh học"
+    ]
+  },
+  {
+    "value": "Sư phạm Ngữ Văn",
+    "synonyms": [
+      "Sư phạm Ngữ Văn"
+    ]
+  },
+  {
+    "value": "Sư phạm Công nghệ",
+    "synonyms": [
+      "Sư phạm Công nghệ"
+    ]
+  },
+  {
+    "value": "Giáo dục pháp luật",
+    "synonyms": [
+      "Giáo dục pháp luật"
+    ]
+  },
+  {
+    "value": "Tâm lý học giáo dục",
+    "synonyms": [
+      "Tâm lý học giáo dục"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin",
+    "synonyms": [
+      "Hệ thống thông tin"
+    ]
+  },
+  {
+    "value": "Vật lý  giảng dạy tiếng Anh, liênKết ĐH Virginia, Hoa Kỳ",
+    "synonyms": [
+      "Vật lý  giảng dạy tiếng Anh, liênKết ĐH Virginia, Hoa Kỳ"
+    ]
+  },
+  {
+    "value": "Hán - Nôm",
+    "synonyms": [
+      "Hán - Nôm"
+    ]
+  },
+  {
+    "value": "Triết học",
+    "synonyms": [
+      "Triết học"
+    ]
+  },
+  {
+    "value": "Lịch sử",
+    "synonyms": [
+      "Lịch sử"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ học",
+    "synonyms": [
+      "Ngôn ngữ học"
+    ]
+  },
+  {
+    "value": "Toán kinh tế",
+    "synonyms": [
+      "Toán kinh tế"
+    ]
+  },
+  {
+    "value": "Xã hội học",
+    "synonyms": [
+      "Xã hội học"
+    ]
+  },
+  {
+    "value": "Kỹ thuật sinh học",
+    "synonyms": [
+      "Kỹ thuật sinh học"
+    ]
+  },
+  {
+    "value": "Vật lý học",
+    "synonyms": [
+      "Vật lý học"
+    ]
+  },
+  {
+    "value": "Hóa học",
+    "synonyms": [
+      "Hóa học"
+    ]
+  },
+  {
+    "value": "Toán học",
+    "synonyms": [
+      "Toán học"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm  chương trình đào tạo đặc biệt theo cơ chế đặc thù",
+    "synonyms": [
+      "Kỹ thuật phần mềm  chương trình đào tạo đặc biệt theo cơ chế đặc thù"
+    ]
+  },
+  {
+    "value": "Kỹ thuật môi trường",
+    "synonyms": [
+      "Kỹ thuật môi trường"
+    ]
+  },
+  {
+    "value": "Quy hoạch vùng và đô thị",
+    "synonyms": [
+      "Quy hoạch vùng và đô thị"
+    ]
+  },
+  {
+    "value": "Địa kỹ thuật xây dựng",
+    "synonyms": [
+      "Địa kỹ thuật xây dựng"
+    ]
+  },
+  {
+    "value": "Tài chính ngân hàng",
+    "synonyms": [
+      "Tài chính ngân hàng"
+    ]
+  },
+  {
+    "value": "Quản lý bệnh viện",
+    "synonyms": [
+      "Quản lý bệnh viện"
+    ]
+  },
+  {
+    "value": "Y học dự phòng",
+    "synonyms": [
+      "Y học dự phòng"
+    ]
+  },
+  {
+    "value": "Răng - Hàm - Mặt",
+    "synonyms": [
+      "Răng - Hàm - Mặt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xét nghiệm y học",
+    "synonyms": [
+      "Kỹ thuật xét nghiệm y học"
+    ]
+  },
+  {
+    "value": "Kỹ thuật hình ảnh y học",
+    "synonyms": [
+      "Kỹ thuật hình ảnh y học"
+    ]
+  },
+  {
+    "value": "Y tế công cộng",
+    "synonyms": [
+      "Y tế công cộng"
+    ]
+  },
+  {
+    "value": "Quản trị văn phòng",
+    "synonyms": [
+      "Quản trị văn phòng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình giao thông",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Truyền thông đa phương tiện",
+    "synonyms": [
+      "Truyền thông đa phương tiện"
+    ]
+  },
+  {
+    "value": "An toàn thông tin",
+    "synonyms": [
+      "An toàn thông tin"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ô tô",
+    "synonyms": [
+      "Công nghệ kỹ thuật ô tô"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí",
+    "synonyms": [
+      "Kỹ thuật cơ khí"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ điện tử",
+    "synonyms": [
+      "Kỹ thuật cơ điện tử"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử - viễn thông",
+    "synonyms": [
+      "Kỹ thuật điện tử - viễn thông"
+    ]
+  },
+  {
+    "value": "Kỹ thuật y sinh",
+    "synonyms": [
+      "Kỹ thuật y sinh"
+    ]
+  },
+  {
+    "value": "Công nghệ dệt, may",
+    "synonyms": [
+      "Công nghệ dệt, may"
+    ]
+  },
+  {
+    "value": "Thiết kế nội thất",
+    "synonyms": [
+      "Thiết kế nội thất"
+    ]
+  },
+  {
+    "value": "Quản lý xây dựng",
+    "synonyms": [
+      "Quản lý xây dựng"
+    ]
+  },
+  {
+    "value": "Mạng máy tính và truyền thông dữ liệu",
+    "synonyms": [
+      "Mạng máy tính và truyền thông dữ liệu"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử viễn thông",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử viễn thông"
+    ]
+  },
+  {
+    "value": "Công nghệ sợi, dệt",
+    "synonyms": [
+      "Công nghệ sợi, dệt"
+    ]
+  },
+  {
+    "value": "Công nghệ dệt may",
+    "synonyms": [
+      "Công nghệ dệt may"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phục hồi chức năng",
+    "synonyms": [
+      "Kỹ thuật phục hồi chức năng"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính",
+    "synonyms": [
+      "Khoa học máy tính"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử, viễn thông",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử, viễn thông"
+    ]
+  },
+  {
+    "value": "Bảo hiểm",
+    "synonyms": [
+      "Bảo hiểm"
+    ]
+  },
+  {
+    "value": "Quản tị dịch vụ du lịch và lữ hành",
+    "synonyms": [
+      "Quản tị dịch vụ du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Khí tượng và khí hậu học",
+    "synonyms": [
+      "Khí tượng và khí hậu học"
+    ]
+  },
+  {
+    "value": "Thủy văn học",
+    "synonyms": [
+      "Thủy văn học"
+    ]
+  },
+  {
+    "value": "Biến đổi khí hậu và phát triển bền vững",
+    "synonyms": [
+      "Biến đổi khí hậu và phát triển bền vững"
+    ]
+  },
+  {
+    "value": "Kinh tế tài nguyên thiên nhiên",
+    "synonyms": [
+      "Kinh tế tài nguyên thiên nhiên"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên nước",
+    "synonyms": [
+      "Quản lý tài nguyên nước"
+    ]
+  },
+  {
+    "value": "Quản lý biển",
+    "synonyms": [
+      "Quản lý biển"
+    ]
+  },
+  {
+    "value": "Quản trị DV du lịch và lữ hành",
+    "synonyms": [
+      "Quản trị DV du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh Chuyên ngành Biên-Phiên dịch; Nghiệp vụ văn phòng; Sư phạm; Tiếng Anh thương mại; Song ngữ Anh-Trung",
+    "synonyms": [
+      "Ngôn ngữ Anh Chuyên ngành Biên-Phiên dịch",
+      "Sư phạm",
+      "Song ngữ Anh-Trung"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung Quốc Chuyên ngành Biên-Phiên dịch; Nghiệp vụ văn phòng",
+    "synonyms": [
+      "Ngôn ngữ Trung Quốc Chuyên ngành Biên-Phiên dịch",
+      " Nghiệp vụ văn phòng"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế Chuyên ngành Quan hệ công chúng; Chính trị-Ngoại giao",
+    "synonyms": [
+      "Quan hệ quốc tế Chuyên ngành Quan hệ công chúng",
+      " Chính trị-Ngoại giao"
+    ]
+  },
+  {
+    "value": "Đông Phương học Chuyên ngành Nhật Bản học; Hàn Quốc học",
+    "synonyms": [
+      "Đông Phương học Chuyên ngành Nhật Bản học",
+      " Hàn Quốc học"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Chuyên ngành Marketing; Quản trị nhân sự",
+    "synonyms": [
+      "Quản trị kinh doanh Chuyên ngành Marketing",
+      " Quản trị nhân sự"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Chuyên ngành Hệ thống thông tin; Mạng máy tính; An ninh mạng; Công nghệ phần mềm",
+    "synonyms": [
+      "Công nghệ thông tin Chuyên ngành Hệ thống thông tin",
+      " Mạng máy tính",
+      " An ninh mạng",
+      " Công nghệ phần mềm"
+    ]
+  },
+  {
+    "value": "Giáo dục tiểu học",
+    "synonyms": [
+      "Giáo dục tiểu học"
+    ]
+  },
+  {
+    "value": "Sư phạm Hóa học",
+    "synonyms": [
+      "Sư phạm Hóa học"
+    ]
+  },
+  {
+    "value": "Quản trị đất đai",
+    "synonyms": [
+      "Quản trị đất đai"
+    ]
+  },
+  {
+    "value": "Văn hóa học",
+    "synonyms": [
+      "Văn hóa học"
+    ]
+  },
+  {
+    "value": "CN Văn hóa du lịch",
+    "synonyms": [
+      "CN Văn hóa du lịch"
+    ]
+  },
+  {
+    "value": "CN Văn hóa truyền thống",
+    "synonyms": [
+      "CN Văn hóa truyền thống"
+    ]
+  },
+  {
+    "value": "Quản lý văn hóa",
+    "synonyms": [
+      "Quản lý văn hóa"
+    ]
+  },
+  {
+    "value": "CN chính sách công",
+    "synonyms": [
+      "CN chính sách công"
+    ]
+  },
+  {
+    "value": "Xây dựng Đảng và chính quyền nhà nước",
+    "synonyms": [
+      "Xây dựng Đảng và chính quyền nhà nước"
+    ]
+  },
+  {
+    "value": "CN QLNN về kinh tế",
+    "synonyms": [
+      "CN QLNN về kinh tế"
+    ]
+  },
+  {
+    "value": "CN quản lý tài chính công",
+    "synonyms": [
+      "CN quản lý tài chính công"
+    ]
+  },
+  {
+    "value": "CN QLNN về tôn giáo",
+    "synonyms": [
+      "CN QLNN về tôn giáo"
+    ]
+  },
+  {
+    "value": "Lưu trữ học",
+    "synonyms": [
+      "Lưu trữ học"
+    ]
+  },
+  {
+    "value": "CN Thanh tra",
+    "synonyms": [
+      "CN Thanh tra"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuât điện tử - viễn thông",
+    "synonyms": [
+      "Công nghệ kỹ thuât điện tử - viễn thông"
+    ]
+  },
+  {
+    "value": "Kinh tế phát triển",
+    "synonyms": [
+      "Kinh tế phát triển"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuât cơ khí",
+    "synonyms": [
+      "Công nghệ kỹ thuât cơ khí"
+    ]
+  },
+  {
+    "value": "Sư phạm âm nhạc",
+    "synonyms": [
+      "Sư phạm âm nhạc"
+    ]
+  },
+  {
+    "value": "Sư phạm Tin học  chuyên ngành Tin học - Công nghệ tin học",
+    "synonyms": [
+      "Sư phạm Tin học  chuyên ngành Tin học - Công nghệ tin học"
+    ]
+  },
+  {
+    "value": "Sư phạm Hoá học  chuyên ngành Hoá Lý",
+    "synonyms": [
+      "Sư phạm Hoá học  chuyên ngành Hoá Lý"
+    ]
+  },
+  {
+    "value": "Sư phạm Sinh Học chuyên ngành Sinh học - Công nghệ THPT",
+    "synonyms": [
+      "Sư phạm Sinh Học chuyên ngành Sinh học - Công nghệ THPT"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử chuyên ngành Sử Địa",
+    "synonyms": [
+      "Sư phạm Lịch sử chuyên ngành Sử Địa"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng anh chuyên ngành tiếng anh tiểu học",
+    "synonyms": [
+      "Sư phạm Tiếng anh chuyên ngành tiếng anh tiểu học"
+    ]
+  },
+  {
+    "value": "Việt Nam học chuyên ngành Văn hoá - Du lịch",
+    "synonyms": [
+      "Việt Nam học chuyên ngành Văn hoá - Du lịch"
+    ]
+  },
+  {
+    "value": "Sinh học  chuyên ngành Sinh học ứng dụng",
+    "synonyms": [
+      "Sinh học  chuyên ngành Sinh học ứng dụng"
+    ]
+  },
+  {
+    "value": "Vật lý học chuyên ngành Vật lý điện tử",
+    "synonyms": [
+      "Vật lý học chuyên ngành Vật lý điện tử"
+    ]
+  },
+  {
+    "value": "Hoá học  chuyên ngành Hoá Thực phẩm",
+    "synonyms": [
+      "Hoá học  chuyên ngành Hoá Thực phẩm"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Anh",
+    "synonyms": [
+      "Sư phạm Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Địa lý học",
+    "synonyms": [
+      "Địa lý học"
+    ]
+  },
+  {
+    "value": "Thiết kế công nghiệp",
+    "synonyms": [
+      "Thiết kế công nghiệp"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử ô tô",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử ô tô"
+    ]
+  },
+  {
+    "value": "Quản lý đô thị và công trình",
+    "synonyms": [
+      "Quản lý đô thị và công trình"
+    ]
+  },
+  {
+    "value": "Quản lý giáo dục",
+    "synonyms": [
+      "Quản lý giáo dục"
+    ]
+  },
+  {
+    "value": "Sư phạm Khoa học tự nhiên",
+    "synonyms": [
+      "Sư phạm Khoa học tự nhiên"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử -Địa lý",
+    "synonyms": [
+      "Sư phạm Lịch sử -Địa lý"
+    ]
+  },
+  {
+    "value": "Thống kê",
+    "synonyms": [
+      "Thống kê"
+    ]
+  },
+  {
+    "value": "VIệt Nam học",
+    "synonyms": [
+      "VIệt Nam học"
+    ]
+  },
+  {
+    "value": "Đạo diễn sân khấu",
+    "synonyms": [
+      "Đạo diễn sân khấu"
+    ]
+  },
+  {
+    "value": "Diễn viên kịch, điện ảnh - truyền hình",
+    "synonyms": [
+      "Diễn viên kịch, điện ảnh - truyền hình"
+    ]
+  },
+  {
+    "value": "Đạo diễn điện ảnh, truyền hình",
+    "synonyms": [
+      "Đạo diễn điện ảnh, truyền hình"
+    ]
+  },
+  {
+    "value": "Quay phim",
+    "synonyms": [
+      "Quay phim"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin  chương trình đào tạo CNTT Việt Nhật",
+    "synonyms": [
+      "Công nghệ thông tin  chương trình đào tạo CNTT Việt Nhật"
+    ]
+  },
+  {
+    "value": "Công nghệ vật liệu",
+    "synonyms": [
+      "Công nghệ vật liệu"
+    ]
+  },
+  {
+    "value": "Kỹ thuật ô tô",
+    "synonyms": [
+      "Kỹ thuật ô tô"
+    ]
+  },
+  {
+    "value": "Công nghệ truyền thông",
+    "synonyms": [
+      "Công nghệ truyền thông"
+    ]
+  },
+  {
+    "value": "Thương mại điện tử  theo đặt hàng từ Doanh nghiệp",
+    "synonyms": [
+      "Thương mại điện tử  theo đặt hàng từ Doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm theo đặt hàng từ Doanh nghiệp",
+    "synonyms": [
+      "Kỹ thuật phần mềm theo đặt hàng từ Doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật máy tính theo đặt hàng từ Doanh nghiệp",
+    "synonyms": [
+      "Công nghệ kỹ thuật máy tính theo đặt hàng từ Doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin  Chất lượng cao",
+    "synonyms": [
+      "Công nghệ thông tin  Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin theo đặt hàng từ Doanh nghiệp",
+    "synonyms": [
+      "Công nghệ thông tin theo đặt hàng từ Doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử viễn thông  liên kết Đài Loan",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử viễn thông  liên kết Đài Loan"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thuỷ sản",
+    "synonyms": [
+      "Nuôi trồng thuỷ sản"
+    ]
+  },
+  {
+    "value": "Kinh tế đầu tư",
+    "synonyms": [
+      "Kinh tế đầu tư"
+    ]
+  },
+  {
+    "value": "Quản lý công",
+    "synonyms": [
+      "Quản lý công"
+    ]
+  },
+  {
+    "value": "Quản trị công nghệ truyền thông",
+    "synonyms": [
+      "Quản trị công nghệ truyền thông"
+    ]
+  },
+  {
+    "value": "Logistics và Quản lý chuỗi cung ứng",
+    "synonyms": [
+      "Logistics và Quản lý chuỗi cung ứng"
+    ]
+  },
+  {
+    "value": "Địa chất học",
+    "synonyms": [
+      "Địa chất học"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Trắc địa – Bản đồ",
+    "synonyms": [
+      "Kỹ thuật Trắc địa – Bản đồ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật tài nguyên nước",
+    "synonyms": [
+      "Kỹ thuật tài nguyên nước"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cấp thoát nước",
+    "synonyms": [
+      "Kỹ thuật cấp thoát nước"
+    ]
+  },
+  {
+    "value": "Quản lý tổng hợp tài nguyên nước",
+    "synonyms": [
+      "Quản lý tổng hợp tài nguyên nước"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên khoáng sản",
+    "synonyms": [
+      "Quản lý tài nguyên khoáng sản"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên và môi trường Biển đảo",
+    "synonyms": [
+      "Quản lý tài nguyên và môi trường Biển đảo"
+    ]
+  },
+  {
+    "value": "Quản lý thông tin",
+    "synonyms": [
+      "Quản lý thông tin"
+    ]
+  },
+  {
+    "value": "Kỹ thuật thực phẩm",
+    "synonyms": [
+      "Kỹ thuật thực phẩm"
+    ]
+  },
+  {
+    "value": "Nông nghiệp",
+    "synonyms": [
+      "Nông nghiệp"
+    ]
+  },
+  {
+    "value": "Lâm sinh",
+    "synonyms": [
+      "Lâm sinh"
+    ]
+  },
+  {
+    "value": "Chăn nuôi",
+    "synonyms": [
+      "Chăn nuôi"
+    ]
+  },
+  {
+    "value": "Khoa học \u0026 Quản lý môi trường",
+    "synonyms": [
+      "Khoa học \u0026 Quản lý môi trường"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm CTTT",
+    "synonyms": [
+      "Công nghệ thực phẩm CTTT"
+    ]
+  },
+  {
+    "value": "Kinh tế nông nghiệp  CTTT",
+    "synonyms": [
+      "Kinh tế nông nghiệp  CTTT"
+    ]
+  },
+  {
+    "value": "Sư phạm mầm non",
+    "synonyms": [
+      "Sư phạm mầm non"
+    ]
+  },
+  {
+    "value": "Giáo dục học",
+    "synonyms": [
+      "Giáo dục học"
+    ]
+  },
+  {
+    "value": "Giáo dục Mầm non",
+    "synonyms": [
+      "Giáo dục Mầm non"
+    ]
+  },
+  {
+    "value": "Sư phạm Hoá học",
+    "synonyms": [
+      "Sư phạm Hoá học"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung Quốc chuyên ngành Trung - Anh",
+    "synonyms": [
+      "Ngôn ngữ Trung Quốc chuyên ngành Trung - Anh"
+    ]
+  },
+  {
+    "value": "Việt Nam Học  Du lịch và lữ hành",
+    "synonyms": [
+      "Việt Nam Học  Du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Việt Nam Học  Du lịch và quản lý du lịch",
+    "synonyms": [
+      "Việt Nam Học  Du lịch và quản lý du lịch"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh  Quản trị nguồn nhân lực",
+    "synonyms": [
+      "Quản trị kinh doanh  Quản trị nguồn nhân lực"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nhà hàng - khách sạn",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nhà hàng - khách sạn"
+    ]
+  },
+  {
+    "value": "Quan hệ lao động",
+    "synonyms": [
+      "Quan hệ lao động"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử viễn thông",
+    "synonyms": [
+      "Kỹ thuật điện tử viễn thông"
+    ]
+  },
+  {
+    "value": "Kỹ thuật hóa học",
+    "synonyms": [
+      "Kỹ thuật hóa học"
+    ]
+  },
+  {
+    "value": "Quy hoạch vùng đô thị",
+    "synonyms": [
+      "Quy hoạch vùng đô thị"
+    ]
+  },
+  {
+    "value": "Quản lý thể dục, thể thao",
+    "synonyms": [
+      "Quản lý thể dục, thể thao"
+    ]
+  },
+  {
+    "value": "Golf",
+    "synonyms": [
+      "Golf"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh - Chương trình 2 năm đầu tại Bảo Lộc",
+    "synonyms": [
+      "Ngôn ngữ Anh - Chương trình 2 năm đầu tại Bảo Lộc"
+    ]
+  },
+  {
+    "value": "Việt Nam Học  Du lịch và quản lý du lịch - Chương trình 2 năm đầu tại Bảo Lộc",
+    "synonyms": [
+      "Việt Nam Học  Du lịch và quản lý du lịch - Chương trình 2 năm đầu tại Bảo Lộc"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình 2 năm đầu tại Bảo Lộc",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình 2 năm đầu tại Bảo Lộc"
+    ]
+  },
+  {
+    "value": "Luật - Chương trình 2 năm đầu tại Bảo Lộc",
+    "synonyms": [
+      "Luật - Chương trình 2 năm đầu tại Bảo Lộc"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm - Chương trình 2 năm đầu tại Bảo Lộc",
+    "synonyms": [
+      "Kỹ thuật phần mềm - Chương trình 2 năm đầu tại Bảo Lộc"
+    ]
+  },
+  {
+    "value": "Thiết kế đồ họa - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Thiết kế đồ họa - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Ngôn ngữ Anh - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Việt Nam Học  Du lịch và quản lý du lịch - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Việt Nam Học  Du lịch và quản lý du lịch - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nguồn nhân lực - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nguồn nhân lực - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Marketing - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Marketing - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kinh doanh quốc tế - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Tài chính ngân hàng - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Tài chính ngân hàng - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kế toán - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kế toán - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Luật - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Luật - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Công nghệ sinh học - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Khoa học máy tính - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kỹ thuật phần mềm - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kỹ thuật điện - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử viễn thông - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kỹ thuật điện tử viễn thông - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điều khiển và tự động hóa - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kỹ thuật điều khiển và tự động hóa - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt",
+    "synonyms": [
+      "Kỹ thuật xây dựng - Chương trình chất lượng cao giảng dạy bằng tiếng Anh - Việt"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Ngôn ngữ Anh - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Marketing - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Marketing - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kế toán quốc tế - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Kế toán quốc tế - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Công nghệ sinh học - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Khoa học máy tính - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Kỹ thuật phần mềm - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điều khiển và tự động hóa - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Kỹ thuật điều khiển và tự động hóa - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng - Chương trình chất lượng cao giảng dạy 100% tiếng Anh",
+    "synonyms": [
+      "Kỹ thuật xây dựng - Chương trình chất lượng cao giảng dạy 100% tiếng Anh"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh - Chương trình 2 năm đầu tại Nha Trang",
+    "synonyms": [
+      "Ngôn ngữ Anh - Chương trình 2 năm đầu tại Nha Trang"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình 2 năm đầu tại Nha Trang",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị nhà hàng - khách sạn - Chương trình 2 năm đầu tại Nha Trang"
+    ]
+  },
+  {
+    "value": "Marketing - Chương trình 2 năm đầu tại Nha Trang",
+    "synonyms": [
+      "Marketing - Chương trình 2 năm đầu tại Nha Trang"
+    ]
+  },
+  {
+    "value": "Kế toán - Chương trình 2 năm đầu tại Nha Trang",
+    "synonyms": [
+      "Kế toán - Chương trình 2 năm đầu tại Nha Trang"
+    ]
+  },
+  {
+    "value": "Luật - Chương trình 2 năm đầu tại Nha Trang",
+    "synonyms": [
+      "Luật - Chương trình 2 năm đầu tại Nha Trang"
+    ]
+  },
+  {
+    "value": "Y khoa  Liên thông",
+    "synonyms": [
+      "Y khoa  Liên thông"
+    ]
+  },
+  {
+    "value": "Dược học  liên thông",
+    "synonyms": [
+      "Dược học  liên thông"
+    ]
+  },
+  {
+    "value": "Khoa học quản lý",
+    "synonyms": [
+      "Khoa học quản lý"
+    ]
+  },
+  {
+    "value": "Địa lý tự nhiên",
+    "synonyms": [
+      "Địa lý tự nhiên"
+    ]
+  },
+  {
+    "value": "Hóa dược",
+    "synonyms": [
+      "Hóa dược"
+    ]
+  },
+  {
+    "value": "Đồ họa",
+    "synonyms": [
+      "Đồ họa"
+    ]
+  },
+  {
+    "value": "Thanh nhạc",
+    "synonyms": [
+      "Thanh nhạc"
+    ]
+  },
+  {
+    "value": "Quản lý thể dục thể thao",
+    "synonyms": [
+      "Quản lý thể dục thể thao"
+    ]
+  },
+  {
+    "value": "Piano",
+    "synonyms": [
+      "Piano"
+    ]
+  },
+  {
+    "value": "Văn học ứng dụng",
+    "synonyms": [
+      "Văn học ứng dụng"
+    ]
+  },
+  {
+    "value": "Công nghệ KT môi trường",
+    "synonyms": [
+      "Công nghệ KT môi trường"
+    ]
+  },
+  {
+    "value": "Kỹ thuật XD công trình giao thông",
+    "synonyms": [
+      "Kỹ thuật XD công trình giao thông"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Khmer",
+    "synonyms": [
+      "Sư phạm Tiếng Khmer"
+    ]
+  },
+  {
+    "value": "Âm nhạc học",
+    "synonyms": [
+      "Âm nhạc học"
+    ]
+  },
+  {
+    "value": "Biểu diễn nhạc cụ truyền thống",
+    "synonyms": [
+      "Biểu diễn nhạc cụ truyền thống"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Khmer",
+    "synonyms": [
+      "Ngôn ngữ Khmer"
+    ]
+  },
+  {
+    "value": "Văn hoá các dân tộc thiểu số Việt Nam",
+    "synonyms": [
+      "Văn hoá các dân tộc thiểu số Việt Nam"
+    ]
+  },
+  {
+    "value": "Khoa học vật liệu",
+    "synonyms": [
+      "Khoa học vật liệu"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hoá",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hoá"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hoá học",
+    "synonyms": [
+      "Công nghệ kỹ thuật hoá học"
+    ]
+  },
+  {
+    "value": "Hoá dược",
+    "synonyms": [
+      "Hoá dược"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điều khiển và tự động hoá",
+    "synonyms": [
+      "Kỹ thuật điều khiển và tự động hoá"
+    ]
+  },
+  {
+    "value": "Ngành Quản trị kinh doanh gồm 4 chuyên ngành Quản trị doanh nghiệp xây dựng, Quản trị doanh nghiệp Bưu chính - Viễn thông, Quản trị kinh doanh giao thông vận tải, Quản trị Logistics",
+    "synonyms": [
+      "Ngành Quản trị kinh doanh gồm 4 chuyên ngành Quản trị doanh nghiệp xây dựng, Quản trị doanh nghiệp Bưu chính - Viễn thông, Quản trị kinh doanh giao thông vận tải, Quản trị Logistics"
+    ]
+  },
+  {
+    "value": "Ngành Kế toán chuyên ngành Kế toán tổng hợp",
+    "synonyms": [
+      "Ngành Kế toán chuyên ngành Kế toán tổng hợp"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế chuyên ngành Kinh tế Bưu chính - Viễn thông",
+    "synonyms": [
+      "Ngành Kinh tế chuyên ngành Kinh tế Bưu chính - Viễn thông"
+    ]
+  },
+  {
+    "value": "Ngành Khai thác vận tải gồm 5 chuyên ngành Khai thác vận tải đường sắt đô thị, Khai thác vận tải đa phương thức,Vận tải - Thương mại quốc tế, Qui hoạch và quản lý GTVT đô thị, Logistics",
+    "synonyms": [
+      "Ngành Khai thác vận tải gồm 5 chuyên ngành Khai thác vận tải đường sắt đô thị, Khai thác vận tải đa phương thức,Vận tải - Thương mại quốc tế, Qui hoạch và quản lý GTVT đô thị, Logistics"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế vận tải gồm 3 chuyên ngành Kinh tế vận tải ô tô, Kinh tế vận tải đường sắt, Kinh tế vận tải và du lịch",
+    "synonyms": [
+      "Ngành Kinh tế vận tải gồm 3 chuyên ngành Kinh tế vận tải ô tô, Kinh tế vận tải đường sắt, Kinh tế vận tải và du lịch"
+    ]
+  },
+  {
+    "value": "Ngành Toán ứng dụng chuyên ngành Toán - Tin ứng dụng",
+    "synonyms": [
+      "Ngành Toán ứng dụng chuyên ngành Toán - Tin ứng dụng"
+    ]
+  },
+  {
+    "value": "Ngành Công nghệ thông tin",
+    "synonyms": [
+      "Ngành Công nghệ thông tin"
+    ]
+  },
+  {
+    "value": "Ngành Công nghệ kỹ thuật giao thông chuyên ngành Kỹ thuật an toàn giao thông",
+    "synonyms": [
+      "Ngành Công nghệ kỹ thuật giao thông chuyên ngành Kỹ thuật an toàn giao thông"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật môi trường chuyên ngành Kỹ thuật môi trường giao thông",
+    "synonyms": [
+      "Ngành Kỹ thuật môi trường chuyên ngành Kỹ thuật môi trường giao thông"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật cơ khí gồm 2 chuyên ngành Công nghệ chế tạo cơ khí, Tự động hóa thiết kế cơ khí",
+    "synonyms": [
+      "Ngành Kỹ thuật cơ khí gồm 2 chuyên ngành Công nghệ chế tạo cơ khí, Tự động hóa thiết kế cơ khí"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật Cơ điện tử chuyên ngành Cơ điện tử",
+    "synonyms": [
+      "Ngành Kỹ thuật Cơ điện tử chuyên ngành Cơ điện tử"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật nhiệt gồm 2 chuyên ngành Kỹ thuật nhiệt lạnh, Điều hòa không khí và thông gió công trình xây dựng",
+    "synonyms": [
+      "Ngành Kỹ thuật nhiệt gồm 2 chuyên ngành Kỹ thuật nhiệt lạnh, Điều hòa không khí và thông gió công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật cơ khí động lực Chuyên ngành Máy xây dựng",
+    "synonyms": [
+      "Ngành Kỹ thuật cơ khí động lực Chuyên ngành Máy xây dựng"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật cơ khí động lực Nhóm chuyên ngành Cơ giới hóa xây dựng cầu đường, Cơ khí giao thông công chính, Kỹ thuật máy động lực, Đầu máy - toa xe, Tàu điện - metro",
+    "synonyms": [
+      "Ngành Kỹ thuật cơ khí động lực Nhóm chuyên ngành Cơ giới hóa xây dựng cầu đường, Cơ khí giao thông công chính, Kỹ thuật máy động lực, Đầu máy - toa xe, Tàu điện - metro"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật ô tô chuyên ngành Cơ khí ô tô",
+    "synonyms": [
+      "Ngành Kỹ thuật ô tô chuyên ngành Cơ khí ô tô"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điện gồm 2 chuyên ngành Trang bị điện trong công nghiệp và giao thông, Hệ thống điện giao thông và công nghiệp",
+    "synonyms": [
+      "Ngành Kỹ thuật điện gồm 2 chuyên ngành Trang bị điện trong công nghiệp và giao thông, Hệ thống điện giao thông và công nghiệp"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điện tử - viễn thông gồm 3 chuyên ngành Kỹ thuật điện tử và tin học công nghiệp, Kỹ thuật thông tin và truyền thông, Kỹ thuật viễn thông",
+    "synonyms": [
+      "Ngành Kỹ thuật điện tử - viễn thông gồm 3 chuyên ngành Kỹ thuật điện tử và tin học công nghiệp, Kỹ thuật thông tin và truyền thông, Kỹ thuật viễn thông"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điều khiển và tự động hoá gồm 2 chuyên ngành Kỹ thuật điều khiển và tự động hóa giao thông, Tự động hóa",
+    "synonyms": [
+      "Ngành Kỹ thuật điều khiển và tự động hoá gồm 2 chuyên ngành Kỹ thuật điều khiển và tự động hóa giao thông, Tự động hóa"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng gồm 4 chuyên ngành Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Kỹ thuật hạ tầng đô thị, Vật liệu và công nghệ xây dựng",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng gồm 4 chuyên ngành Xây dựng dân dụng và công nghiệp, Kết cấu xây dựng, Kỹ thuật hạ tầng đô thị, Vật liệu và công nghệ xây dựng"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình thủy",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình thủy"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Chuyên ngành Cầu đường bộ",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Chuyên ngành Cầu đường bộ"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường bộ, Kỹ thuật giao thông đường bộ",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường bộ, Kỹ thuật giao thông đường bộ"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Cầu hầm, Đường hầm và metro",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Cầu hầm, Đường hầm và metro"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường sắt, Cầu-Đường sắt, Đường sắt đô thị",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường sắt, Cầu-Đường sắt, Đường sắt đô thị"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường ô tô - Sân bay, Cầu - Đường ô tô - Sân bay",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Đường ô tô - Sân bay, Cầu - Đường ô tô - Sân bay"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Công trình giao thông đô thị, Công trình giao thông công chính ",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Công trình giao thông đô thị, Công trình giao thông công chính "
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Tự động hóa thiết kế cầu đường, Địa kỹ thuật công trình giao thông, Kỹ thuật GIS và trắc địa công trình",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Nhóm chuyên ngành Tự động hóa thiết kế cầu đường, Địa kỹ thuật công trình giao thông, Kỹ thuật GIS và trắc địa công trình"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế xây dựng gồm 2 chuyên ngành Kinh tế quản lý khai thác cầu đường, Kinh tế xây dựng công trình giao thông",
+    "synonyms": [
+      "Ngành Kinh tế xây dựng gồm 2 chuyên ngành Kinh tế quản lý khai thác cầu đường, Kinh tế xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Ngành Quản lý xây dựng",
+    "synonyms": [
+      "Ngành Quản lý xây dựng"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Cầu - Đường bộ Việt – Pháp",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Cầu - Đường bộ Việt – Pháp"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Cầu - Đường bộ Việt – Anh",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Cầu - Đường bộ Việt – Anh"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Công trình Giao thông đô thị Việt - Nhật",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông Chương trình chất lượng cao Công trình Giao thông đô thị Việt - Nhật"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng Chương trình tiên tiến Kỹ thuật xây dựng công trình giao thông",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng Chương trình tiên tiến Kỹ thuật xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng Chương trình chất lượng cao Vật liệu và Công nghệ Xây dựng Việt – Pháp",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng Chương trình chất lượng cao Vật liệu và Công nghệ Xây dựng Việt – Pháp"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế xây dựng Chương trình chất lượng cao Kinh tế xây dựng công trình Giao thông Việt - Anh",
+    "synonyms": [
+      "Ngành Kinh tế xây dựng Chương trình chất lượng cao Kinh tế xây dựng công trình Giao thông Việt - Anh"
+    ]
+  },
+  {
+    "value": "Ngành Kế toán Chương trình chất lượng cao Kế toán tổng hợp Việt - Anh",
+    "synonyms": [
+      "Ngành Kế toán Chương trình chất lượng cao Kế toán tổng hợp Việt - Anh"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật cơ khí động lực, Kỹ thuật Cơ điện tử"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật ô tô",
+    "synonyms": [
+      "Ngành Kỹ thuật ô tô"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điện",
+    "synonyms": [
+      "Ngành Kỹ thuật điện"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điện tử - viễn thông",
+    "synonyms": [
+      "Ngành Kỹ thuật điện tử - viễn thông"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật điều khiển và tự động hoá",
+    "synonyms": [
+      "Ngành Kỹ thuật điều khiển và tự động hoá"
+    ]
+  },
+  {
+    "value": "Ngành Kế toán",
+    "synonyms": [
+      "Ngành Kế toán"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế",
+    "synonyms": [
+      "Ngành Kinh tế"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế vận tải",
+    "synonyms": [
+      "Ngành Kinh tế vận tải"
+    ]
+  },
+  {
+    "value": "Ngành Kinh tế xây dựng",
+    "synonyms": [
+      "Ngành Kinh tế xây dựng"
+    ]
+  },
+  {
+    "value": "Ngành Quản trị kinh doanh",
+    "synonyms": [
+      "Ngành Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Ngành Khai thác vận tải",
+    "synonyms": [
+      "Ngành Khai thác vận tải"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật xây dựng công trình giao thông",
+    "synonyms": [
+      "Ngành Kỹ thuật xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Khai thác vận tải",
+    "synonyms": [
+      "Khai thác vận tải"
+    ]
+  },
+  {
+    "value": "Logistics và vận tải đa phương thức TN",
+    "synonyms": [
+      "Logistics và vận tải đa phương thức TN"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật giao thông",
+    "synonyms": [
+      "Công nghệ kỹ thuật giao thông"
+    ]
+  },
+  {
+    "value": "Logistics và quản lý chuỗi cung ứng VP",
+    "synonyms": [
+      "Logistics và quản lý chuỗi cung ứng VP"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí Chuyên ngành Cơ giới hoá xếp dỡ, Cơ khí ô tô, Máy xây dựng, Cơ khí tự động",
+    "synonyms": [
+      "Kỹ thuật cơ khí Chuyên ngành Cơ giới hoá xếp dỡ, Cơ khí ô tô, Máy xây dựng, Cơ khí tự động"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí Chuyên ngành Cơ khí ô tô",
+    "synonyms": [
+      "Kỹ thuật cơ khí Chuyên ngành Cơ khí ô tô"
+    ]
+  },
+  {
+    "value": "Kỹ thuật tàu thuỷ Chuyên ngành Thiết kế thân tàu thuỷ, Công nghệ đóng tàu thuỷ, Kỹ thuật công trình ngoài khơi",
+    "synonyms": [
+      "Kỹ thuật tàu thuỷ Chuyên ngành Thiết kế thân tàu thuỷ, Công nghệ đóng tàu thuỷ, Kỹ thuật công trình ngoài khơi"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện Chuyên ngành Điện và tự động tàu thuỷ, Điện công nghiệp, Hệ thống điện giao thông",
+    "synonyms": [
+      "Kỹ thuật điện Chuyên ngành Điện và tự động tàu thuỷ, Điện công nghiệp, Hệ thống điện giao thông"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử - viễn thông Chuyên ngành Điện tử viễn thông",
+    "synonyms": [
+      "Kỹ thuật điện tử - viễn thông Chuyên ngành Điện tử viễn thông"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điều khiển và tự động hoá Chuyên ngành Tự động hoá công nghiệp",
+    "synonyms": [
+      "Kỹ thuật điều khiển và tự động hoá Chuyên ngành Tự động hoá công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng Chuyên ngành Xây dựng dân dụng và công nghiệp, Kỹ thuật kết cấu công trình, Kỹ thuật nền móng và công trình ngầm",
+    "synonyms": [
+      "Kỹ thuật xây dựng Chuyên ngành Xây dựng dân dụng và công nghiệp, Kỹ thuật kết cấu công trình, Kỹ thuật nền móng và công trình ngầm"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình thủy Chuyên ngành Xây dựng công trình thủy - Thềm lục địa",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình thủy Chuyên ngành Xây dựng công trình thủy - Thềm lục địa"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình giao thông Chuyên ngành Xây dựng công trình thủy - Thềm lục địa, Xây dựng cầu đường, Quy hoạch và thiết kế công trình giao thông, Xây dựng đường sắt - Metro, Xây dựng cầu hầm, Xây dựng đường bộ",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình giao thông Chuyên ngành Xây dựng công trình thủy - Thềm lục địa, Xây dựng cầu đường, Quy hoạch và thiết kế công trình giao thông, Xây dựng đường sắt - Metro, Xây dựng cầu hầm, Xây dựng đường bộ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình giao thông Chuyên ngành Xây dựng cầu đường",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình giao thông Chuyên ngành Xây dựng cầu đường"
+    ]
+  },
+  {
+    "value": "Khai thác vận tải Chuyên ngành Quản trị Logistics và Vận tải đa phương thức",
+    "synonyms": [
+      "Khai thác vận tải Chuyên ngành Quản trị Logistics và Vận tải đa phương thức"
+    ]
+  },
+  {
+    "value": "Kinh tế vận tải",
+    "synonyms": [
+      "Kinh tế vận tải"
+    ]
+  },
+  {
+    "value": "Khoa học hàng hải Chuyên ngành Điều khiển tàu biển",
+    "synonyms": [
+      "Khoa học hàng hải Chuyên ngành Điều khiển tàu biển"
+    ]
+  },
+  {
+    "value": "Khoa học hàng hải Chuyên ngành Vận hành khai thác máy tàu thủy",
+    "synonyms": [
+      "Khoa học hàng hải Chuyên ngành Vận hành khai thác máy tàu thủy"
+    ]
+  },
+  {
+    "value": "Khoa học hàng hải Chuyên ngành Quản lý hàng hải",
+    "synonyms": [
+      "Khoa học hàng hải Chuyên ngành Quản lý hàng hải"
+    ]
+  },
+  {
+    "value": "Khoa học hàng hải Chuyên ngành Công nghệ máy tàu thủy",
+    "synonyms": [
+      "Khoa học hàng hải Chuyên ngành Công nghệ máy tàu thủy"
+    ]
+  },
+  {
+    "value": "Kinh tế, chuyên ngành Quản lý kinh tế",
+    "synonyms": [
+      "Kinh tế, chuyên ngành Quản lý kinh tế"
+    ]
+  },
+  {
+    "value": "Kinh tế, chuyên ngành Kinh tế và Quản lý chất lượng cao",
+    "synonyms": [
+      "Kinh tế, chuyên ngành Kinh tế và Quản lý chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh tế, chuyên ngành Kinh tế và Quản lý",
+    "synonyms": [
+      "Kinh tế, chuyên ngành Kinh tế và Quản lý"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng – văn hóa",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Quản lý hoạt động tư tưởng – văn hóa"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Chính trị phát triển",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Chính trị phát triển"
+    ]
+  },
+  {
+    "value": "Ngành Quản lý nhà nước, chuyên ngành Quản lý xã hội",
+    "synonyms": [
+      "Ngành Quản lý nhà nước, chuyên ngành Quản lý xã hội"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Tư tưởng Hồ Chí Minh"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Văn hóa phát triển",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Văn hóa phát triển"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Chính sách công",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Chính sách công"
+    ]
+  },
+  {
+    "value": "Ngành Quản lý nhà nước, chuyên ngành Quản lý hành chính nhà nước",
+    "synonyms": [
+      "Ngành Quản lý nhà nước, chuyên ngành Quản lý hành chính nhà nước"
+    ]
+  },
+  {
+    "value": "Chính trị học, chuyên ngành Truyền thông chính sách",
+    "synonyms": [
+      "Chính trị học, chuyên ngành Truyền thông chính sách"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo in",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo in"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Ảnh báo chí",
+    "synonyms": [
+      "Báo chí, chuyên ngành Ảnh báo chí"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo phát thanh",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo phát thanh"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo truyền hình",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo truyền hình"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo mạng điện tử",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo mạng điện tử"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo truyền hình chất lượng cao",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo truyền hình chất lượng cao"
+    ]
+  },
+  {
+    "value": "Báo chí, chuyên ngành Báo mạng điện tử chất lượng cao",
+    "synonyms": [
+      "Báo chí, chuyên ngành Báo mạng điện tử chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại",
+    "synonyms": [
+      "Quan hệ quốc tế, chuyên ngành Thông tin đối ngoại"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế",
+    "synonyms": [
+      "Quan hệ quốc tế, chuyên ngành Quan hệ chính trị và Truyền thông quốc tế"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu chất lượng cao",
+    "synonyms": [
+      "Quan hệ quốc tế, chuyên ngành Quan hệ quốc tế và Truyền thông toàn cầu chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp",
+    "synonyms": [
+      "Quan hệ công chúng, chuyên ngành Quan hệ công chúng chuyên nghiệp"
+    ]
+  },
+  {
+    "value": "Quan hệ công chúng, chuyên ngành Truyền thông marketing chất lượng cao",
+    "synonyms": [
+      "Quan hệ công chúng, chuyên ngành Truyền thông marketing chất lượng cao"
+    ]
+  },
+  {
+    "value": "Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam",
+    "synonyms": [
+      "Lịch sử, chuyên ngành Lịch sử Đảng Cộng sản Việt Nam"
+    ]
+  },
+  {
+    "value": "Truyền thông đại chúng",
+    "synonyms": [
+      "Truyền thông đại chúng"
+    ]
+  },
+  {
+    "value": "Truyền thông quốc tế",
+    "synonyms": [
+      "Truyền thông quốc tế"
+    ]
+  },
+  {
+    "value": "Quảng cáo",
+    "synonyms": [
+      "Quảng cáo"
+    ]
+  },
+  {
+    "value": "Xuất bản, chuyên ngành Biên tập xuất bản",
+    "synonyms": [
+      "Xuất bản, chuyên ngành Biên tập xuất bản"
+    ]
+  },
+  {
+    "value": "Xuất bản, chuyên ngành Xuất bản điện tử",
+    "synonyms": [
+      "Xuất bản, chuyên ngành Xuất bản điện tử"
+    ]
+  },
+  {
+    "value": "Giáo dục mầm",
+    "synonyms": [
+      "Giáo dục mầm"
+    ]
+  },
+  {
+    "value": "Công nghệ điện ảnh, truyền hình",
+    "synonyms": [
+      "Công nghệ điện ảnh, truyền hình"
+    ]
+  },
+  {
+    "value": "Thiết kế đồ hoạ",
+    "synonyms": [
+      "Thiết kế đồ hoạ"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế",
+    "synonyms": [
+      "Quan hệ quốc tế"
+    ]
+  },
+  {
+    "value": "Trung Quốc học",
+    "synonyms": [
+      "Trung Quốc học"
+    ]
+  },
+  {
+    "value": "Nhật Bản học",
+    "synonyms": [
+      "Nhật Bản học"
+    ]
+  },
+  {
+    "value": "Hàn Quốc học",
+    "synonyms": [
+      "Hàn Quốc học"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh chương trình liên kết Đại học nước ngoài",
+    "synonyms": [
+      "Quản trị kinh doanh chương trình liên kết Đại học nước ngoài"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin chương trình liên kết Đại học nước ngoài",
+    "synonyms": [
+      "Công nghệ thông tin chương trình liên kết Đại học nước ngoài"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện - viễn thông",
+    "synonyms": [
+      "Kỹ thuật điện - viễn thông"
+    ]
+  },
+  {
+    "value": "Răng hàm mặt",
+    "synonyms": [
+      "Răng hàm mặt",
+      "rhm"
+    ]
+  },
+  {
+    "value": "Quản trị khách sạn chương trình liên kết Đại học nước ngoài",
+    "synonyms": [
+      "Quản trị khách sạn chương trình liên kết Đại học nước ngoài"
+    ]
+  },
+  {
+    "value": "Kinh tế quốc tế",
+    "synonyms": [
+      "Kinh tế quốc tế"
+    ]
+  },
+  {
+    "value": "Hậu cần quân sự - Thí sinh Nam miền Bắc",
+    "synonyms": [
+      "Hậu cần quân sự - Thí sinh Nam miền Bắc"
+    ]
+  },
+  {
+    "value": "Hậu cần quân sự - Thí sinh Nam miền Nam",
+    "synonyms": [
+      "Hậu cần quân sự - Thí sinh Nam miền Nam"
+    ]
+  },
+  {
+    "value": "Hậu cần quân sự - Thí sinh Nữ miền Bắc",
+    "synonyms": [
+      "Hậu cần quân sự - Thí sinh Nữ miền Bắc"
+    ]
+  },
+  {
+    "value": "Hậu cần quân sự - Thí sinh Nữ miền Nam",
+    "synonyms": [
+      "Hậu cần quân sự - Thí sinh Nữ miền Nam"
+    ]
+  },
+  {
+    "value": "Ngành Chỉ huy Kỹ thuật Hóa học",
+    "synonyms": [
+      "Ngành Chỉ huy Kỹ thuật Hóa học"
+    ]
+  },
+  {
+    "value": "Tiếng Anh thương mại",
+    "synonyms": [
+      "Tiếng Anh thương mại"
+    ]
+  },
+  {
+    "value": "Quản lý kinh doanh và Marketing",
+    "synonyms": [
+      "Quản lý kinh doanh và Marketing"
+    ]
+  },
+  {
+    "value": "Quản trị tài chính kế toán",
+    "synonyms": [
+      "Quản trị tài chính kế toán"
+    ]
+  },
+  {
+    "value": "QUản trị tài chính ngân hàng",
+    "synonyms": [
+      "QUản trị tài chính ngân hàng"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế và logistics",
+    "synonyms": [
+      "Kinh doanh quốc tế và logistics"
+    ]
+  },
+  {
+    "value": "Kinh tế ngoại thương",
+    "synonyms": [
+      "Kinh tế ngoại thương"
+    ]
+  },
+  {
+    "value": "Kinh tế ngoại thương Chất lượng cao",
+    "synonyms": [
+      "Kinh tế ngoại thương Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Luật hàng hải",
+    "synonyms": [
+      "Luật hàng hải"
+    ]
+  },
+  {
+    "value": "Công nghệ phần mềm",
+    "synonyms": [
+      "Công nghệ phần mềm"
+    ]
+  },
+  {
+    "value": "Kỹ thuật truyền thông và mạng máy tính",
+    "synonyms": [
+      "Kỹ thuật truyền thông và mạng máy tính"
+    ]
+  },
+  {
+    "value": "Máy và tự động hóa xếp dỡ",
+    "synonyms": [
+      "Máy và tự động hóa xếp dỡ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật nhiệt lạnh",
+    "synonyms": [
+      "Kỹ thuật nhiệt lạnh"
+    ]
+  },
+  {
+    "value": "Máy và tự động công nghiệp",
+    "synonyms": [
+      "Máy và tự động công nghiệp"
+    ]
+  },
+  {
+    "value": "Máy tàu thủy",
+    "synonyms": [
+      "Máy tàu thủy"
+    ]
+  },
+  {
+    "value": "Thiết kế tàu và công trình ngoài khơi",
+    "synonyms": [
+      "Thiết kế tàu và công trình ngoài khơi"
+    ]
+  },
+  {
+    "value": "Đóng tàu và công trình ngoài khơi",
+    "synonyms": [
+      "Đóng tàu và công trình ngoài khơi"
+    ]
+  },
+  {
+    "value": "Điện tử viễn thông",
+    "synonyms": [
+      "Điện tử viễn thông"
+    ]
+  },
+  {
+    "value": "ĐIện tự động tàu thủy",
+    "synonyms": [
+      "ĐIện tự động tàu thủy"
+    ]
+  },
+  {
+    "value": "Điện tự động công nghiệp",
+    "synonyms": [
+      "Điện tự động công nghiệp"
+    ]
+  },
+  {
+    "value": "Tự động hóa hệ thống điện",
+    "synonyms": [
+      "Tự động hóa hệ thống điện"
+    ]
+  },
+  {
+    "value": "Điện tự động công nghiệp  chất lượng cao",
+    "synonyms": [
+      "Điện tự động công nghiệp  chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công nghệ hóa học",
+    "synonyms": [
+      "Kỹ thuật công nghệ hóa học"
+    ]
+  },
+  {
+    "value": "Xây dựng dân dụng và công nghiệp",
+    "synonyms": [
+      "Xây dựng dân dụng và công nghiệp"
+    ]
+  },
+  {
+    "value": "Kiến trúc và nội thất",
+    "synonyms": [
+      "Kiến trúc và nội thất"
+    ]
+  },
+  {
+    "value": "Quản lý công trình xây dựng",
+    "synonyms": [
+      "Quản lý công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Xây dựng công trình thủy",
+    "synonyms": [
+      "Xây dựng công trình thủy"
+    ]
+  },
+  {
+    "value": "Kỹ thuật an toàn hàng hải",
+    "synonyms": [
+      "Kỹ thuật an toàn hàng hải"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cầu đường",
+    "synonyms": [
+      "Kỹ thuật cầu đường"
+    ]
+  },
+  {
+    "value": "Kinh tế hàng hải",
+    "synonyms": [
+      "Kinh tế hàng hải"
+    ]
+  },
+  {
+    "value": "Kinh tế vận tải biển",
+    "synonyms": [
+      "Kinh tế vận tải biển"
+    ]
+  },
+  {
+    "value": "Logistics và chuỗi cung ứng",
+    "synonyms": [
+      "Logistics và chuỗi cung ứng"
+    ]
+  },
+  {
+    "value": "Kinh tế vận tải thủy",
+    "synonyms": [
+      "Kinh tế vận tải thủy"
+    ]
+  },
+  {
+    "value": "Kinh tế vận tải biển  Chất lượng cao",
+    "synonyms": [
+      "Kinh tế vận tải biển  Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Khai thác máy tàu biển",
+    "synonyms": [
+      "Khai thác máy tàu biển"
+    ]
+  },
+  {
+    "value": "Điều khiển tàu biển",
+    "synonyms": [
+      "Điều khiển tàu biển"
+    ]
+  },
+  {
+    "value": "Quản lý hàng hải",
+    "synonyms": [
+      "Quản lý hàng hải"
+    ]
+  },
+  {
+    "value": "Quản lý hoạt động bay",
+    "synonyms": [
+      "Quản lý hoạt động bay"
+    ]
+  },
+  {
+    "value": "Cao đẳng Giáo dục tiểu học",
+    "synonyms": [
+      "Cao đẳng Giáo dục tiểu học"
+    ]
+  },
+  {
+    "value": "Giáo dục tiểu học CĐ",
+    "synonyms": [
+      "Giáo dục tiểu học CĐ"
+    ]
+  },
+  {
+    "value": "Giáo dục Thể chất CĐ",
+    "synonyms": [
+      "Giáo dục Thể chất CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Hóa học CĐ",
+    "synonyms": [
+      "Sư phạm Hóa học CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Sinh học CĐ",
+    "synonyms": [
+      "Sư phạm Sinh học CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Địa lý CĐ",
+    "synonyms": [
+      "Sư phạm Địa lý CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Anh CĐ",
+    "synonyms": [
+      "Sư phạm Tiếng Anh CĐ"
+    ]
+  },
+  {
+    "value": "Giáo dục đặc biệt",
+    "synonyms": [
+      "Giáo dục đặc biệt"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật Lý",
+    "synonyms": [
+      "Sư phạm Vật Lý"
+    ]
+  },
+  {
+    "value": "Khoa học dữ liệu",
+    "synonyms": [
+      "Khoa học dữ liệu"
+    ]
+  },
+  {
+    "value": "Công nghệ công trình xây dựng",
+    "synonyms": [
+      "Công nghệ công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật hệ thống công nghiệp",
+    "synonyms": [
+      "Kỹ thuật hệ thống công nghiệp"
+    ]
+  },
+  {
+    "value": "Thông kê kinh tế",
+    "synonyms": [
+      "Thông kê kinh tế"
+    ]
+  },
+  {
+    "value": "Quản lý dự án",
+    "synonyms": [
+      "Quản lý dự án"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh  E BBA",
+    "synonyms": [
+      "Quản trị kinh doanh  E BBA"
+    ]
+  },
+  {
+    "value": "Khởi nghiệp và phát triển kinh doanh BBAE - tiếng Anh hệ số 2",
+    "synonyms": [
+      "Khởi nghiệp và phát triển kinh doanh BBAE - tiếng Anh hệ số 2"
+    ]
+  },
+  {
+    "value": "Định phí Bảo hiểm \u0026 Quản trị rủi ro Actuary",
+    "synonyms": [
+      "Định phí Bảo hiểm \u0026 Quản trị rủi ro Actuary"
+    ]
+  },
+  {
+    "value": "Khoa học dữ liệu trong Kinh tế \u0026 Kinh doanh DSEB",
+    "synonyms": [
+      "Khoa học dữ liệu trong Kinh tế \u0026 Kinh doanh DSEB"
+    ]
+  },
+  {
+    "value": "Kế toán tích hợp chứng chỉ quốc tế ICAEW CFAB",
+    "synonyms": [
+      "Kế toán tích hợp chứng chỉ quốc tế ICAEW CFAB"
+    ]
+  },
+  {
+    "value": "Kinh doanh số E-BDB",
+    "synonyms": [
+      "Kinh doanh số E-BDB"
+    ]
+  },
+  {
+    "value": "Phân tích kinh doanh BA",
+    "synonyms": [
+      "Phân tích kinh doanh BA"
+    ]
+  },
+  {
+    "value": "Quản trị điều hành thông minh E-SOM",
+    "synonyms": [
+      "Quản trị điều hành thông minh E-SOM"
+    ]
+  },
+  {
+    "value": "Quản trị chất lượng và Đổi mới E-MQI",
+    "synonyms": [
+      "Quản trị chất lượng và Đổi mới E-MQI"
+    ]
+  },
+  {
+    "value": "Công nghệ tài chính BFT",
+    "synonyms": [
+      "Công nghệ tài chính BFT"
+    ]
+  },
+  {
+    "value": "Đầu tư tài chính BFI - tiếng Anh hệ số 2",
+    "synonyms": [
+      "Đầu tư tài chính BFI - tiếng Anh hệ số 2"
+    ]
+  },
+  {
+    "value": "Quản trị khách sạn quốc tế IHME - tiếng Anh hệ số 2",
+    "synonyms": [
+      "Quản trị khách sạn quốc tế IHME - tiếng Anh hệ số 2"
+    ]
+  },
+  {
+    "value": "Quản lý công và Chính sách E-PMP",
+    "synonyms": [
+      "Quản lý công và Chính sách E-PMP"
+    ]
+  },
+  {
+    "value": "Các chương trình định hướng ứng dụng POHE - tiếng Anh hệ số 2",
+    "synonyms": [
+      "Các chương trình định hướng ứng dụng POHE - tiếng Anh hệ số 2"
+    ]
+  },
+  {
+    "value": "Chuyên ngành quản trị bệnh viện",
+    "synonyms": [
+      "Chuyên ngành quản trị bệnh viện"
+    ]
+  },
+  {
+    "value": "Tài chính",
+    "synonyms": [
+      "Tài chính"
+    ]
+  },
+  {
+    "value": "Luật quốc tế",
+    "synonyms": [
+      "Luật quốc tế"
+    ]
+  },
+  {
+    "value": "Ngành Chỉ huy tham mưu Lục quân",
+    "synonyms": [
+      "Ngành Chỉ huy tham mưu Lục quân"
+    ]
+  },
+  {
+    "value": "Ngành Quân sự cơ sở",
+    "synonyms": [
+      "Ngành Quân sự cơ sở"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh chất lượng cao",
+    "synonyms": [
+      "Ngôn ngữ Anh chất lượng cao"
+    ]
+  },
+  {
+    "value": "Đông Nam Á học",
+    "synonyms": [
+      "Đông Nam Á học"
+    ]
+  },
+  {
+    "value": "Luật kinh tế Chất lượng cao",
+    "synonyms": [
+      "Luật kinh tế Chất lượng cao"
+    ]
+  },
+  {
+    "value": "CNKT công trình xây dựng",
+    "synonyms": [
+      "CNKT công trình xây dựng"
+    ]
+  },
+  {
+    "value": "CNKT công trình xây dựng Chất lượng cao",
+    "synonyms": [
+      "CNKT công trình xây dựng Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh chuyên ngành Tiếng Anh thương mại.",
+    "synonyms": [
+      "Ngôn ngữ Anh chuyên ngành Tiếng Anh thương mại."
+    ]
+  },
+  {
+    "value": "Chương trình cử nhân chất lượng cao Ngành Tài chính - Ngân hàng, Ngành Kế toán, Ngành Quản trị kinh doanh",
+    "synonyms": [
+      "Chương trình cử nhân chất lượng cao Ngành Tài chính - Ngân hàng, Ngành Kế toán, Ngành Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh",
+    "synonyms": [
+      "Chương trình đại học chính quy quốc tế cấp song bằng ngành Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh gồm 2 chuyên ngành Quản trị kinh doanh và Marketing.",
+    "synonyms": [
+      "Quản trị kinh doanh gồm 2 chuyên ngành Quản trị kinh doanh và Marketing."
+    ]
+  },
+  {
+    "value": "Tài chính – Ngân hàng gồm 2 chuyên ngành Tài chính và chuyên ngành Ngân hàng.",
+    "synonyms": [
+      "Tài chính – Ngân hàng gồm 2 chuyên ngành Tài chính và chuyên ngành Ngân hàng."
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin quản lý gồm 2 chuyên ngành Thương mại điện tử và Hệ thống thông tin doanh nghiệp.",
+    "synonyms": [
+      "Hệ thống thông tin quản lý gồm 2 chuyên ngành Thương mại điện tử và Hệ thống thông tin doanh nghiệp."
+    ]
+  },
+  {
+    "value": "Kinh tế, Kinh tế quốc tế và Luật",
+    "synonyms": [
+      "Kinh tế, Kinh tế quốc tế và Luật"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế và Quản trị kinh doanh",
+    "synonyms": [
+      "Kinh doanh quốc tế và Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Tài chính ngân hàng và Kế toán",
+    "synonyms": [
+      "Tài chính ngân hàng và Kế toán"
+    ]
+  },
+  {
+    "value": "Ngôn Ngữ Nhật",
+    "synonyms": [
+      "Ngôn Ngữ Nhật"
+    ]
+  },
+  {
+    "value": "Kinh tế và Quản trị kinh doanh",
+    "synonyms": [
+      "Kinh tế và Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Tài chính - ngân hàng và Kế toán",
+    "synonyms": [
+      "Tài chính - ngân hàng và Kế toán"
+    ]
+  },
+  {
+    "value": "Diễn viên kịch, điện ảnh-truyền hình",
+    "synonyms": [
+      "Diễn viên kịch, điện ảnh-truyền hình"
+    ]
+  },
+  {
+    "value": "Tiếng Việt và Văn hóa Việt Nam",
+    "synonyms": [
+      "Tiếng Việt và Văn hóa Việt Nam"
+    ]
+  },
+  {
+    "value": "Tiếng Việt và Văn hoá Việt Nam",
+    "synonyms": [
+      "Tiếng Việt và Văn hoá Việt Nam"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện, điện tử",
+    "synonyms": [
+      "Kỹ thuật điện, điện tử"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện, điển tử",
+    "synonyms": [
+      "Kỹ thuật điện, điển tử"
+    ]
+  },
+  {
+    "value": "Vật lý y khoa",
+    "synonyms": [
+      "Vật lý y khoa"
+    ]
+  },
+  {
+    "value": "Quản trị khách sản",
+    "synonyms": [
+      "Quản trị khách sản"
+    ]
+  },
+  {
+    "value": "Ngành Kỹ thuật hàng không",
+    "synonyms": [
+      "Ngành Kỹ thuật hàng không"
+    ]
+  },
+  {
+    "value": "Ngành Chỉ huy tham mưu Phòng không, Không quân và Tác chiến điện tử",
+    "synonyms": [
+      "Ngành Chỉ huy tham mưu Phòng không, Không quân và Tác chiến điện tử"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Máy tính",
+    "synonyms": [
+      "Kỹ thuật Máy tính"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Điện, Kỹ thuật Điện tử - Viễn thông, Kỹ thuật Điều khiển \u0026 Tự động hóa",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Điện, Kỹ thuật Điện tử - Viễn thông, Kỹ thuật Điều khiển \u0026 Tự động hóa"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Cơ khí, Kỹ thuật Cơ Điện tử",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Cơ khí, Kỹ thuật Cơ Điện tử"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Dệt - May",
+    "synonyms": [
+      "Nhóm ngành Dệt - May"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Hóa học, Công nghệ Thực phẩm, Công nghệ Sinh học",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Hóa học, Công nghệ Thực phẩm, Công nghệ Sinh học"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Xây dựng, Kỹ thuật Xây dựng Công trình Giao thông, Kỹ thuật Xây dựng Công trình Thủy, Kỹ thuật Xây dựng Công trình Biển, Kỹ thuật Cơ sở Hạ tầng",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Xây dựng, Kỹ thuật Xây dựng Công trình Giao thông, Kỹ thuật Xây dựng Công trình Thủy, Kỹ thuật Xây dựng Công trình Biển, Kỹ thuật Cơ sở Hạ tầng"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Địa chất, Kỹ thuật Dầu khí",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Địa chất, Kỹ thuật Dầu khí"
+    ]
+  },
+  {
+    "value": "Quản lý Công nghiệp",
+    "synonyms": [
+      "Quản lý Công nghiệp"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Quản lý Tài nguyên \u0026 Môi trường, Kỹ thuật Môi trường",
+    "synonyms": [
+      "Nhóm ngành Quản lý Tài nguyên \u0026 Môi trường, Kỹ thuật Môi trường"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Hệ thống Công nghiệp, Logistics \u0026 Quản lý Chuỗi cung ứng",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Hệ thống Công nghiệp, Logistics \u0026 Quản lý Chuỗi cung ứng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Vật liệu",
+    "synonyms": [
+      "Kỹ thuật Vật liệu"
+    ]
+  },
+  {
+    "value": "Công nghệ Kỹ thuật Vật liệu Xây dựng",
+    "synonyms": [
+      "Công nghệ Kỹ thuật Vật liệu Xây dựng"
+    ]
+  },
+  {
+    "value": "Cơ kỹ thuật",
+    "synonyms": [
+      "Cơ kỹ thuật"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Nhiệt Nhiệt lạnh",
+    "synonyms": [
+      "Kỹ thuật Nhiệt Nhiệt lạnh"
+    ]
+  },
+  {
+    "value": "Bảo dưỡng Công nghiệp",
+    "synonyms": [
+      "Bảo dưỡng Công nghiệp"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật Tàu thủy; Kỹ thuật Hàng không",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật Tàu thủy",
+      " Kỹ thuật Hàng không"
+    ]
+  },
+  {
+    "value": "Khoa học Máy tính Chương trình Chất lượng cao",
+    "synonyms": [
+      "Khoa học Máy tính Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Máy tính Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Máy tính Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện - Điện tử Chương trình Tiên tiến",
+    "synonyms": [
+      "Kỹ thuật Điện - Điện tử Chương trình Tiên tiến"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Cơ khí Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Cơ khí Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Cơ Điện tử Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Cơ Điện tử Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Hóa học Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Hóa học Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Công trình Xây dựng; Kỹ thuật Xây dựng Công trình Giao thông Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Công trình Xây dựng",
+      " Kỹ thuật Xây dựng Công trình Giao thông Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ Thực phẩm Chương trình Chất lượng cao",
+    "synonyms": [
+      "Công nghệ Thực phẩm Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Dầu khí Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Dầu khí Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản lý Công nghiệp Chương trình Chất lượng cao",
+    "synonyms": [
+      "Quản lý Công nghiệp Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản lý Tài nguyên \u0026 Môi trường Chương trình Chất lượng cao",
+    "synonyms": [
+      "Quản lý Tài nguyên \u0026 Môi trường Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Ô tô Chương trình Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật Ô tô Chương trình Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Thương mại điện tử chất lượng cao",
+    "synonyms": [
+      "Thương mại điện tử chất lượng cao"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính chất lượng cao",
+    "synonyms": [
+      "Khoa học máy tính chất lượng cao"
+    ]
+  },
+  {
+    "value": "Mạng máy tính và truyền thông dữ liệu chất lượng cao",
+    "synonyms": [
+      "Mạng máy tính và truyền thông dữ liệu chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật phần mềm chất lượng cao"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin chất lượng cao",
+    "synonyms": [
+      "Hệ thống thông tin chất lượng cao"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin tiên tiến",
+    "synonyms": [
+      "Hệ thống thông tin tiên tiến"
+    ]
+  },
+  {
+    "value": "Kỹ thuật máy tính chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật máy tính chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre",
+    "synonyms": [
+      "Công nghệ thông tin Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin chất lượng cao định hướng Nhật Bản",
+    "synonyms": [
+      "Công nghệ thông tin chất lượng cao định hướng Nhật Bản"
+    ]
+  },
+  {
+    "value": "An toàn thông tin chất lượng cao",
+    "synonyms": [
+      "An toàn thông tin chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh tế học",
+    "synonyms": [
+      "Kinh tế học"
+    ]
+  },
+  {
+    "value": "Kinh tế học Chất lượng cao",
+    "synonyms": [
+      "Kinh tế học Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh tế và Quản lý Công",
+    "synonyms": [
+      "Kinh tế và Quản lý Công"
+    ]
+  },
+  {
+    "value": "Kinh tế và Quản lý Công Chất lượng cao",
+    "synonyms": [
+      "Kinh tế và Quản lý Công Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh tế đối ngoại",
+    "synonyms": [
+      "Kinh tế đối ngoại"
+    ]
+  },
+  {
+    "value": "Kinh tế đối ngoại Chất lượng cao",
+    "synonyms": [
+      "Kinh tế đối ngoại Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Chất lượng cao",
+    "synonyms": [
+      "Quản trị kinh doanh Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Chất lượng cao bằng tiếng Anh",
+    "synonyms": [
+      "Quản trị kinh doanh Chất lượng cao bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Marketing Chất lượng cao",
+    "synonyms": [
+      "Marketing Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế Chất lượng cao",
+    "synonyms": [
+      "Kinh doanh quốc tế Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế Chất lượng cao bằng tiếng Anh",
+    "synonyms": [
+      "Kinh doanh quốc tế Chất lượng cao bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Tài chính – Ngân hàng Chất lượng cao bằng tiếng Anh",
+    "synonyms": [
+      "Tài chính – Ngân hàng Chất lượng cao bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ tài chính chất lượng cao",
+    "synonyms": [
+      "Công nghệ tài chính chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kế toán Chất lượng cao bằng tiếng Anh",
+    "synonyms": [
+      "Kế toán Chất lượng cao bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kiểm toán Chất lượng cao",
+    "synonyms": [
+      "Kiểm toán Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin quản lý Chất lượng cao",
+    "synonyms": [
+      "Hệ thống thông tin quản lý Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Luật dân sự",
+    "synonyms": [
+      "Luật dân sự"
+    ]
+  },
+  {
+    "value": "Luật dân sự Chất lượng cao",
+    "synonyms": [
+      "Luật dân sự Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Luật tài chính - Ngân hàng",
+    "synonyms": [
+      "Luật tài chính - Ngân hàng"
+    ]
+  },
+  {
+    "value": "Luật tài chính - Ngân hàng Chất lượng cao",
+    "synonyms": [
+      "Luật tài chính - Ngân hàng Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Luật tài chính - Ngân hàng CLC tăng cường Tiếng Pháp",
+    "synonyms": [
+      "Luật tài chính - Ngân hàng CLC tăng cường Tiếng Pháp"
+    ]
+  },
+  {
+    "value": "Luật kinh doanh",
+    "synonyms": [
+      "Luật kinh doanh"
+    ]
+  },
+  {
+    "value": "Luật kinh doanh Chất lượng cao",
+    "synonyms": [
+      "Luật kinh doanh Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Luật thương mại quốc tế",
+    "synonyms": [
+      "Luật thương mại quốc tế"
+    ]
+  },
+  {
+    "value": "Luật thương mại quốc tế Chất lượng cao",
+    "synonyms": [
+      "Luật thương mại quốc tế Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Quản trị Kinh doanh Chương trình liên kết",
+    "synonyms": [
+      "Quản trị Kinh doanh Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Công nghệ Sinh học Chương trình liên kết",
+    "synonyms": [
+      "Công nghệ Sinh học Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Hóa học Hóa sinh",
+    "synonyms": [
+      "Hóa học Hóa sinh"
+    ]
+  },
+  {
+    "value": "Toán Ứng dụng Kỹ thuật Tài chính và Quản trị rủi ro",
+    "synonyms": [
+      "Toán Ứng dụng Kỹ thuật Tài chính và Quản trị rủi ro"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Máy tính Chương trình liên kết",
+    "synonyms": [
+      "Kỹ thuật Máy tính Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông tin Chương trình liên kết",
+    "synonyms": [
+      "Công nghệ Thông tin Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Hệ thống công nghiệp Chương trình liên kết",
+    "synonyms": [
+      "Kỹ thuật Hệ thống công nghiệp Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Không gian",
+    "synonyms": [
+      "Kỹ thuật Không gian"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện tử Viễn thông Chương trình liên kết",
+    "synonyms": [
+      "Kỹ thuật Điện tử Viễn thông Chương trình liên kết"
+    ]
+  },
+  {
+    "value": "Sinh học",
+    "synonyms": [
+      "Sinh học"
+    ]
+  },
+  {
+    "value": "Công nghệ Sinh học Chất lượng cao",
+    "synonyms": [
+      "Công nghệ Sinh học Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Hoá học",
+    "synonyms": [
+      "Hoá học"
+    ]
+  },
+  {
+    "value": "Hoá học Việt - Pháp",
+    "synonyms": [
+      "Hoá học Việt - Pháp"
+    ]
+  },
+  {
+    "value": "Hải dương học",
+    "synonyms": [
+      "Hải dương học"
+    ]
+  },
+  {
+    "value": "Khoa học Môi trường Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre",
+    "synonyms": [
+      "Khoa học Môi trường Đào tạo tại Phân hiệu ĐHQG-HCM tại Bến Tre"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính Tiên tiến",
+    "synonyms": [
+      "Khoa học máy tính Tiên tiến"
+    ]
+  },
+  {
+    "value": "Nhóm ngành máy tính và công nghệ thông tin",
+    "synonyms": [
+      "Nhóm ngành máy tính và công nghệ thông tin"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông tin Chất lượng cao",
+    "synonyms": [
+      "Công nghệ Thông tin Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông tin Việt Pháp",
+    "synonyms": [
+      "Công nghệ Thông tin Việt Pháp"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật Hoá học Chất lượng cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật Hoá học Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử - Viễn thông Chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật điện tử - Viễn thông Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật hạt nhân",
+    "synonyms": [
+      "Kỹ thuật hạt nhân"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh Bến Tre",
+    "synonyms": [
+      "Ngôn ngữ Anh Bến Tre"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Đức",
+    "synonyms": [
+      "Ngôn ngữ Đức"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Tây Ban Nha",
+    "synonyms": [
+      "Ngôn ngữ Tây Ban Nha"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Italia",
+    "synonyms": [
+      "Ngôn ngữ Italia"
+    ]
+  },
+  {
+    "value": "Quan hệ Quốc tế Chất lượng cao",
+    "synonyms": [
+      "Quan hệ Quốc tế Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Nhân học",
+    "synonyms": [
+      "Nhân học"
+    ]
+  },
+  {
+    "value": "Nhật Bản học Bến tre",
+    "synonyms": [
+      "Nhật Bản học Bến tre"
+    ]
+  },
+  {
+    "value": "Nhật Bản học Chất lượng cao",
+    "synonyms": [
+      "Nhật Bản học Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Báo chí Chất lượng cao",
+    "synonyms": [
+      "Báo chí Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Thông tin - thư viện",
+    "synonyms": [
+      "Thông tin - thư viện"
+    ]
+  },
+  {
+    "value": "Đô thị học",
+    "synonyms": [
+      "Đô thị học"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành Bến tre",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành Bến tre"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành Chất lượng cao",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Y khoa Chất lượng cao",
+    "synonyms": [
+      "Y khoa Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Dược học Chất lượng cao",
+    "synonyms": [
+      "Dược học Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Răng hàm mặt Chất lượng cao",
+    "synonyms": [
+      "Răng hàm mặt Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Sư phạm Địa lí",
+    "synonyms": [
+      "Sư phạm Địa lí"
+    ]
+  },
+  {
+    "value": "Sư phạm Mĩ thuật",
+    "synonyms": [
+      "Sư phạm Mĩ thuật"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử - Địa lí",
+    "synonyms": [
+      "Sư phạm Lịch sử - Địa lí"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh CN Thương mại và Du lịch",
+    "synonyms": [
+      "Ngôn ngữ Anh CN Thương mại và Du lịch"
+    ]
+  },
+  {
+    "value": "Việt Nam học CN Văn hoá - Du lịch",
+    "synonyms": [
+      "Việt Nam học CN Văn hoá - Du lịch"
+    ]
+  },
+  {
+    "value": "Vãn học",
+    "synonyms": [
+      "Vãn học"
+    ]
+  },
+  {
+    "value": "SP Âm nhạc",
+    "synonyms": [
+      "SP Âm nhạc"
+    ]
+  },
+  {
+    "value": "SP Mỹ thuật",
+    "synonyms": [
+      "SP Mỹ thuật"
+    ]
+  },
+  {
+    "value": "SP Tiếng Anh",
+    "synonyms": [
+      "SP Tiếng Anh"
+    ]
+  },
+  {
+    "value": "GD Mầm non",
+    "synonyms": [
+      "GD Mầm non"
+    ]
+  },
+  {
+    "value": "GD Tiểu học",
+    "synonyms": [
+      "GD Tiểu học"
+    ]
+  },
+  {
+    "value": "GD Chính trị",
+    "synonyms": [
+      "GD Chính trị"
+    ]
+  },
+  {
+    "value": "SP Toán học",
+    "synonyms": [
+      "SP Toán học"
+    ]
+  },
+  {
+    "value": "SP Tin học",
+    "synonyms": [
+      "SP Tin học"
+    ]
+  },
+  {
+    "value": "SP Vật lý",
+    "synonyms": [
+      "SP Vật lý"
+    ]
+  },
+  {
+    "value": "SP Hóa học",
+    "synonyms": [
+      "SP Hóa học"
+    ]
+  },
+  {
+    "value": "SP Sinh học",
+    "synonyms": [
+      "SP Sinh học"
+    ]
+  },
+  {
+    "value": "SP Ngữ văn",
+    "synonyms": [
+      "SP Ngữ văn"
+    ]
+  },
+  {
+    "value": "SP Lịch sử",
+    "synonyms": [
+      "SP Lịch sử"
+    ]
+  },
+  {
+    "value": "SP Địa lý",
+    "synonyms": [
+      "SP Địa lý"
+    ]
+  },
+  {
+    "value": "CNKT Điện tử - Viễn thông",
+    "synonyms": [
+      "CNKT Điện tử - Viễn thông"
+    ]
+  },
+  {
+    "value": "Tiếng Anh du lịch",
+    "synonyms": [
+      "Tiếng Anh du lịch"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật nhiệt 02 chuyên ngành Điện lạnh và Cơ điện lạnh",
+    "synonyms": [
+      "Công nghệ kỹ thuật nhiệt 02 chuyên ngành Điện lạnh và Cơ điện lạnh"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo vỏ tàu thủy",
+    "synonyms": [
+      "Công nghệ chế tạo vỏ tàu thủy"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh 3 chuyên ngành Biên - phiên dịch; Tiếng Anh du lịch; Giảng dạy Tiếng Anh",
+    "synonyms": [
+      "Ngôn ngữ Anh 3 chuyên ngành Biên - phiên dịch",
+      " Tiếng Anh du lịch",
+      " Giảng dạy Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kinh tế chuyên ngành Luật kinh tế",
+    "synonyms": [
+      "Kinh tế chuyên ngành Luật kinh tế"
+    ]
+  },
+  {
+    "value": "Kinh tế chuyên ngành Kinh tế thủy sản",
+    "synonyms": [
+      "Kinh tế chuyên ngành Kinh tế thủy sản"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh chương trình Chất lượng cao song ngữ Anh - Việt",
+    "synonyms": [
+      "Quản trị kinh doanh chương trình Chất lượng cao song ngữ Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kinh doanh thương mại",
+    "synonyms": [
+      "Kinh doanh thương mại"
+    ]
+  },
+  {
+    "value": "Kế toán 2 chuyên ngành Kế toán; Kiểm toán",
+    "synonyms": [
+      "Kế toán 2 chuyên ngành Kế toán",
+      " Kiểm toán"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin 2 chuyên ngành Công nghệ thông tin; Truyền thông và Mạng máy tính",
+    "synonyms": [
+      "Công nghệ thông tin 2 chuyên ngành Công nghệ thông tin",
+      " Truyền thông và Mạng máy tính"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin chương trình định hướng nghề nghiệp chất lượng cao, song ngữ Anh - Việt",
+    "synonyms": [
+      "Công nghệ thông tin chương trình định hướng nghề nghiệp chất lượng cao, song ngữ Anh - Việt"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí 2 chuyên ngành Kỹ thuật cơ khí, Công nghệ chế tạo máy",
+    "synonyms": [
+      "Kỹ thuật cơ khí 2 chuyên ngành Kỹ thuật cơ khí, Công nghệ chế tạo máy"
+    ]
+  },
+  {
+    "value": "Kỹ thuật nhiệt 3 chuyên ngành Kỹ thuật nhiệt lạnh; Máy lạnh, điều hòa không khí và thông gió; Máy lạnh và thiết bị nhiệt thực phẩm",
+    "synonyms": [
+      "Kỹ thuật nhiệt 3 chuyên ngành Kỹ thuật nhiệt lạnh",
+      " Máy lạnh, điều hòa không khí và thông gió",
+      " Máy lạnh và thiết bị nhiệt thực phẩm"
+    ]
+  },
+  {
+    "value": "Kỹ thuật tàu thủy",
+    "synonyms": [
+      "Kỹ thuật tàu thủy"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm 2 Chuyên ngành Công nghệ thực phẩm; Đảm bảo chất lượng và an toàn thực phẩm",
+    "synonyms": [
+      "Công nghệ thực phẩm 2 Chuyên ngành Công nghệ thực phẩm",
+      " Đảm bảo chất lượng và an toàn thực phẩm"
+    ]
+  },
+  {
+    "value": "Công nghệ chế biến thuỷ sản",
+    "synonyms": [
+      "Công nghệ chế biến thuỷ sản"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng 2 chuyên ngành Kỹ thuật xây dựng; Kỹ thuật xây dựng công trình giao thông",
+    "synonyms": [
+      "Kỹ thuật xây dựng 2 chuyên ngành Kỹ thuật xây dựng",
+      " Kỹ thuật xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thuỷ sản 2 chuyên ngành Nuôi trồng thủy sản; Bệnh học thuỷ sản",
+    "synonyms": [
+      "Nuôi trồng thuỷ sản 2 chuyên ngành Nuôi trồng thủy sản",
+      " Bệnh học thuỷ sản"
+    ]
+  },
+  {
+    "value": "Khai thác thuỷ sản",
+    "synonyms": [
+      "Khai thác thuỷ sản"
+    ]
+  },
+  {
+    "value": "Quản lý thuỷ sản 2 chuyên ngành Quản lý thủy sản; Khoa học thủy sản",
+    "synonyms": [
+      "Quản lý thuỷ sản 2 chuyên ngành Quản lý thủy sản",
+      " Khoa học thủy sản"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành 2 chuyên ngành Quản trị khách sạn; Quản trị dịch vụ du lịch và lữ hành",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành 2 chuyên ngành Quản trị khách sạn",
+      " Quản trị dịch vụ du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành chương trình song ngữ Pháp-Việt",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành chương trình song ngữ Pháp-Việt"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành chuyên ngành Quản trị khách sạn, chương trình định hướng nghề nghiệp Chất lượng cao, song ngữ Anh - Việt",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành chuyên ngành Quản trị khách sạn, chương trình định hướng nghề nghiệp Chất lượng cao, song ngữ Anh - Việt"
+    ]
+  },
+  {
+    "value": "Khoa học hàng hải",
+    "synonyms": [
+      "Khoa học hàng hải"
+    ]
+  },
+  {
+    "value": "Văn hóa DSTT Việt Nam tổ chức và QLVH vùng DTTS",
+    "synonyms": [
+      "Văn hóa DSTT Việt Nam tổ chức và QLVH vùng DTTS"
+    ]
+  },
+  {
+    "value": "Văn hóa DSTT Việt Nam tổ chức và QLDL vùng DTTS",
+    "synonyms": [
+      "Văn hóa DSTT Việt Nam tổ chức và QLDL vùng DTTS"
+    ]
+  },
+  {
+    "value": "QLVH - Quản lý nhà nước về gia đình",
+    "synonyms": [
+      "QLVH - Quản lý nhà nước về gia đình"
+    ]
+  },
+  {
+    "value": "QLVH - Quản lý di sản văn hóa",
+    "synonyms": [
+      "QLVH - Quản lý di sản văn hóa"
+    ]
+  },
+  {
+    "value": "Gia đình học - Quản trị dịch vụ gia đình",
+    "synonyms": [
+      "Gia đình học - Quản trị dịch vụ gia đình"
+    ]
+  },
+  {
+    "value": "Bảo tàng học",
+    "synonyms": [
+      "Bảo tàng học"
+    ]
+  },
+  {
+    "value": "Kinh doanh xuất bản phẩm",
+    "synonyms": [
+      "Kinh doanh xuất bản phẩm"
+    ]
+  },
+  {
+    "value": "Y khoa có CC Tiếng Anh",
+    "synonyms": [
+      "Y khoa có CC Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Dược học có CC Tiếng Anh",
+    "synonyms": [
+      "Dược học có CC Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Điều dưỡng chuyên ngành Hộ sinh",
+    "synonyms": [
+      "Điều dưỡng chuyên ngành Hộ sinh"
+    ]
+  },
+  {
+    "value": "Điều dưỡng chuyên ngành Gây mê hồi sức",
+    "synonyms": [
+      "Điều dưỡng chuyên ngành Gây mê hồi sức"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phục hình răng",
+    "synonyms": [
+      "Kỹ thuật phục hình răng"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy",
+    "synonyms": [
+      "Công nghệ chế tạo máy"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xét nghiệp y học",
+    "synonyms": [
+      "Kỹ thuật xét nghiệp y học"
+    ]
+  },
+  {
+    "value": "Quản trị - Luật",
+    "synonyms": [
+      "Quản trị - Luật"
+    ]
+  },
+  {
+    "value": "Sư phạm âm nhạc mầm non",
+    "synonyms": [
+      "Sư phạm âm nhạc mầm non"
+    ]
+  },
+  {
+    "value": "Sư phạm mỹ thuật mầm non",
+    "synonyms": [
+      "Sư phạm mỹ thuật mầm non"
+    ]
+  },
+  {
+    "value": "Hội hoạ",
+    "synonyms": [
+      "Hội hoạ"
+    ]
+  },
+  {
+    "value": "Giáo dục Tiểu học hệ cao đẳng",
+    "synonyms": [
+      "Giáo dục Tiểu học hệ cao đẳng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Công tác thanh thiếu niên",
+    "synonyms": [
+      "Công tác thanh thiếu niên"
+    ]
+  },
+  {
+    "value": "Ngành Dầu khí",
+    "synonyms": [
+      "Ngành Dầu khí"
+    ]
+  },
+  {
+    "value": "Giáo dục Tiểu học.",
+    "synonyms": [
+      "Giáo dục Tiểu học."
+    ]
+  },
+  {
+    "value": "Sư phạm toán học CĐ",
+    "synonyms": [
+      "Sư phạm toán học CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật lý CĐ",
+    "synonyms": [
+      "Sư phạm Vật lý CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Ngữ văn CĐ",
+    "synonyms": [
+      "Sư phạm Ngữ văn CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử CĐ",
+    "synonyms": [
+      "Sư phạm Lịch sử CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Âm nhạc CĐ",
+    "synonyms": [
+      "Sư phạm Âm nhạc CĐ"
+    ]
+  },
+  {
+    "value": "Sư phạm Mỹ thuật CĐ",
+    "synonyms": [
+      "Sư phạm Mỹ thuật CĐ"
+    ]
+  },
+  {
+    "value": "GD Thể chất NK hệ số 2",
+    "synonyms": [
+      "GD Thể chất NK hệ số 2"
+    ]
+  },
+  {
+    "value": "Sư phạm Mỹ thuật",
+    "synonyms": [
+      "Sư phạm Mỹ thuật"
+    ]
+  },
+  {
+    "value": "SP Tiếng Anh AV hệ số 2",
+    "synonyms": [
+      "SP Tiếng Anh AV hệ số 2"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh AV hệ số 2",
+    "synonyms": [
+      "Ngôn ngữ Anh AV hệ số 2"
+    ]
+  },
+  {
+    "value": "Quản lý văn hoá",
+    "synonyms": [
+      "Quản lý văn hoá"
+    ]
+  },
+  {
+    "value": "Việt Nam học chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn",
+    "synonyms": [
+      "Việt Nam học chuyên ngành Hướng dẫn viên du lịch và Quàn lý Nhà hàng - Khách sạn"
+    ]
+  },
+  {
+    "value": "Quản lí giáo dục",
+    "synonyms": [
+      "Quản lí giáo dục"
+    ]
+  },
+  {
+    "value": "Giáo dục Mầm non - SP Tiếng Anh",
+    "synonyms": [
+      "Giáo dục Mầm non - SP Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Giáo dục Tiểu học - SP Tiếng Anh",
+    "synonyms": [
+      "Giáo dục Tiểu học - SP Tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Toán học dạy Toán bằng tiếng Anh",
+    "synonyms": [
+      "SP Toán học dạy Toán bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Tin học dạy Tin bằng tiếng Anh",
+    "synonyms": [
+      "SP Tin học dạy Tin bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Vật lý dạy Vật lý bằng tiếng Anh",
+    "synonyms": [
+      "SP Vật lý dạy Vật lý bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Hoá học",
+    "synonyms": [
+      "SP Hoá học"
+    ]
+  },
+  {
+    "value": "SP Hoá học dạy Hoá bằng tiếng Anh",
+    "synonyms": [
+      "SP Hoá học dạy Hoá bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Sinh học dạy Sinh bằng tiếng Anh",
+    "synonyms": [
+      "SP Sinh học dạy Sinh bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "SP Tiếng Pháp",
+    "synonyms": [
+      "SP Tiếng Pháp"
+    ]
+  },
+  {
+    "value": "SP Công nghệ",
+    "synonyms": [
+      "SP Công nghệ"
+    ]
+  },
+  {
+    "value": "Chính trị học Triết học Mác - Lenin",
+    "synonyms": [
+      "Chính trị học Triết học Mác - Lenin"
+    ]
+  },
+  {
+    "value": "Chính trị học SP Triết học",
+    "synonyms": [
+      "Chính trị học SP Triết học"
+    ]
+  },
+  {
+    "value": "Tâm lý học Tâm lý học trường học",
+    "synonyms": [
+      "Tâm lý học Tâm lý học trường học"
+    ]
+  },
+  {
+    "value": "Tâm lý học giáo dục.",
+    "synonyms": [
+      "Tâm lý học giáo dục."
+    ]
+  },
+  {
+    "value": "Tâm lý học giáo dục..",
+    "synonyms": [
+      "Tâm lý học giáo dục.."
+    ]
+  },
+  {
+    "value": "Tâm lý học giáo dục...",
+    "synonyms": [
+      "Tâm lý học giáo dục..."
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Anh hệ Đại trà",
+    "synonyms": [
+      "Sư phạm Tiếng Anh hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Thiết kế đồ họa Đại trà",
+    "synonyms": [
+      "Thiết kế đồ họa Đại trà"
+    ]
+  },
+  {
+    "value": "Thiết kế thời trang đã quy về thang 30",
+    "synonyms": [
+      "Thiết kế thời trang đã quy về thang 30"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh đã quy về thang 30",
+    "synonyms": [
+      "Ngôn ngữ Anh đã quy về thang 30"
+    ]
+  },
+  {
+    "value": "Thương mại điện tử hệ Đại trà",
+    "synonyms": [
+      "Thương mại điện tử hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Kế toán hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Kế toán hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Kế toán hệ Đại trà",
+    "synonyms": [
+      "Kế toán hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật máy tính CLC tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật máy tính CLC tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ntảy tính CLC tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật ntảy tính CLC tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật máy tính  Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật máy tính  Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông Tin hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ Thông Tin hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông Tin hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ Thông Tin hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ Thông Tin hệ Đại trà",
+    "synonyms": [
+      "Công nghệ Thông Tin hệ Đại trà"
+    ]
+  },
+  {
+    "value": "kỹ thuật dữ liệu Đại trà",
+    "synonyms": [
+      "kỹ thuật dữ liệu Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật công trình xây dựng hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật công trình xây dựng hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật công trình xây dựng hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật công trình xây dựng hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật công trình xây dựng hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật công trình xây dựng hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ khí hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ khí hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "CN kỹ thuật cơ khí",
+    "synonyms": [
+      "CN kỹ thuật cơ khí"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ khí hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ khí hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ chế tạo máy hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ chế tạo máy hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy hệ Đại trà",
+    "synonyms": [
+      "Công nghệ chế tạo máy hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ điện tử hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ điện tử hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ điện tử hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ điện tử hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ điện tử hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ điện tử hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ô tô hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật ô tô hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ô tô hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật ô tô hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ô tô hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật ô tô hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật nhiệt CLC tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật nhiệt CLC tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật nhiệt hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật nhiệt hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật nhiệt hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật nhiệt hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Năng lượng tái tạo Đại trà",
+    "synonyms": [
+      "Năng lượng tái tạo Đại trà"
+    ]
+  },
+  {
+    "value": "Công Nghệ kỹ thuật điện - điện tử hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công Nghệ kỹ thuật điện - điện tử hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công Nghệ kỹ thuật điện - điện tử hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công Nghệ kỹ thuật điện - điện tử hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công Nghệ kỹ thuật điện - điện tử hệ Đại trà",
+    "synonyms": [
+      "Công Nghệ kỹ thuật điện - điện tử hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật Điện tử - Truyền thông hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hoá hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ Kỹ thuật Hóa học hệ Đại trà",
+    "synonyms": [
+      "Công nghệ Kỹ thuật Hóa học hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ vật liệu hệ Đại trà",
+    "synonyms": [
+      "Công nghệ vật liệu hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật môi trường hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật môi trường hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật môi trường hệ Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật môi trường hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Quản lý Công nghiệp hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Quản lý Công nghiệp hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Quản lý Công nghiệp hệ Đại trà",
+    "synonyms": [
+      "Quản lý Công nghiệp hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Logistics và quản lý chuỗi cung ứng hệ Đại trà",
+    "synonyms": [
+      "Logistics và quản lý chuỗi cung ứng hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật in CLC tiếng Việt",
+    "synonyms": [
+      "Công nghệ kỹ thuật in CLC tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật in Đại trà",
+    "synonyms": [
+      "Công nghệ kỹ thuật in Đại trà"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công nghiệp Đại trà",
+    "synonyms": [
+      "Kỹ thuật công nghiệp Đại trà"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Y sinh Điện tử Y sinh hệ Đại trà",
+    "synonyms": [
+      "Kỹ thuật Y sinh Điện tử Y sinh hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ Thực phẩm hệ Chất lượng cao tiếng Anh",
+    "synonyms": [
+      "Công nghệ Thực phẩm hệ Chất lượng cao tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ Thực phẩm hệ Chất lượng cao tiếng Việt",
+    "synonyms": [
+      "Công nghệ Thực phẩm hệ Chất lượng cao tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ Thực phẩm hệ Đại trà",
+    "synonyms": [
+      "Công nghệ Thực phẩm hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ may CLC tiếng Việt",
+    "synonyms": [
+      "Công nghệ may CLC tiếng Việt"
+    ]
+  },
+  {
+    "value": "Công nghệ may Đại trà",
+    "synonyms": [
+      "Công nghệ may Đại trà"
+    ]
+  },
+  {
+    "value": "Công nghệ chế biến lâm sản Đại trà",
+    "synonyms": [
+      "Công nghệ chế biến lâm sản Đại trà"
+    ]
+  },
+  {
+    "value": "Kiến trúc Đại trà",
+    "synonyms": [
+      "Kiến trúc Đại trà"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình giao thông hệ Đại trà",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình giao thông hệ Đại trà"
+    ]
+  },
+  {
+    "value": "Quản lý xây dựng Đại trà",
+    "synonyms": [
+      "Quản lý xây dựng Đại trà"
+    ]
+  },
+  {
+    "value": "Kỹ thuật nữ công Đại trà",
+    "synonyms": [
+      "Kỹ thuật nữ công Đại trà"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật lý Tổ hợp môn mới",
+    "synonyms": [
+      "Sư phạm Vật lý Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Sư phạm Ngữ văn Tổ hợp môn mới",
+    "synonyms": [
+      "Sư phạm Ngữ văn Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử Tổ hợp môn mới",
+    "synonyms": [
+      "Sư phạm Lịch sử Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Sư phạm Địa lý Tổ hợp môn mới",
+    "synonyms": [
+      "Sư phạm Địa lý Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Anh Tổ hợp môn mới",
+    "synonyms": [
+      "Sư phạm Tiếng Anh Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh Tổ hợp môn mới",
+    "synonyms": [
+      "Ngôn ngữ Anh Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh CTCLC",
+    "synonyms": [
+      "Ngôn ngữ Anh CTCLC"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Ngôn ngữ Anh Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Kinh tế Tổ hợp môn mới",
+    "synonyms": [
+      "Kinh tế Tổ hợp môn mới"
+    ]
+  },
+  {
+    "value": "Việt Nam học, Chuyên ngành Hướng dẫn viên du lịch",
+    "synonyms": [
+      "Việt Nam học, Chuyên ngành Hướng dẫn viên du lịch"
+    ]
+  },
+  {
+    "value": "Việt Nam học Chuyên ngành Hướng dẫn viên du lịch",
+    "synonyms": [
+      "Việt Nam học Chuyên ngành Hướng dẫn viên du lịch"
+    ]
+  },
+  {
+    "value": "Thông tin học",
+    "synonyms": [
+      "Thông tin học"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Quản trị kinh doanh Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế Chương trình chất lượng cao",
+    "synonyms": [
+      "Kinh doanh quốc tế Chương trình chất lượng cao"
+    ]
+  },
+  {
+    "value": "Tài chính - Ngân hàng Tài chính - Ngân hàng, Tài chính doanh nghiệp",
+    "synonyms": [
+      "Tài chính - Ngân hàng Tài chính - Ngân hàng, Tài chính doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Luật Luật Hành chính",
+    "synonyms": [
+      "Luật Luật Hành chính"
+    ]
+  },
+  {
+    "value": "Luật Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Luật Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Sinh học Có 2 chuyên ngành Sinh học; Vi sinh vật học",
+    "synonyms": [
+      "Sinh học Có 2 chuyên ngành Sinh học",
+      " Vi sinh vật học"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học Chương trình tiên tiến",
+    "synonyms": [
+      "Công nghệ sinh học Chương trình tiên tiến"
+    ]
+  },
+  {
+    "value": "Truyền thông và mạng máy tính",
+    "synonyms": [
+      "Truyền thông và mạng máy tính"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Công nghệ thông tin",
+    "synonyms": [
+      "Công nghệ thông tin Công nghệ thông tin"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Chương trình chất lượng cao",
+    "synonyms": [
+      "Công nghệ thông tin Chương trình chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Công nghệ thông tin Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hoá học Chương trình chất lượng cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật hoá học Chương trình chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí Cơ khí chế tạo máy, Cơ khí chế biến, Cơ khí giao thông",
+    "synonyms": [
+      "Kỹ thuật cơ khí Cơ khí chế tạo máy, Cơ khí chế biến, Cơ khí giao thông"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện, điện tử Kỹ thuật điện",
+    "synonyms": [
+      "Kỹ thuật điện, điện tử Kỹ thuật điện"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện CTCLC",
+    "synonyms": [
+      "Kỹ thuật Điện CTCLC"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện tử, truyền thông",
+    "synonyms": [
+      "Kỹ thuật điện tử, truyền thông"
+    ]
+  },
+  {
+    "value": "Vật lý kỹ thuật",
+    "synonyms": [
+      "Vật lý kỹ thuật"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm CTCLC",
+    "synonyms": [
+      "Công nghệ thực phẩm CTCLC"
+    ]
+  },
+  {
+    "value": "Công nghệ sau thu hoạch Tổ hợp môn cũ",
+    "synonyms": [
+      "Công nghệ sau thu hoạch Tổ hợp môn cũ"
+    ]
+  },
+  {
+    "value": "Công nghệ chế biến thủy sản",
+    "synonyms": [
+      "Công nghệ chế biến thủy sản"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng có 3 chuyên ngành Xây dựng công trình thủy, Xây dựng dân dụng và công nghiệp, Xây dựng cầu đường",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng có 3 chuyên ngành Xây dựng công trình thủy, Xây dựng dân dụng và công nghiệp, Xây dựng cầu đường"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình thủy",
+    "synonyms": [
+      "Kỹ thuật công trình thủy"
+    ]
+  },
+  {
+    "value": "Khuyến nông Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Khuyến nông Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Khoa học đất",
+    "synonyms": [
+      "Khoa học đất"
+    ]
+  },
+  {
+    "value": "Chăn nuôi Chăn nuôi-Thú y, Công nghệ giống vật nuôi",
+    "synonyms": [
+      "Chăn nuôi Chăn nuôi-Thú y, Công nghệ giống vật nuôi"
+    ]
+  },
+  {
+    "value": "Nông học Chuyên ngành Kỹ thuật nông nghiệp; Học tại khu Hòa An - Tỉnh Hậu Giang",
+    "synonyms": [
+      "Nông học Chuyên ngành Kỹ thuật nông nghiệp",
+      " Học tại khu Hòa An - Tỉnh Hậu Giang"
+    ]
+  },
+  {
+    "value": "Khoa học cây trồng Khoa học cây trồng; Công nghệ giống cây trồng; Nông nghiệp sạch",
+    "synonyms": [
+      "Khoa học cây trồng Khoa học cây trồng",
+      " Công nghệ giống cây trồng",
+      " Nông nghiệp sạch"
+    ]
+  },
+  {
+    "value": "Công nghệ rau hoa quả và cảnh quan",
+    "synonyms": [
+      "Công nghệ rau hoa quả và cảnh quan"
+    ]
+  },
+  {
+    "value": "Kinh doanh nông nghiệp Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Kinh doanh nông nghiệp Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Kinh tế nông nghiệp Kinh tế nông nghiệp, Kinh tế thủy sản",
+    "synonyms": [
+      "Kinh tế nông nghiệp Kinh tế nông nghiệp, Kinh tế thủy sản"
+    ]
+  },
+  {
+    "value": "Kinh tế nông nghiệp Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Kinh tế nông nghiệp Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Phát triển nông thôn Khuyến nông",
+    "synonyms": [
+      "Phát triển nông thôn Khuyến nông"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thủy sản Nuôi trồng thủy sản",
+    "synonyms": [
+      "Nuôi trồng thủy sản Nuôi trồng thủy sản"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thuỷ sản Đào tạo tại Khu Hòa An",
+    "synonyms": [
+      "Nuôi trồng thuỷ sản Đào tạo tại Khu Hòa An"
+    ]
+  },
+  {
+    "value": "Nuôi trồng thuỷ sản Chương trình tiên tiến",
+    "synonyms": [
+      "Nuôi trồng thuỷ sản Chương trình tiên tiến"
+    ]
+  },
+  {
+    "value": "Quản lý nguồn lợi thủy sản",
+    "synonyms": [
+      "Quản lý nguồn lợi thủy sản"
+    ]
+  },
+  {
+    "value": "Thú y Thú y, Dược thú y",
+    "synonyms": [
+      "Thú y Thú y, Dược thú y"
+    ]
+  },
+  {
+    "value": "Chính tri hoc",
+    "synonyms": [
+      "Chính tri hoc"
+    ]
+  },
+  {
+    "value": "Quản trị Kinh doanh Quản trị Kinh doanh tổng hợp; Quản trị Kinh doanh thương mại; Marketing",
+    "synonyms": [
+      "Quản trị Kinh doanh Quản trị Kinh doanh tổng hợp",
+      " Quản trị Kinh doanh thương mại",
+      " Marketing"
+    ]
+  },
+  {
+    "value": "Kế toán Kế toán Doanh nghiệp; Kế toán- Kiểm toán",
+    "synonyms": [
+      "Kế toán Kế toán Doanh nghiệp",
+      " Kế toán- Kiểm toán"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện - Điện tử",
+    "synonyms": [
+      "Kỹ thuật Điện - Điện tử"
+    ]
+  },
+  {
+    "value": "Chính trị học chuyên ngành Chính sách công",
+    "synonyms": [
+      "Chính trị học chuyên ngành Chính sách công"
+    ]
+  },
+  {
+    "value": "Công nghệ kĩ thuật điện, điện tử",
+    "synonyms": [
+      "Công nghệ kĩ thuật điện, điện tử"
+    ]
+  },
+  {
+    "value": "Công nghệ Kĩ thuật hóa học chuyên ngành Hóa dược - Mĩ phẩm",
+    "synonyms": [
+      "Công nghệ Kĩ thuật hóa học chuyên ngành Hóa dược - Mĩ phẩm"
+    ]
+  },
+  {
+    "value": "Kĩ thuật xây dựng công trình giao thông",
+    "synonyms": [
+      "Kĩ thuật xây dựng công trình giao thông"
+    ]
+  },
+  {
+    "value": "Khuyến nông",
+    "synonyms": [
+      "Khuyến nông"
+    ]
+  },
+  {
+    "value": "Quản lí tài nguyên và môi trường",
+    "synonyms": [
+      "Quản lí tài nguyên và môi trường"
+    ]
+  },
+  {
+    "value": "Quản trị Marketing",
+    "synonyms": [
+      "Quản trị Marketing"
+    ]
+  },
+  {
+    "value": "Thiết kế Đồ họa/Game/Multimedia",
+    "synonyms": [
+      "Thiết kế Đồ họa/Game/Multimedia"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Đại học Conventry",
+    "synonyms": [
+      "Công nghệ thông tin Đại học Conventry"
+    ]
+  },
+  {
+    "value": "Xây dựng Cầu đường",
+    "synonyms": [
+      "Xây dựng Cầu đường"
+    ]
+  },
+  {
+    "value": "Công nghệ kĩ thuật môi trường",
+    "synonyms": [
+      "Công nghệ kĩ thuật môi trường"
+    ]
+  },
+  {
+    "value": "Xây dựng Dân dụng DD \u0026 Công nghiệp CN",
+    "synonyms": [
+      "Xây dựng Dân dụng DD \u0026 Công nghiệp CN"
+    ]
+  },
+  {
+    "value": "Y đa khoa",
+    "synonyms": [
+      "Y đa khoa"
+    ]
+  },
+  {
+    "value": "Điều dưỡng Đa khoa",
+    "synonyms": [
+      "Điều dưỡng Đa khoa"
+    ]
+  },
+  {
+    "value": "Luật Nữ Miền Nam",
+    "synonyms": [
+      "Luật Nữ Miền Nam"
+    ]
+  },
+  {
+    "value": "Luật Nam Miền Nam",
+    "synonyms": [
+      "Luật Nam Miền Nam"
+    ]
+  },
+  {
+    "value": "Luật Nữ Miền Bắc",
+    "synonyms": [
+      "Luật Nữ Miền Bắc"
+    ]
+  },
+  {
+    "value": "Luật Nam Miền Bắc",
+    "synonyms": [
+      "Luật Nam Miền Bắc"
+    ]
+  },
+  {
+    "value": "CĐGD Mầm non",
+    "synonyms": [
+      "CĐGD Mầm non"
+    ]
+  },
+  {
+    "value": "CĐGD Tiểu học",
+    "synonyms": [
+      "CĐGD Tiểu học"
+    ]
+  },
+  {
+    "value": "CĐGD Thể chất",
+    "synonyms": [
+      "CĐGD Thể chất"
+    ]
+  },
+  {
+    "value": "ĐH Sư phạm Toán CLC",
+    "synonyms": [
+      "ĐH Sư phạm Toán CLC"
+    ]
+  },
+  {
+    "value": "CĐSP Toán",
+    "synonyms": [
+      "CĐSP Toán"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật lí",
+    "synonyms": [
+      "Sư phạm Vật lí"
+    ]
+  },
+  {
+    "value": "ĐH Sư phạm Lý CLC",
+    "synonyms": [
+      "ĐH Sư phạm Lý CLC"
+    ]
+  },
+  {
+    "value": "CĐSP Vật lý",
+    "synonyms": [
+      "CĐSP Vật lý"
+    ]
+  },
+  {
+    "value": "CĐSP Hóa học",
+    "synonyms": [
+      "CĐSP Hóa học"
+    ]
+  },
+  {
+    "value": "CĐSP Sinh học",
+    "synonyms": [
+      "CĐSP Sinh học"
+    ]
+  },
+  {
+    "value": "ĐH Sư phạm Văn CLC",
+    "synonyms": [
+      "ĐH Sư phạm Văn CLC"
+    ]
+  },
+  {
+    "value": "CĐSP Ngữ Văn",
+    "synonyms": [
+      "CĐSP Ngữ Văn"
+    ]
+  },
+  {
+    "value": "ĐH Sư phạm Sử CLC",
+    "synonyms": [
+      "ĐH Sư phạm Sử CLC"
+    ]
+  },
+  {
+    "value": "CĐSP Lịch sử",
+    "synonyms": [
+      "CĐSP Lịch sử"
+    ]
+  },
+  {
+    "value": "CĐSP Địa lý",
+    "synonyms": [
+      "CĐSP Địa lý"
+    ]
+  },
+  {
+    "value": "CĐSP Tiếng Anh",
+    "synonyms": [
+      "CĐSP Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ di lịch và lữ hành",
+    "synonyms": [
+      "Quản trị dịch vụ di lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Quan hệ quốc tế thi THPT Quốc gia",
+    "synonyms": [
+      "Quan hệ quốc tế thi THPT Quốc gia"
+    ]
+  },
+  {
+    "value": "Kinh tế tài chính chất lượng cao dạy bằng tiếng Anh",
+    "synonyms": [
+      "Kinh tế tài chính chất lượng cao dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh nông nghiệp tiên tiến dạy bằng tiếng Anh",
+    "synonyms": [
+      "Quản trị kinh doanh nông nghiệp tiên tiến dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Kế toán định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Kế toán định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học - đào tạo theo định hướng nghề nghiệp ứng dụng POHE",
+    "synonyms": [
+      "Công nghệ sinh học - đào tạo theo định hướng nghề nghiệp ứng dụng POHE"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học chất lượng cao dạy bằng tiếng Anh",
+    "synonyms": [
+      "Công nghệ sinh học chất lượng cao dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ sinh học định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Công nghệ sinh học định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin - đào tạo theo định hướng nghề nghiệp ứng dụng POHE",
+    "synonyms": [
+      "Công nghệ thông tin - đào tạo theo định hướng nghề nghiệp ứng dụng POHE"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Công nghệ thông tin định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí - đào tạo theo định hướng nghề nghiệp ứng dụng POHE",
+    "synonyms": [
+      "Kỹ thuật cơ khí - đào tạo theo định hướng nghề nghiệp ứng dụng POHE"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Kỹ thuật cơ khí định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Công nghệ và kinh doanh thực phẩm",
+    "synonyms": [
+      "Công nghệ và kinh doanh thực phẩm"
+    ]
+  },
+  {
+    "value": "Nông nghiệp định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Nông nghiệp định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Chăn nuôi – đào tạo theo định hướng nghề nghiệp ứng dụng POHE",
+    "synonyms": [
+      "Chăn nuôi – đào tạo theo định hướng nghề nghiệp ứng dụng POHE"
+    ]
+  },
+  {
+    "value": "Chăn nuôi định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Chăn nuôi định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Khoa học cây trồng tiên tiến dạy bằng tiếng Anh",
+    "synonyms": [
+      "Khoa học cây trồng tiên tiến dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Công nghệ Rau Hoa Quả và cảnh quan định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Công nghệ Rau Hoa Quả và cảnh quan định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Kinh tế nông nghiệp chất lượng cao dạy bằng tiếng Anh",
+    "synonyms": [
+      "Kinh tế nông nghiệp chất lượng cao dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Phát triển nông thôn định hướng nghề nghiệp POHE",
+    "synonyms": [
+      "Phát triển nông thôn định hướng nghề nghiệp POHE"
+    ]
+  },
+  {
+    "value": "Nông nghiệp công nghệ cao",
+    "synonyms": [
+      "Nông nghiệp công nghệ cao"
+    ]
+  },
+  {
+    "value": "Chỉ huy tham mưu Không quân",
+    "synonyms": [
+      "Chỉ huy tham mưu Không quân"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Chuyên ngành an toàn thông tin",
+    "synonyms": [
+      "Công nghệ thông tin Chuyên ngành an toàn thông tin"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam miền Bắc",
+    "synonyms": [
+      "Thí sinh Nam miền Bắc"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam miền Nam",
+    "synonyms": [
+      "Thí sinh Nam miền Nam"
+    ]
+  },
+  {
+    "value": "Thí sinh Nữ miền Bắc",
+    "synonyms": [
+      "Thí sinh Nữ miền Bắc"
+    ]
+  },
+  {
+    "value": "Thí sinh Nữ miền Nam",
+    "synonyms": [
+      "Thí sinh Nữ miền Nam"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến ngành Kiến trúc",
+    "synonyms": [
+      "Chương trình tiên tiến ngành Kiến trúc"
+    ]
+  },
+  {
+    "value": "Kĩ thuật công trình xây dựng chuyên ngành Xây dựng dân dụng và công nghiệp",
+    "synonyms": [
+      "Kĩ thuật công trình xây dựng chuyên ngành Xây dựng dân dụng và công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ sở hạ tầng Chuyên ngành Kỹ thuật hạ tầng đô thị",
+    "synonyms": [
+      "Kỹ thuật cơ sở hạ tầng Chuyên ngành Kỹ thuật hạ tầng đô thị"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ sở hạ tầng Chuyên ngành Kỹ thuật môi trường đô thị",
+    "synonyms": [
+      "Kỹ thuật cơ sở hạ tầng Chuyên ngành Kỹ thuật môi trường đô thị"
+    ]
+  },
+  {
+    "value": "Mỹ thuật đô thị",
+    "synonyms": [
+      "Mỹ thuật đô thị"
+    ]
+  },
+  {
+    "value": "Bảo hộ Lao động",
+    "synonyms": [
+      "Bảo hộ Lao động"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh chuyên ngành Tiếng Anh pháp lý",
+    "synonyms": [
+      "Ngôn ngữ Anh chuyên ngành Tiếng Anh pháp lý"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện tử, truyền thông",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện tử, truyền thông"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Bồ Đào Nha",
+    "synonyms": [
+      "Ngôn ngữ Bồ Đào Nha"
+    ]
+  },
+  {
+    "value": "Quốc tế học dạy bằng tiếng Anh",
+    "synonyms": [
+      "Quốc tế học dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Truyền thông doanh nghiệp dạy bằng tiếng Pháp",
+    "synonyms": [
+      "Truyền thông doanh nghiệp dạy bằng tiếng Pháp"
+    ]
+  },
+  {
+    "value": "Kế toándạy bằng tiếng Anh",
+    "synonyms": [
+      "Kế toándạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành dạy bằng tiếng Anh",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành dạy bằng tiếng Anh"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh nam phía Nam",
+    "synonyms": [
+      "Ngôn ngữ Anh nam phía Nam"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Nganữ",
+    "synonyms": [
+      "Ngôn ngữ Nganữ"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung Quốc Nam - D04",
+    "synonyms": [
+      "Ngôn ngữ Trung Quốc Nam - D04"
+    ]
+  },
+  {
+    "value": "Quan hệ Quốc tếnữ",
+    "synonyms": [
+      "Quan hệ Quốc tếnữ"
+    ]
+  },
+  {
+    "value": "Trinh sát kỹ thuật",
+    "synonyms": [
+      "Trinh sát kỹ thuật"
+    ]
+  },
+  {
+    "value": "Công an hệ chính quy",
+    "synonyms": [
+      "Công an hệ chính quy"
+    ]
+  },
+  {
+    "value": "Hệ dân sự",
+    "synonyms": [
+      "Hệ dân sự"
+    ]
+  },
+  {
+    "value": "Kinh tế quốc dân",
+    "synonyms": [
+      "Kinh tế quốc dân"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh liên kết quốc tế do Đại học Troy - Hoa Kỳ cấp bằng",
+    "synonyms": [
+      "Quản trị kinh doanh liên kết quốc tế do Đại học Troy - Hoa Kỳ cấp bằng"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Nga",
+    "synonyms": [
+      "Sư phạm Tiếng Nga"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Đức",
+    "synonyms": [
+      "Sư phạm Tiếng Đức"
+    ]
+  },
+  {
+    "value": "Sư phạm Tiếng Nhật",
+    "synonyms": [
+      "Sư phạm Tiếng Nhật"
+    ]
+  },
+  {
+    "value": "Sư phạm tiếng Hàn Quốc",
+    "synonyms": [
+      "Sư phạm tiếng Hàn Quốc"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Trung CLC",
+    "synonyms": [
+      "Ngôn ngữ Trung CLC"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Nhật CLC",
+    "synonyms": [
+      "Ngôn ngữ Nhật CLC"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Hàn Quốc CLC",
+    "synonyms": [
+      "Ngôn ngữ Hàn Quốc CLC"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Ả rập",
+    "synonyms": [
+      "Ngôn ngữ Ả rập"
+    ]
+  },
+  {
+    "value": "Máy tính và Robot",
+    "synonyms": [
+      "Máy tính và Robot"
+    ]
+  },
+  {
+    "value": "Công nghệ Hàng không vũ trụ",
+    "synonyms": [
+      "Công nghệ Hàng không vũ trụ"
+    ]
+  },
+  {
+    "value": "Ngành luật học",
+    "synonyms": [
+      "Ngành luật học"
+    ]
+  },
+  {
+    "value": "Luật Chất lượng cao",
+    "synonyms": [
+      "Luật Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kế toán, phân tích và kiểm toán",
+    "synonyms": [
+      "Kế toán, phân tích và kiểm toán"
+    ]
+  },
+  {
+    "value": "Tin học và kỹ thuật máy tính",
+    "synonyms": [
+      "Tin học và kỹ thuật máy tính"
+    ]
+  },
+  {
+    "value": "Vật lí học",
+    "synonyms": [
+      "Vật lí học"
+    ]
+  },
+  {
+    "value": "Hoá học**",
+    "synonyms": [
+      "Hoá học**"
+    ]
+  },
+  {
+    "value": "Khoa học thông tin địa không gian",
+    "synonyms": [
+      "Khoa học thông tin địa không gian"
+    ]
+  },
+  {
+    "value": "Toán tin",
+    "synonyms": [
+      "Toán tin"
+    ]
+  },
+  {
+    "value": "Máy tính và khoa học thông tin**",
+    "synonyms": [
+      "Máy tính và khoa học thông tin**"
+    ]
+  },
+  {
+    "value": "Máy tính và khoa học thông tin",
+    "synonyms": [
+      "Máy tính và khoa học thông tin"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hoá học**",
+    "synonyms": [
+      "Công nghệ kỹ thuật hoá học**"
+    ]
+  },
+  {
+    "value": "Khí tượng Thủy văn và Biến đổi khí hậu",
+    "synonyms": [
+      "Khí tượng Thủy văn và Biến đổi khí hậu"
+    ]
+  },
+  {
+    "value": "Tài nguyên trái đất",
+    "synonyms": [
+      "Tài nguyên trái đất"
+    ]
+  },
+  {
+    "value": "Hán Nôm",
+    "synonyms": [
+      "Hán Nôm"
+    ]
+  },
+  {
+    "value": "Tôn giáo học",
+    "synonyms": [
+      "Tôn giáo học"
+    ]
+  },
+  {
+    "value": "Lich sử",
+    "synonyms": [
+      "Lich sử"
+    ]
+  },
+  {
+    "value": "Tâm lí học",
+    "synonyms": [
+      "Tâm lí học"
+    ]
+  },
+  {
+    "value": "Việt Nam học Hướng dẫn Du lịh",
+    "synonyms": [
+      "Việt Nam học Hướng dẫn Du lịh"
+    ]
+  },
+  {
+    "value": "CN kỹ thuật điện tử, truyền thông",
+    "synonyms": [
+      "CN kỹ thuật điện tử, truyền thông"
+    ]
+  },
+  {
+    "value": "CN may",
+    "synonyms": [
+      "CN may"
+    ]
+  },
+  {
+    "value": "Kinh tếKinh tế đầu tư",
+    "synonyms": [
+      "Kinh tếKinh tế đầu tư"
+    ]
+  },
+  {
+    "value": "Sư phạm KTCN chuyên sâu Điện tử - Tin học",
+    "synonyms": [
+      "Sư phạm KTCN chuyên sâu Điện tử - Tin học"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hoá học Công nghệ điện hóa và các hợp chất vô cơ; Công nghệ các hợp chất hữu cơ-cao su và chất dẻo; Máy và Thiết bị công nghiệ",
+    "synonyms": [
+      "Công nghệ kỹ thuật hoá học Công nghệ điện hóa và các hợp chất vô cơ",
+      " Công nghệ các hợp chất hữu cơ-cao su và chất dẻo",
+      " Máy và Thiết bị công nghiệ"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật môi trường gồm 02 chuyên ngành Công nghệ môi trường; Quản lý môi trường",
+    "synonyms": [
+      "Công nghệ kỹ thuật môi trường gồm 02 chuyên ngành Công nghệ môi trường",
+      " Quản lý môi trường"
+    ]
+  },
+  {
+    "value": "Kinh tế lao động",
+    "synonyms": [
+      "Kinh tế lao động"
+    ]
+  },
+  {
+    "value": "Quản trị tài chính",
+    "synonyms": [
+      "Quản trị tài chính"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tếChuyên ngành Ngoại thương",
+    "synonyms": [
+      "Kinh doanh quốc tếChuyên ngành Ngoại thương"
+    ]
+  },
+  {
+    "value": "Luật kinh tếChuyên ngành Luật kinh doanh",
+    "synonyms": [
+      "Luật kinh tếChuyên ngành Luật kinh doanh"
+    ]
+  },
+  {
+    "value": "Điều tra trinh sát Nam",
+    "synonyms": [
+      "Điều tra trinh sát Nam"
+    ]
+  },
+  {
+    "value": "Gửi đào tạo ngoài ngành",
+    "synonyms": [
+      "Gửi đào tạo ngoài ngành"
+    ]
+  },
+  {
+    "value": "Nghiệp vụ An ninh Nữ",
+    "synonyms": [
+      "Nghiệp vụ An ninh Nữ"
+    ]
+  },
+  {
+    "value": "Luật Thí sinh Nam Quân khu 9",
+    "synonyms": [
+      "Luật Thí sinh Nam Quân khu 9"
+    ]
+  },
+  {
+    "value": "Biên phòng",
+    "synonyms": [
+      "Biên phòng"
+    ]
+  },
+  {
+    "value": "Nghiệp vụ cảnh sát",
+    "synonyms": [
+      "Nghiệp vụ cảnh sát"
+    ]
+  },
+  {
+    "value": "Nghiệp vụ cảnh sát Nữ",
+    "synonyms": [
+      "Nghiệp vụ cảnh sát Nữ"
+    ]
+  },
+  {
+    "value": "Lâm nghiệp",
+    "synonyms": [
+      "Lâm nghiệp"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh CL Cao",
+    "synonyms": [
+      "Quản trị kinh doanh CL Cao"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế LK QT",
+    "synonyms": [
+      "Kinh doanh quốc tế LK QT"
+    ]
+  },
+  {
+    "value": "Thương mại",
+    "synonyms": [
+      "Thương mại"
+    ]
+  },
+  {
+    "value": "Bản đồ học",
+    "synonyms": [
+      "Bản đồ học"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ khí CL Cao",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ khí CL Cao"
+    ]
+  },
+  {
+    "value": "Công nghệ kĩ thuật cơ điện tử",
+    "synonyms": [
+      "Công nghệ kĩ thuật cơ điện tử"
+    ]
+  },
+  {
+    "value": "Công nghệ kĩ thuật ôtô",
+    "synonyms": [
+      "Công nghệ kĩ thuật ôtô"
+    ]
+  },
+  {
+    "value": "Kĩ thuật điều khiển và tự động hóa",
+    "synonyms": [
+      "Kĩ thuật điều khiển và tự động hóa"
+    ]
+  },
+  {
+    "value": "Kỹ thuật môi trường CL Cao",
+    "synonyms": [
+      "Kỹ thuật môi trường CL Cao"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm CT tiên tiến",
+    "synonyms": [
+      "Công nghệ thực phẩm CT tiên tiến"
+    ]
+  },
+  {
+    "value": "Quản lý và kinh doanh nông nghiệp quốc tế Quốc tế",
+    "synonyms": [
+      "Quản lý và kinh doanh nông nghiệp quốc tế Quốc tế"
+    ]
+  },
+  {
+    "value": "Quản lý và kinh doanh nông nghiệp",
+    "synonyms": [
+      "Quản lý và kinh doanh nông nghiệp"
+    ]
+  },
+  {
+    "value": "Thú y CT TT",
+    "synonyms": [
+      "Thú y CT TT"
+    ]
+  },
+  {
+    "value": "Quản lí đất đai",
+    "synonyms": [
+      "Quản lí đất đai"
+    ]
+  },
+  {
+    "value": "Bác sỹ Đa khoa",
+    "synonyms": [
+      "Bác sỹ Đa khoa"
+    ]
+  },
+  {
+    "value": "Khúc xạ Nhãn khoa",
+    "synonyms": [
+      "Khúc xạ Nhãn khoa"
+    ]
+  },
+  {
+    "value": "Ke toán",
+    "synonyms": [
+      "Ke toán"
+    ]
+  },
+  {
+    "value": "Khoa học môi trường",
+    "synonyms": [
+      "Khoa học môi trường"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phần mềm",
+    "synonyms": [
+      "Kỹ thuật phần mềm"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật máy tính",
+    "synonyms": [
+      "Công nghệ kỹ thuật máy tính"
+    ]
+  },
+  {
+    "value": "Công nghệ kỳ thuật cơ khí",
+    "synonyms": [
+      "Công nghệ kỳ thuật cơ khí"
+    ]
+  },
+  {
+    "value": "Công nghệ kỳ thuật cơ diện tử",
+    "synonyms": [
+      "Công nghệ kỳ thuật cơ diện tử"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Công nghệ Diện",
+    "synonyms": [
+      "Nhóm ngành Công nghệ Diện"
+    ]
+  },
+  {
+    "value": "Công nghệ kĩ thuật điện tử, truyền thông",
+    "synonyms": [
+      "Công nghệ kĩ thuật điện tử, truyền thông"
+    ]
+  },
+  {
+    "value": "Công nghệ kỳ thuật điện từ, truyền thông",
+    "synonyms": [
+      "Công nghệ kỳ thuật điện từ, truyền thông"
+    ]
+  },
+  {
+    "value": "CN Kỹ thuật Hóa học",
+    "synonyms": [
+      "CN Kỹ thuật Hóa học"
+    ]
+  },
+  {
+    "value": "CN Kỹ thuật môi trường",
+    "synonyms": [
+      "CN Kỹ thuật môi trường"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Môi trường",
+    "synonyms": [
+      "Nhóm ngành Môi trường"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm",
+    "synonyms": [
+      "Công nghệ thực phẩm"
+    ]
+  },
+  {
+    "value": "Đảm bảo chất lượng và an toàn thực phẩm",
+    "synonyms": [
+      "Đảm bảo chất lượng và an toàn thực phẩm"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỳ thuật xây dựng",
+    "synonyms": [
+      "Nhóm ngành Kỳ thuật xây dựng"
+    ]
+  },
+  {
+    "value": "Dinh dưỡng và khoa học thực phầm",
+    "synonyms": [
+      "Dinh dưỡng và khoa học thực phầm"
+    ]
+  },
+  {
+    "value": "Quản trị du lịch và lữ hành",
+    "synonyms": [
+      "Quản trị du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Quản trị khách sạn",
+    "synonyms": [
+      "Quản trị khách sạn"
+    ]
+  },
+  {
+    "value": "Quản trị nhà hàng và dịch vụ ăn uống",
+    "synonyms": [
+      "Quản trị nhà hàng và dịch vụ ăn uống"
+    ]
+  },
+  {
+    "value": "Lý luận, lịch sử và phê bình mĩ thuật",
+    "synonyms": [
+      "Lý luận, lịch sử và phê bình mĩ thuật"
+    ]
+  },
+  {
+    "value": "Hội họa",
+    "synonyms": [
+      "Hội họa"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Liên kết với Đại học CityU, Hoa Kỳ",
+    "synonyms": [
+      "Quản trị kinh doanh Liên kết với Đại học CityU, Hoa Kỳ"
+    ]
+  },
+  {
+    "value": "Tài chính ngân hàng chuyên ngành Tài chính doanh nghiệp",
+    "synonyms": [
+      "Tài chính ngân hàng chuyên ngành Tài chính doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Quản lý Tài chính- Kế toán Liên kết với Đại học Sunderland, Vương quốc Anh",
+    "synonyms": [
+      "Quản lý Tài chính- Kế toán Liên kết với Đại học Sunderland, Vương quốc Anh"
+    ]
+  },
+  {
+    "value": "Chỉ huy tham mưu Pháo binh",
+    "synonyms": [
+      "Chỉ huy tham mưu Pháo binh"
+    ]
+  },
+  {
+    "value": "ĐHSP Toán THPT",
+    "synonyms": [
+      "ĐHSP Toán THPT"
+    ]
+  },
+  {
+    "value": "ĐHSP Hoá học THPT",
+    "synonyms": [
+      "ĐHSP Hoá học THPT"
+    ]
+  },
+  {
+    "value": "ĐHSP Ngữ văn THPT",
+    "synonyms": [
+      "ĐHSP Ngữ văn THPT"
+    ]
+  },
+  {
+    "value": "ĐHSP Địa lí",
+    "synonyms": [
+      "ĐHSP Địa lí"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Tiếng Anh *",
+    "synonyms": [
+      "Ngôn ngữ Tiếng Anh *"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Tiếng Trung *",
+    "synonyms": [
+      "Ngôn ngữ Tiếng Trung *"
+    ]
+  },
+  {
+    "value": "Cử nhân Kinh tế",
+    "synonyms": [
+      "Cử nhân Kinh tế"
+    ]
+  },
+  {
+    "value": "Cử nhân Quản trị Kinh doanh",
+    "synonyms": [
+      "Cử nhân Quản trị Kinh doanh"
+    ]
+  },
+  {
+    "value": "Cử nhân Tài chính Ngân hàng",
+    "synonyms": [
+      "Cử nhân Tài chính Ngân hàng"
+    ]
+  },
+  {
+    "value": "Cử nhân Kế toán",
+    "synonyms": [
+      "Cử nhân Kế toán"
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy cơ khí",
+    "synonyms": [
+      "Công nghệ chế tạo máy cơ khí"
+    ]
+  },
+  {
+    "value": "Khoa học cây trồng Chuyên ngành Kỹ sư Nông học",
+    "synonyms": [
+      "Khoa học cây trồng Chuyên ngành Kỹ sư Nông học"
+    ]
+  },
+  {
+    "value": "Cử nhân Công tác xã hội",
+    "synonyms": [
+      "Cử nhân Công tác xã hội"
+    ]
+  },
+  {
+    "value": "Quản trị dịch vụ du lịch và lữ hành Quản trị dịch vụ du lịch và lữ hành",
+    "synonyms": [
+      "Quản trị dịch vụ du lịch và lữ hành Quản trị dịch vụ du lịch và lữ hành"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin quản lý Quản trị hệ thống thông tin kinh tế",
+    "synonyms": [
+      "Hệ thống thông tin quản lý Quản trị hệ thống thông tin kinh tế"
+    ]
+  },
+  {
+    "value": "Kế toán Kế toán công",
+    "synonyms": [
+      "Kế toán Kế toán công"
+    ]
+  },
+  {
+    "value": "Kế toán Kế toán doanh nghiệp-Chất lượng cao",
+    "synonyms": [
+      "Kế toán Kế toán doanh nghiệp-Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kế toán Kế toán doanh nghiệp",
+    "synonyms": [
+      "Kế toán Kế toán doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Kinh tế quốc tế Kinh tế quốc tế",
+    "synonyms": [
+      "Kinh tế quốc tế Kinh tế quốc tế"
+    ]
+  },
+  {
+    "value": "Luật kinh tế Luật kinh tế",
+    "synonyms": [
+      "Luật kinh tế Luật kinh tế"
+    ]
+  },
+  {
+    "value": "Marketing Marketing thương mại",
+    "synonyms": [
+      "Marketing Marketing thương mại"
+    ]
+  },
+  {
+    "value": "Ngôn ngữ Anh Tiếng Anh Thương mại",
+    "synonyms": [
+      "Ngôn ngữ Anh Tiếng Anh Thương mại"
+    ]
+  },
+  {
+    "value": "Kinh tế Quản lý kinh tế",
+    "synonyms": [
+      "Kinh tế Quản lý kinh tế"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Quản trị kinh doanh",
+    "synonyms": [
+      "Quản trị kinh doanh Quản trị kinh doanh"
+    ]
+  },
+  {
+    "value": "Quản trị khách sạn Quản trị khách sạn",
+    "synonyms": [
+      "Quản trị khách sạn Quản trị khách sạn"
+    ]
+  },
+  {
+    "value": "Quản trị nhân lực Quản trị nhân lực doanh nghiệp",
+    "synonyms": [
+      "Quản trị nhân lực Quản trị nhân lực doanh nghiệp"
+    ]
+  },
+  {
+    "value": "Marketing Quản trị thương hiệu",
+    "synonyms": [
+      "Marketing Quản trị thương hiệu"
+    ]
+  },
+  {
+    "value": "Tài chính - Ngân hàng Tài chính công",
+    "synonyms": [
+      "Tài chính - Ngân hàng Tài chính công"
+    ]
+  },
+  {
+    "value": "Tài chính - Ngân hàng Tài chính – Ngân hàng thương mại",
+    "synonyms": [
+      "Tài chính - Ngân hàng Tài chính – Ngân hàng thương mại"
+    ]
+  },
+  {
+    "value": "Tài chính - Ngân hàng TC-NH thương mại-Chất lượng cao",
+    "synonyms": [
+      "Tài chính - Ngân hàng TC-NH thương mại-Chất lượng cao"
+    ]
+  },
+  {
+    "value": "Thương mại điện tử Quản trị Thương mại điện tử",
+    "synonyms": [
+      "Thương mại điện tử Quản trị Thương mại điện tử"
+    ]
+  },
+  {
+    "value": "Kinh doanh quốc tế Thương mại quốc tế",
+    "synonyms": [
+      "Kinh doanh quốc tế Thương mại quốc tế"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Tiếng Pháp thương mại",
+    "synonyms": [
+      "Quản trị kinh doanh Tiếng Pháp thương mại"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Tiếng Trung thương mại",
+    "synonyms": [
+      "Quản trị kinh doanh Tiếng Trung thương mại"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ôtô",
+    "synonyms": [
+      "Công nghệ kỹ thuật ôtô"
+    ]
+  },
+  {
+    "value": "Kỹ thuật in",
+    "synonyms": [
+      "Kỹ thuật in"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện",
+    "synonyms": [
+      "Chương trình tiên tiến Điều khiển - Tự động hóa và Hệ thống điện"
+    ]
+  },
+  {
+    "value": "Quản lý công nghiệp - Logistics và Quản lý chuỗi cung ứng - ĐH Northampton Anh",
+    "synonyms": [
+      "Quản lý công nghiệp - Logistics và Quản lý chuỗi cung ứng - ĐH Northampton Anh"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh - ĐH Victoria New Zealand",
+    "synonyms": [
+      "Quản trị kinh doanh - ĐH Victoria New Zealand"
+    ]
+  },
+  {
+    "value": "Kinh tế công nghiệp",
+    "synonyms": [
+      "Kinh tế công nghiệp"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến Điện tử - Viễn thông",
+    "synonyms": [
+      "Chương trình tiên tiến Điện tử - Viễn thông"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến Kỹ thuật Y sinh",
+    "synonyms": [
+      "Chương trình tiên tiến Kỹ thuật Y sinh"
+    ]
+  },
+  {
+    "value": "Điện tử - Viễn thông - ĐH Leibniz Hannover Đức",
+    "synonyms": [
+      "Điện tử - Viễn thông - ĐH Leibniz Hannover Đức"
+    ]
+  },
+  {
+    "value": "Tiếng Anh KHKT và Công nghệ",
+    "synonyms": [
+      "Tiếng Anh KHKT và Công nghệ"
+    ]
+  },
+  {
+    "value": "Tiếng Anh chuyên nghiệp quốc tế",
+    "synonyms": [
+      "Tiếng Anh chuyên nghiệp quốc tế"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Nhiệt",
+    "synonyms": [
+      "Kỹ thuật Nhiệt"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Việt-Nhật",
+    "synonyms": [
+      "Công nghệ thông tin Việt-Nhật"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin ICT",
+    "synonyms": [
+      "Công nghệ thông tin ICT"
+    ]
+  },
+  {
+    "value": "Hệ thống thông tin - ĐH Grenoble Pháp",
+    "synonyms": [
+      "Hệ thống thông tin - ĐH Grenoble Pháp"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin - ĐH La Trobe Úc",
+    "synonyms": [
+      "Công nghệ thông tin - ĐH La Trobe Úc"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin - ĐH Victoria New Zealand",
+    "synonyms": [
+      "Công nghệ thông tin - ĐH Victoria New Zealand"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến Cơ điện tử",
+    "synonyms": [
+      "Chương trình tiên tiến Cơ điện tử"
+    ]
+  },
+  {
+    "value": "Cơ khí - Chế tạo máy - ĐH Griffith Úc",
+    "synonyms": [
+      "Cơ khí - Chế tạo máy - ĐH Griffith Úc"
+    ]
+  },
+  {
+    "value": "Cơ điện tử - ĐH Nagaoka Nhật Bản",
+    "synonyms": [
+      "Cơ điện tử - ĐH Nagaoka Nhật Bản"
+    ]
+  },
+  {
+    "value": "Toán-Tin",
+    "synonyms": [
+      "Toán-Tin"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến KHKT Vật liệu",
+    "synonyms": [
+      "Chương trình tiên tiến KHKT Vật liệu"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến Kỹ thuật Ô tô",
+    "synonyms": [
+      "Chương trình tiên tiến Kỹ thuật Ô tô"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Cơ khí động lực",
+    "synonyms": [
+      "Kỹ thuật Cơ khí động lực"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Hàng không",
+    "synonyms": [
+      "Kỹ thuật Hàng không"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh - ĐH Troy Hoa Kỳ",
+    "synonyms": [
+      "Quản trị kinh doanh - ĐH Troy Hoa Kỳ"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính - ĐH Troy Hoa Kỳ",
+    "synonyms": [
+      "Khoa học máy tính - ĐH Troy Hoa Kỳ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Dệt",
+    "synonyms": [
+      "Kỹ thuật Dệt"
+    ]
+  },
+  {
+    "value": "Công nghệ May",
+    "synonyms": [
+      "Công nghệ May"
+    ]
+  },
+  {
+    "value": "Dinh dưỡng học",
+    "synonyms": [
+      "Dinh dưỡng học"
+    ]
+  },
+  {
+    "value": "Sư Phạm Toán",
+    "synonyms": [
+      "Sư Phạm Toán"
+    ]
+  },
+  {
+    "value": "GD Tiểu học tiếng Jrai",
+    "synonyms": [
+      "GD Tiểu học tiếng Jrai"
+    ]
+  },
+  {
+    "value": "Giáo dục Tiểu học - Tiếng J\u0027rai",
+    "synonyms": [
+      "Giáo dục Tiểu học - Tiếng J\u0027rai"
+    ]
+  },
+  {
+    "value": "Y đa khoa Hệ liên thông",
+    "synonyms": [
+      "Y đa khoa Hệ liên thông"
+    ]
+  },
+  {
+    "value": "Xét nghiệm y học",
+    "synonyms": [
+      "Xét nghiệm y học"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh Cử nhân",
+    "synonyms": [
+      "Quản trị kinh doanh Cử nhân"
+    ]
+  },
+  {
+    "value": "Câp thoát nước",
+    "synonyms": [
+      "Câp thoát nước"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí chuyên ngành Máy xây dựng",
+    "synonyms": [
+      "Kỹ thuật cơ khí chuyên ngành Máy xây dựng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí chuyên ngành Cơ giới hoá xây dựng",
+    "synonyms": [
+      "Kỹ thuật cơ khí chuyên ngành Cơ giới hoá xây dựng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Trắc địa - Bản đồ Chuyên ngành Kỹ thuật Trắc địa xây dựng - Địa chính",
+    "synonyms": [
+      "Kỹ thuật Trắc địa - Bản đồ Chuyên ngành Kỹ thuật Trắc địa xây dựng - Địa chính"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Dân dụng và Công nghiệp",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Dân dụng và Công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng chuyên ngành Hệ thống kỹ thuật trong công trình",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng chuyên ngành Hệ thống kỹ thuật trong công trình"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Cảng - Đường thuỷ",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Cảng - Đường thuỷ"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Thuỷ lợi - Thuỷ điện",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng chuyên ngành Xây dựng Thuỷ lợi - Thuỷ điện"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng chuyên ngành Tin học xây dựng",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng chuyên ngành Tin học xây dựng"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Công trình biển",
+    "synonyms": [
+      "Kỹ thuật Công trình biển"
+    ]
+  },
+  {
+    "value": "Kinh tê xây dụng",
+    "synonyms": [
+      "Kinh tê xây dụng"
+    ]
+  },
+  {
+    "value": "Quản lý xây dựng chuyên ngành Kinh tế và Quản lý đô thị.",
+    "synonyms": [
+      "Quản lý xây dựng chuyên ngành Kinh tế và Quản lý đô thị."
+    ]
+  },
+  {
+    "value": "Quản lý xây dựng chuyên ngành Kinh tế và Quản lý Bất động sản.",
+    "synonyms": [
+      "Quản lý xây dựng chuyên ngành Kinh tế và Quản lý Bất động sản."
+    ]
+  },
+  {
+    "value": "Tài chính và Kế toán*",
+    "synonyms": [
+      "Tài chính và Kế toán*"
+    ]
+  },
+  {
+    "value": "Kỹ thuật điện và công nghệ thông tin",
+    "synonyms": [
+      "Kỹ thuật điện và công nghệ thông tin"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng Gồm các ngành Kỹ thuật công trình thủy, Kỹ thuật công trình xây dựng, Kỹ thuật xây dựng công trình giao thông, Công nghệ kỹ thuật xây dựng Quản lý xây dựng, Kỹ thuật công",
+    "synonyms": [
+      "Kỹ thuật xây dựng Gồm các ngành Kỹ thuật công trình thủy, Kỹ thuật công trình xây dựng, Kỹ thuật xây dựng công trình giao thông, Công nghệ kỹ thuật xây dựng Quản lý xây dựng, Kỹ thuật công"
+    ]
+  },
+  {
+    "value": "Kỹ thuật tài nguyên nước Gồm các ngành Kỹ thuật tài nguyên nước, Thủy văn",
+    "synonyms": [
+      "Kỹ thuật tài nguyên nước Gồm các ngành Kỹ thuật tài nguyên nước, Thủy văn"
+    ]
+  },
+  {
+    "value": "Kỹ thuật hạ tầng Gồm các ngành Kỹ thuật cơ sở hạ tầng, Cấp thoát nước",
+    "synonyms": [
+      "Kỹ thuật hạ tầng Gồm các ngành Kỹ thuật cơ sở hạ tầng, Cấp thoát nước"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Gồm các ngành Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm",
+    "synonyms": [
+      "Công nghệ thông tin Gồm các ngành Công nghệ thông tin, Hệ thống thông tin, Kỹ thuật phần mềm"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến ngành Kỹ thuật xây dựng",
+    "synonyms": [
+      "Chương trình tiên tiến ngành Kỹ thuật xây dựng"
+    ]
+  },
+  {
+    "value": "Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước",
+    "synonyms": [
+      "Chương trình tiên tiến ngành Kỹ thuật tài nguyên nước"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng Gồm các ngành Kỹ thuật công trình thủy, Kỹ thuật công trình giao thông, Công nghệ kỹ thuật xây dựng.",
+    "synonyms": [
+      "Kỹ thuật xây dựng Gồm các ngành Kỹ thuật công trình thủy, Kỹ thuật công trình giao thông, Công nghệ kỹ thuật xây dựng."
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin Gồm các ngành Công nghệ thông tin, Kỹ thuật phần mềm.",
+    "synonyms": [
+      "Công nghệ thông tin Gồm các ngành Công nghệ thông tin, Kỹ thuật phần mềm."
+    ]
+  },
+  {
+    "value": "Cấp thoát nước",
+    "synonyms": [
+      "Cấp thoát nước"
+    ]
+  },
+  {
+    "value": "Sư phạm Kỹ thuật công nghiệp",
+    "synonyms": [
+      "Sư phạm Kỹ thuật công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện tử, Truyền thông Điện tử viễn thông; Kỹ thuật điện tử",
+    "synonyms": [
+      "Kỹ thuật Điện tử, Truyền thông Điện tử viễn thông",
+      " Kỹ thuật điện tử"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Máy tính Tin học Công nghiệp",
+    "synonyms": [
+      "Kỹ thuật Máy tính Tin học Công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điều khiển và Tự động hoá Tự động hóa Xí nghiệp Công nghiệp; Kỹ thuật Điều khiển",
+    "synonyms": [
+      "Kỹ thuật Điều khiển và Tự động hoá Tự động hóa Xí nghiệp Công nghiệp",
+      "Kỹ thuật Điều khiển"
+    ]
+  },
+  {
+    "value": "Kỹ thuật công trình xây dựng Xây dựng dân dụng và công nghiệp",
+    "synonyms": [
+      "Kỹ thuật công trình xây dựng Xây dựng dân dụng và công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Cơ khí - Chương trình tiên tiến",
+    "synonyms": [
+      "Kỹ thuật Cơ khí - Chương trình tiên tiến"
+    ]
+  },
+  {
+    "value": "Kỹ thuật Điện - Chương trình tiên tiến",
+    "synonyms": [
+      "Kỹ thuật Điện - Chương trình tiên tiến"
+    ]
+  },
+  {
+    "value": "Công thôn",
+    "synonyms": [
+      "Công thôn"
+    ]
+  },
+  {
+    "value": "Kỹ thuật cơ khí chất lượng cao",
+    "synonyms": [
+      "Kỹ thuật cơ khí chất lượng cao"
+    ]
+  },
+  {
+    "value": "Công nghệ chế biến lâm sản chất lượng cao",
+    "synonyms": [
+      "Công nghệ chế biến lâm sản chất lượng cao"
+    ]
+  },
+  {
+    "value": "Kiến trúc cảnh quan",
+    "synonyms": [
+      "Kiến trúc cảnh quan"
+    ]
+  },
+  {
+    "value": "Lâm nghiệp Tiếng Anh",
+    "synonyms": [
+      "Lâm nghiệp Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên rừng Kiểm lâm",
+    "synonyms": [
+      "Quản lý tài nguyên rừng Kiểm lâm"
+    ]
+  },
+  {
+    "value": "Quản lí tài nguyên thiên nhiên",
+    "synonyms": [
+      "Quản lí tài nguyên thiên nhiên"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên thiên nhiên *T.Việt",
+    "synonyms": [
+      "Quản lý tài nguyên thiên nhiên *T.Việt"
+    ]
+  },
+  {
+    "value": "Quản lý tài nguyên thiên nhiên CT tiên tiến- Tiếng Anh",
+    "synonyms": [
+      "Quản lý tài nguyên thiên nhiên CT tiên tiến- Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Khúc xạ nhãn khoa*",
+    "synonyms": [
+      "Khúc xạ nhãn khoa*"
+    ]
+  },
+  {
+    "value": "Kỹ thuật y học",
+    "synonyms": [
+      "Kỹ thuật y học"
+    ]
+  },
+  {
+    "value": "Lý luận, lịch sử và phê bình mỹ thuật",
+    "synonyms": [
+      "Lý luận, lịch sử và phê bình mỹ thuật"
+    ]
+  },
+  {
+    "value": "Đồ hoạ",
+    "synonyms": [
+      "Đồ hoạ"
+    ]
+  },
+  {
+    "value": "Quản lí nhà nước",
+    "synonyms": [
+      "Quản lí nhà nước"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật, Hậu cần CAND Nam phía Nam",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật, Hậu cần CAND Nam phía Nam"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật, Hậu cần CAND Nữ phía Bắc",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật, Hậu cần CAND Nữ phía Bắc"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật, Hậu cần CAND Nam phía Bắc",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật, Hậu cần CAND Nam phía Bắc"
+    ]
+  },
+  {
+    "value": "Nhóm ngành Kỹ thuật, Hậu cần CAND Nữ phía Nam",
+    "synonyms": [
+      "Nhóm ngành Kỹ thuật, Hậu cần CAND Nữ phía Nam"
+    ]
+  },
+  {
+    "value": "Chính trị công an nhân dân Nam phía Nam",
+    "synonyms": [
+      "Chính trị công an nhân dân Nam phía Nam"
+    ]
+  },
+  {
+    "value": "Chính trị công an nhân dân Nữ phía Nam",
+    "synonyms": [
+      "Chính trị công an nhân dân Nữ phía Nam"
+    ]
+  },
+  {
+    "value": "Chính trị công an nhân dân Nữ phía Bắc",
+    "synonyms": [
+      "Chính trị công an nhân dân Nữ phía Bắc"
+    ]
+  },
+  {
+    "value": "Chính trị công an nhân dân Nam phía Bắc",
+    "synonyms": [
+      "Chính trị công an nhân dân Nam phía Bắc"
+    ]
+  },
+  {
+    "value": "Gốm",
+    "synonyms": [
+      "Gốm"
+    ]
+  },
+  {
+    "value": "Sư phạm Âm nhạc Đào tạo dân sự- đại học đào tạo 4 năm",
+    "synonyms": [
+      "Sư phạm Âm nhạc Đào tạo dân sự- đại học đào tạo 4 năm"
+    ]
+  },
+  {
+    "value": "Sáng tác âm nhạc",
+    "synonyms": [
+      "Sáng tác âm nhạc"
+    ]
+  },
+  {
+    "value": "Chỉ huy âm nhạc",
+    "synonyms": [
+      "Chỉ huy âm nhạc"
+    ]
+  },
+  {
+    "value": "Thanh Nhạc Đào tạo dân sự- đại học đào tạo 4 năm",
+    "synonyms": [
+      "Thanh Nhạc Đào tạo dân sự- đại học đào tạo 4 năm"
+    ]
+  },
+  {
+    "value": "Biểu diễn nhạc cụ phương Tây",
+    "synonyms": [
+      "Biểu diễn nhạc cụ phương Tây"
+    ]
+  },
+  {
+    "value": "Biêu diên nhạc cụ phương Tây",
+    "synonyms": [
+      "Biêu diên nhạc cụ phương Tây"
+    ]
+  },
+  {
+    "value": "Biểu diên nhạc cụ truyền thống",
+    "synonyms": [
+      "Biểu diên nhạc cụ truyền thống"
+    ]
+  },
+  {
+    "value": "Đạo diên sân khấu",
+    "synonyms": [
+      "Đạo diên sân khấu"
+    ]
+  },
+  {
+    "value": "Biên đạo múa",
+    "synonyms": [
+      "Biên đạo múa"
+    ]
+  },
+  {
+    "value": "Huấn luyện múa",
+    "synonyms": [
+      "Huấn luyện múa"
+    ]
+  },
+  {
+    "value": "Huân luyện múa",
+    "synonyms": [
+      "Huân luyện múa"
+    ]
+  },
+  {
+    "value": "Khoa học thư viện",
+    "synonyms": [
+      "Khoa học thư viện"
+    ]
+  },
+  {
+    "value": "Văn hóa các dân tộc thiểu số Việt Nam",
+    "synonyms": [
+      "Văn hóa các dân tộc thiểu số Việt Nam"
+    ]
+  },
+  {
+    "value": "Văn hóa học chuyên ngành Văn hóa Việt Nam",
+    "synonyms": [
+      "Văn hóa học chuyên ngành Văn hóa Việt Nam"
+    ]
+  },
+  {
+    "value": "Văn hóa học chuyên ngành Truyền thông Văn hóa",
+    "synonyms": [
+      "Văn hóa học chuyên ngành Truyền thông Văn hóa"
+    ]
+  },
+  {
+    "value": "Quản lý văn hóa Chuyên ngành Quản lý hoạt động Văn hóa Xã hội",
+    "synonyms": [
+      "Quản lý văn hóa Chuyên ngành Quản lý hoạt động Văn hóa Xã hội"
+    ]
+  },
+  {
+    "value": "Quản lý văn hóa chuyên ngành Quản lý Di sản văn hóa",
+    "synonyms": [
+      "Quản lý văn hóa chuyên ngành Quản lý Di sản văn hóa"
+    ]
+  },
+  {
+    "value": "Quản lý văn hóa chuyên ngành Tổ chức hoạt động Văn hóa Nghệ thuật",
+    "synonyms": [
+      "Quản lý văn hóa chuyên ngành Tổ chức hoạt động Văn hóa Nghệ thuật"
+    ]
+  },
+  {
+    "value": "Quản lý văn hóa chuyên ngành Biểu diễn âm nhạc",
+    "synonyms": [
+      "Quản lý văn hóa chuyên ngành Biểu diễn âm nhạc"
+    ]
+  },
+  {
+    "value": "Diễn viên sân khấu kịch hát",
+    "synonyms": [
+      "Diễn viên sân khấu kịch hát"
+    ]
+  },
+  {
+    "value": "Lý luận phê bình điện ảnh, truyền hình",
+    "synonyms": [
+      "Lý luận phê bình điện ảnh, truyền hình"
+    ]
+  },
+  {
+    "value": "Biên kịch điện ảnh, truyền hình",
+    "synonyms": [
+      "Biên kịch điện ảnh, truyền hình"
+    ]
+  },
+  {
+    "value": "Diễn viên kịch, điện ảnh – truyền hình liên thông chưa đủ 36 tháng",
+    "synonyms": [
+      "Diễn viên kịch, điện ảnh – truyền hình liên thông chưa đủ 36 tháng"
+    ]
+  },
+  {
+    "value": "Diễn viên kịch, điện ảnh – truyền hình liên thông đủ 36 tháng",
+    "synonyms": [
+      "Diễn viên kịch, điện ảnh – truyền hình liên thông đủ 36 tháng"
+    ]
+  },
+  {
+    "value": "Diễn viên kịch, điện ảnh – truyền hình",
+    "synonyms": [
+      "Diễn viên kịch, điện ảnh – truyền hình"
+    ]
+  },
+  {
+    "value": "Đạo diễn truyền hình",
+    "synonyms": [
+      "Đạo diễn truyền hình"
+    ]
+  },
+  {
+    "value": "Đạo diễn điện ảnh",
+    "synonyms": [
+      "Đạo diễn điện ảnh"
+    ]
+  },
+  {
+    "value": "Quay phim truyền hình",
+    "synonyms": [
+      "Quay phim truyền hình"
+    ]
+  },
+  {
+    "value": "Quay phim điện ảnh",
+    "synonyms": [
+      "Quay phim điện ảnh"
+    ]
+  },
+  {
+    "value": "Nhiếp ảnh",
+    "synonyms": [
+      "Nhiếp ảnh"
+    ]
+  },
+  {
+    "value": "Âm thanh điện ảnh truyền hình",
+    "synonyms": [
+      "Âm thanh điện ảnh truyền hình"
+    ]
+  },
+  {
+    "value": "Công nghệ dựng phim",
+    "synonyms": [
+      "Công nghệ dựng phim"
+    ]
+  },
+  {
+    "value": "Thiết kế mỹ thuật sân khấu, điện ảnh",
+    "synonyms": [
+      "Thiết kế mỹ thuật sân khấu, điện ảnh"
+    ]
+  },
+  {
+    "value": "Âm nhạc học VB2 2 năm",
+    "synonyms": [
+      "Âm nhạc học VB2 2 năm"
+    ]
+  },
+  {
+    "value": "Âm nhạc học 4 năm",
+    "synonyms": [
+      "Âm nhạc học 4 năm"
+    ]
+  },
+  {
+    "value": "Sáng tác âm nhạc VB2 2 năm",
+    "synonyms": [
+      "Sáng tác âm nhạc VB2 2 năm"
+    ]
+  },
+  {
+    "value": "Sáng tác âm nhạc 4 năm",
+    "synonyms": [
+      "Sáng tác âm nhạc 4 năm"
+    ]
+  },
+  {
+    "value": "Chỉ huy âm nhạc 4 năm Chỉ huy Hợp xướng; Chỉ huy Dàn nhạc",
+    "synonyms": [
+      "Chỉ huy âm nhạc 4 năm Chỉ huy Hợp xướng"
+    ]
+  },
+  {
+    "value": "Chỉ huy âm nhạc VB2 2 năm Chỉ huy Hợp xướng; Chỉ huy Dàn nhạc",
+    "synonyms": [
+      "Chỉ huy âm nhạc VB2 2 năm Chỉ huy Hợp xướng",
+      " Chỉ huy Dàn nhạc"
+    ]
+  },
+  {
+    "value": "Thanh nhạc 4 năm",
+    "synonyms": [
+      "Thanh nhạc 4 năm"
+    ]
+  },
+  {
+    "value": "Biểu diễn nhạc cụ phương Tây 4 năm Violon, Violon Alto, Violoncelle, Contrebasse; Harpe, Flûte, Tuba, Hautbois, Clarinette, Basson, Cor, Trompette, Trombone, Gõ giao hưởng, Accordéon, Guitare, Saxophone, Gõ nhạc nhẹ, Orgue điện tử, Piano nhạc nhẹ, Orgue điện tử, Piano nhạc nhẹ, Guitare nhạc nhẹ.",
+    "synonyms": [
+      "Biểu diễn nhạc cụ phương Tây 4 năm Violon, Violon Alto, Violoncelle, Contrebasse",
+      " Harpe, Flûte, Tuba, Hautbois, Clarinette, Basson, Cor, Trompette, Trombone, Gõ giao hưởng, Accordéon, Guitare, Saxophone, Gõ nhạc nhẹ, Orgue điện tử, Piano nhạc nhẹ, Orgue điện tử, Piano nhạc nhẹ, Guitare nhạc nhẹ."
+    ]
+  },
+  {
+    "value": "Piano 4 năm",
+    "synonyms": [
+      "Piano 4 năm"
+    ]
+  },
+  {
+    "value": "Biểu diễn nhạc cụ truyền thống 4 năm Sáo trúc, Tranh, Bầu, Nguyệt, Tỳ bà, Ghi-ta phím lốm, Nhị, Tam Thập lục.",
+    "synonyms": [
+      "Biểu diễn nhạc cụ truyền thống 4 năm Sáo trúc, Tranh, Bầu, Nguyệt, Tỳ bà, Ghi-ta phím lốm, Nhị, Tam Thập lục."
+    ]
+  },
+  {
+    "value": "Giáo dục Thể chất cao đẳng",
+    "synonyms": [
+      "Giáo dục Thể chất cao đẳng"
+    ]
+  },
+  {
+    "value": "Giáo dục thể chất  Học sinh PT",
+    "synonyms": [
+      "Giáo dục thể chất  Học sinh PT"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh  gồm các chuyên ngành Quản trị kinh doanh, Thương mại quốc tế, Quản trị du lịch, Kinh tế đối ngoại, Marketing, Quản trị nhà hàng - khách sạn",
+    "synonyms": [
+      "Quản trị kinh doanh  gồm các chuyên ngành Quản trị kinh doanh, Thương mại quốc tế, Quản trị du lịch, Kinh tế đối ngoại, Marketing, Quản trị nhà hàng - khách sạn"
+    ]
+  },
+  {
+    "value": "Khoa học máy tính gồm các chuyên ngành Khoa học máy tính, Kỹ thuật phần mềm",
+    "synonyms": [
+      "Khoa học máy tính gồm các chuyên ngành Khoa học máy tính, Kỹ thuật phần mềm"
+    ]
+  },
+  {
+    "value": "Tiếng Anh",
+    "synonyms": [
+      "Tiếng Anh"
+    ]
+  },
+  {
+    "value": "Tiếng Trung Quốc  thi Tiếng Anh và Tiếng Pháp ",
+    "synonyms": [
+      "Tiếng Trung Quốc  thi Tiếng Anh và Tiếng Pháp "
+    ]
+  },
+  {
+    "value": "Bác sĩ đa khoa",
+    "synonyms": [
+      "Bác sĩ đa khoa"
+    ]
+  },
+  {
+    "value": "Ọuản lí giáo dục",
+    "synonyms": [
+      "Ọuản lí giáo dục"
+    ]
+  },
+  {
+    "value": "Kinh tế giáo dục",
+    "synonyms": [
+      "Kinh tế giáo dục"
+    ]
+  },
+  {
+    "value": "Tâm lí học giáo dục",
+    "synonyms": [
+      "Tâm lí học giáo dục"
+    ]
+  },
+  {
+    "value": "Thiết kế đồ họa",
+    "synonyms": [
+      "Thiết kế đồ họa"
+    ]
+  },
+  {
+    "value": "Tiếng Anh biên và phiên dịch",
+    "synonyms": [
+      "Tiếng Anh biên và phiên dịch"
+    ]
+  },
+  {
+    "value": "15. Ngôn ngữ Trung Quốc",
+    "synonyms": [
+      "15. Ngôn ngữ Trung Quốc"
+    ]
+  },
+  {
+    "value": "10. Công nghệ thông tin",
+    "synonyms": [
+      "10. Công nghệ thông tin"
+    ]
+  },
+  {
+    "value": "9. Công nghệ kỹ thuật điện, điện tử",
+    "synonyms": [
+      "9. Công nghệ kỹ thuật điện, điện tử"
+    ]
+  },
+  {
+    "value": "- Kiến trúc",
+    "synonyms": [
+      "- Kiến trúc"
+    ]
+  },
+  {
+    "value": "- Kỹ thuật công trình xây dựngXây dựng Dân dụng và Công nghiệp",
+    "synonyms": [
+      "- Kỹ thuật công trình xây dựngXây dựng Dân dụng và Công nghiệp"
+    ]
+  },
+  {
+    "value": "- Kỹ thuật xây dựng công trình giao thông Xây dựng Cầu - Đường",
+    "synonyms": [
+      "- Kỹ thuật xây dựng công trình giao thông Xây dựng Cầu - Đường"
+    ]
+  },
+  {
+    "value": "- Quản lý Xây dựng",
+    "synonyms": [
+      "- Quản lý Xây dựng"
+    ]
+  },
+  {
+    "value": "Dược học A",
+    "synonyms": [
+      "Dược học A"
+    ]
+  },
+  {
+    "value": "Dược học B",
+    "synonyms": [
+      "Dược học B"
+    ]
+  },
+  {
+    "value": "Huấn luyện thể thao*",
+    "synonyms": [
+      "Huấn luyện thể thao*"
+    ]
+  },
+  {
+    "value": "Quản lý thể dục thể thao*",
+    "synonyms": [
+      "Quản lý thể dục thể thao*"
+    ]
+  },
+  {
+    "value": "Y học dự phòng vùng ĐBSCL",
+    "synonyms": [
+      "Y học dự phòng vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Y học cổ truyền vùng ĐBSCL",
+    "synonyms": [
+      "Y học cổ truyền vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Y tế công cộng vùng ĐBSCL",
+    "synonyms": [
+      "Y tế công cộng vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Xét nghiệm y học vùng ĐBSCL",
+    "synonyms": [
+      "Xét nghiệm y học vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Dược học vùng ĐBSCL",
+    "synonyms": [
+      "Dược học vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Điều dưỡng đa khoa vùng ĐBSCL",
+    "synonyms": [
+      "Điều dưỡng đa khoa vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Răng hàm mặt vùng ĐBSCL",
+    "synonyms": [
+      "Răng hàm mặt vùng ĐBSCL"
+    ]
+  },
+  {
+    "value": "Giáo dục Thể chất  Nhóm 1 ",
+    "synonyms": [
+      "Giáo dục Thể chất  Nhóm 1 "
+    ]
+  },
+  {
+    "value": "Giáo dục Thể chất  Nhóm 2 ",
+    "synonyms": [
+      "Giáo dục Thể chất  Nhóm 2 "
+    ]
+  },
+  {
+    "value": "Chỉ huy tham mưu Tăng thiết giáp phía Bắc",
+    "synonyms": [
+      "Chỉ huy tham mưu Tăng thiết giáp phía Bắc"
+    ]
+  },
+  {
+    "value": "Chỉ huy Tham mưu Tăng - Thiết giáp",
+    "synonyms": [
+      "Chỉ huy Tham mưu Tăng - Thiết giáp"
+    ]
+  },
+  {
+    "value": "Chỉ huy kĩ thuật Thông tin A00",
+    "synonyms": [
+      "Chỉ huy kĩ thuật Thông tin A00"
+    ]
+  },
+  {
+    "value": "Chỉ huy kỹ thuật Thông tin phía Bắc",
+    "synonyms": [
+      "Chỉ huy kỹ thuật Thông tin phía Bắc"
+    ]
+  },
+  {
+    "value": "Chỉ huy kĩ thuật Thông tin A01",
+    "synonyms": [
+      "Chỉ huy kĩ thuật Thông tin A01"
+    ]
+  },
+  {
+    "value": "Điều dưỡng đa khoa Thuộc nhóm ngành Điều dưỡng 52720501",
+    "synonyms": [
+      "Điều dưỡng đa khoa Thuộc nhóm ngành Điều dưỡng 52720501"
+    ]
+  },
+  {
+    "value": "Điều dưỡng nha khoa Thuộc nhóm ngành Điều dưỡng 52720501",
+    "synonyms": [
+      "Điều dưỡng nha khoa Thuộc nhóm ngành Điều dưỡng 52720501"
+    ]
+  },
+  {
+    "value": "Điều dưỡng gây mê hồi sức Thuộc nhóm ngành Điều dưỡng 52720501",
+    "synonyms": [
+      "Điều dưỡng gây mê hồi sức Thuộc nhóm ngành Điều dưỡng 52720501"
+    ]
+  },
+  {
+    "value": "Phục hồi chức năng",
+    "synonyms": [
+      "Phục hồi chức năng"
+    ]
+  },
+  {
+    "value": "Y đa khoa Bác sĩ đa khoa",
+    "synonyms": [
+      "Y đa khoa Bác sĩ đa khoa"
+    ]
+  },
+  {
+    "value": "Xét nghiệm y học Đại học xét nghiệm 4 năm",
+    "synonyms": [
+      "Xét nghiệm y học Đại học xét nghiệm 4 năm"
+    ]
+  },
+  {
+    "value": "Điều dưỡng  Đại học điều dưỡng",
+    "synonyms": [
+      "Điều dưỡng  Đại học điều dưỡng"
+    ]
+  },
+  {
+    "value": "Bác sĩ Y học cổ truyền",
+    "synonyms": [
+      "Bác sĩ Y học cổ truyền"
+    ]
+  },
+  {
+    "value": "Dược sĩ đại học",
+    "synonyms": [
+      "Dược sĩ đại học"
+    ]
+  },
+  {
+    "value": "Công nghệ Kĩ thuật công trình xây dựng",
+    "synonyms": [
+      "Công nghệ Kĩ thuật công trình xây dựng"
+    ]
+  },
+  {
+    "value": "Quản lí xây dựng Quản lí đô thị",
+    "synonyms": [
+      "Quản lí xây dựng Quản lí đô thị"
+    ]
+  },
+  {
+    "value": "Kỹ thuật xây dựng công trình giao thông CN Xây dựng cầu đường",
+    "synonyms": [
+      "Kỹ thuật xây dựng công trình giao thông CN Xây dựng cầu đường"
+    ]
+  },
+  {
+    "value": "ĐHSP Tin học",
+    "synonyms": [
+      "ĐHSP Tin học"
+    ]
+  },
+  {
+    "value": "Sư phạm Toán học TS hộ khẩu ngoài Khánh Hòa",
+    "synonyms": [
+      "Sư phạm Toán học TS hộ khẩu ngoài Khánh Hòa"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật lý TS hộ khẩu ngoài Khánh Hòa",
+    "synonyms": [
+      "Sư phạm Vật lý TS hộ khẩu ngoài Khánh Hòa"
+    ]
+  },
+  {
+    "value": "Sư phạm Ngữ văn TS hộ khẩu ngoài Khánh Hòa",
+    "synonyms": [
+      "Sư phạm Ngữ văn TS hộ khẩu ngoài Khánh Hòa"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam Quân khu 9",
+    "synonyms": [
+      "Thí sinh Nam Quân khu 9"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam Quân khu 7",
+    "synonyms": [
+      "Thí sinh Nam Quân khu 7"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam Quân khu 5",
+    "synonyms": [
+      "Thí sinh Nam Quân khu 5"
+    ]
+  },
+  {
+    "value": "Thí sinh Nam Quân khu 4 Quảng Trị và TT-Huế",
+    "synonyms": [
+      "Thí sinh Nam Quân khu 4 Quảng Trị và TT-Huế"
+    ]
+  },
+  {
+    "value": "Chỉ huy kỹ thuật Công binh phía Bắc",
+    "synonyms": [
+      "Chỉ huy kỹ thuật Công binh phía Bắc"
+    ]
+  },
+  {
+    "value": "Chỉ huy kỹ thuật Công binh phía Nam",
+    "synonyms": [
+      "Chỉ huy kỹ thuật Công binh phía Nam"
+    ]
+  },
+  {
+    "value": "Chỉ huy tham mưu Công binh",
+    "synonyms": [
+      "Chỉ huy tham mưu Công binh"
+    ]
+  },
+  {
+    "value": "Huấn luyện thể thao",
+    "synonyms": [
+      "Huấn luyện thể thao"
+    ]
+  },
+  {
+    "value": "Quản lý TDTT",
+    "synonyms": [
+      "Quản lý TDTT"
+    ]
+  },
+  {
+    "value": "Y sinh TDTT",
+    "synonyms": [
+      "Y sinh TDTT"
+    ]
+  },
+  {
+    "value": "Sư phạm Sử - GDCD",
+    "synonyms": [
+      "Sư phạm Sử - GDCD"
+    ]
+  },
+  {
+    "value": "Hướng dẫn viên du lịch",
+    "synonyms": [
+      "Hướng dẫn viên du lịch"
+    ]
+  },
+  {
+    "value": "Kinh tế Kinh tế dầu tư",
+    "synonyms": [
+      "Kinh tế Kinh tế dầu tư"
+    ]
+  },
+  {
+    "value": "Quản trị DV Du lịch \u0026 Lữ hành",
+    "synonyms": [
+      "Quản trị DV Du lịch \u0026 Lữ hành"
+    ]
+  },
+  {
+    "value": "Công nghệ Kỹ thuật điện, điện tử",
+    "synonyms": [
+      "Công nghệ Kỹ thuật điện, điện tử"
+    ]
+  },
+  {
+    "value": "Chăn nuôi Chăn nuôi-Thú y",
+    "synonyms": [
+      "Chăn nuôi Chăn nuôi-Thú y"
+    ]
+  },
+  {
+    "value": "Chăn nuôi Chăn nuôi - Thú y",
+    "synonyms": [
+      "Chăn nuôi Chăn nuôi - Thú y"
+    ]
+  },
+  {
+    "value": "Giáo dục Công dân chuyên ngành Giáo dục Công dân - Địa lý",
+    "synonyms": [
+      "Giáo dục Công dân chuyên ngành Giáo dục Công dân - Địa lý"
+    ]
+  },
+  {
+    "value": "Sư phạm Toán chuyên ngành Sư phạm Toán học - Vật lý, Sư phạm Toán học - Tin học",
+    "synonyms": [
+      "Sư phạm Toán chuyên ngành Sư phạm Toán học - Vật lý, Sư phạm Toán học - Tin học"
+    ]
+  },
+  {
+    "value": "Sư phạm Tin học chuyên ngành Sư phạm Tin học - Kỹ thuật công nghiệp",
+    "synonyms": [
+      "Sư phạm Tin học chuyên ngành Sư phạm Tin học - Kỹ thuật công nghiệp"
+    ]
+  },
+  {
+    "value": "Sư phạm Vật lý chuyên ngành Sư phạm Vật lý - Kỹ thuật công nghiệp",
+    "synonyms": [
+      "Sư phạm Vật lý chuyên ngành Sư phạm Vật lý - Kỹ thuật công nghiệp"
+    ]
+  },
+  {
+    "value": "Sư phạm Hóa học chuyên ngành Sư phạm Hóa học - Kỹ thuật nông nghiệp",
+    "synonyms": [
+      "Sư phạm Hóa học chuyên ngành Sư phạm Hóa học - Kỹ thuật nông nghiệp"
+    ]
+  },
+  {
+    "value": "Sư phạm Sinh học chuyên ngành Sư phạm Sinh học - Kỹ thuật nông nghiệp, Sư phạm Sinh học - Giáo dục thể chất",
+    "synonyms": [
+      "Sư phạm Sinh học chuyên ngành Sư phạm Sinh học - Kỹ thuật nông nghiệp, Sư phạm Sinh học - Giáo dục thể chất"
+    ]
+  },
+  {
+    "value": "Sư phạm Sinh học.",
+    "synonyms": [
+      "Sư phạm Sinh học."
+    ]
+  },
+  {
+    "value": "Sư phạm Kỹ thuật nông nghiệp chuyên ngành Sư phạm Kỹ thuật nông nghiệp - Kinh tế gia đình - Kỹ thuật CN",
+    "synonyms": [
+      "Sư phạm Kỹ thuật nông nghiệp chuyên ngành Sư phạm Kỹ thuật nông nghiệp - Kinh tế gia đình - Kỹ thuật CN"
+    ]
+  },
+  {
+    "value": "Sư phạm Ngữ văn chuyên ngành Sư phạm Ngữ văn - Lịch Sử, Sư phạm Ngữ văn - Công tác Đội TNTP Hồ Chí Minh",
+    "synonyms": [
+      "Sư phạm Ngữ văn chuyên ngành Sư phạm Ngữ văn - Lịch Sử, Sư phạm Ngữ văn - Công tác Đội TNTP Hồ Chí Minh"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử chuyên ngành Sư phạm Lịch sử - Giáo dục công dân",
+    "synonyms": [
+      "Sư phạm Lịch sử chuyên ngành Sư phạm Lịch sử - Giáo dục công dân"
+    ]
+  },
+  {
+    "value": "Sư phạm Lịch sử.",
+    "synonyms": [
+      "Sư phạm Lịch sử."
+    ]
+  },
+  {
+    "value": "Sư phạm Địa lý chuyên ngành Sư phạm Địa lý - Giáo dục công dân",
+    "synonyms": [
+      "Sư phạm Địa lý chuyên ngành Sư phạm Địa lý - Giáo dục công dân"
+    ]
+  },
+  {
+    "value": "Sư phạm Địa lý.",
+    "synonyms": [
+      "Sư phạm Địa lý."
+    ]
+  },
+  {
+    "value": "Công nghệ KT Cơ khí",
+    "synonyms": [
+      "Công nghệ KT Cơ khí"
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin, 04 chuyên ngành Hệ thống thông tin, Truyền thông và Mạng máy tính, Kỹ thuật phần mềm và Khoa học máy tính.",
+    "synonyms": [
+      "Công nghệ thông tin, 04 chuyên ngành Hệ thống thông tin, Truyền thông và Mạng máy tính, Kỹ thuật phần mềm và Khoa học máy tính."
+    ]
+  },
+  {
+    "value": "Công nghệ thông tin 04 chuyên ngành Hệ thống thông tin, Truyền thông và Mạng máy tính, Kỹ thuật phần mềm và Khoa học máy tính.",
+    "synonyms": [
+      "Công nghệ thông tin 04 chuyên ngành Hệ thống thông tin, Truyền thông và Mạng máy tính, Kỹ thuật phần mềm và Khoa học máy tính."
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thưật cơ khí, 02 chuyên ngành Kỹ thuật thiết kế, Cơ khí và Công nghệ vật liệu và Đo kiểm tiên tiến.",
+    "synonyms": [
+      "Công nghệ kỹ thưật cơ khí, 02 chuyên ngành Kỹ thuật thiết kế, Cơ khí và Công nghệ vật liệu và Đo kiểm tiên tiến."
+    ]
+  },
+  {
+    "value": "Công nghệ kỷ thuật cơ khí, 02 chuyên ngành Kỹ thuật thiết kế Cơ khí và Công nghệ vật liệu và Đo kiểm tiên tiến.",
+    "synonyms": [
+      "Công nghệ kỷ thuật cơ khí, 02 chuyên ngành Kỹ thuật thiết kế Cơ khí và Công nghệ vật liệu và Đo kiểm tiên tiến."
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy, 02 chuyên ngành Công nghệ gia công kim loại, Công nghệ gia công chỉnh xác-CNC.",
+    "synonyms": [
+      "Công nghệ chế tạo máy, 02 chuyên ngành Công nghệ gia công kim loại, Công nghệ gia công chỉnh xác-CNC."
+    ]
+  },
+  {
+    "value": "Công nghệ chế tạo máy, 02 chuyên ngành Công nghệ gia công kim loại, Công nghệ gia công chính xác-CNC.",
+    "synonyms": [
+      "Công nghệ chế tạo máy, 02 chuyên ngành Công nghệ gia công kim loại, Công nghệ gia công chính xác-CNC."
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật cơ điện tử, 02 chuyên ngành Thiết kế hệ thống Cơ điện tử và Thiết kế sản phẩm cơ điện tử",
+    "synonyms": [
+      "Công nghệ kỹ thuật cơ điện tử, 02 chuyên ngành Thiết kế hệ thống Cơ điện tử và Thiết kế sản phẩm cơ điện tử"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật ô tô. 03 chuyên ngành Điện ô tô, Động cơ đốt trong và Khung gầm ô tô",
+    "synonyms": [
+      "Công nghệ kỹ thuật ô tô. 03 chuyên ngành Điện ô tô, Động cơ đốt trong và Khung gầm ô tô"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điện, điện tử 04 chuyên ngành Hệ thống điện, Điện công nghiệp, Điện tử công nghiệp và Điện tử truyền thông.",
+    "synonyms": [
+      "Công nghệ kỹ thuật điện, điện tử 04 chuyên ngành Hệ thống điện, Điện công nghiệp, Điện tử công nghiệp và Điện tử truyền thông."
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hóa, 02 chuyên ngành Kỹ thuật điều khiển và Tự động hóa",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hóa, 02 chuyên ngành Kỹ thuật điều khiển và Tự động hóa"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật điều khiển và tự động hóa. 02 chuyên ngành Kỹ thuật điều khiển và Tự động hóa",
+    "synonyms": [
+      "Công nghệ kỹ thuật điều khiển và tự động hóa. 02 chuyên ngành Kỹ thuật điều khiển và Tự động hóa"
+    ]
+  },
+  {
+    "value": "Công nghệ thực phẩm. 03 chuyên ngành Chế biến thủy sản, Kiểm nghiệm thực phẩm và Chế biến thực phẩm",
+    "synonyms": [
+      "Công nghệ thực phẩm. 03 chuyên ngành Chế biến thủy sản, Kiểm nghiệm thực phẩm và Chế biến thực phẩm"
+    ]
+  },
+  {
+    "value": "Quản trị kinh doanh gồm các chuyên ngành QTKD tổng hợp; QTKD du lịch - khách sạn; Quản trị maketing; Thương mại quốc tế; Quản trị doanh nghiệp công nghiệp",
+    "synonyms": [
+      "Quản trị kinh doanh gồm các chuyên ngành QTKD tổng hợp",
+      " QTKD du lịch - khách sạn",
+      " Quản trị maketing",
+      " Thương mại quốc tế",
+      " Quản trị doanh nghiệp công nghiệp"
+    ]
+  },
+  {
+    "value": "Kỹ thuật phân tích Phân tích các nguyên liệu, nhiên liệu và kiểm tra chất lượng sản phẩm trong sản xuất; Phân tích đánh giá chất lượng môi trường; Phân",
+    "synonyms": [
+      "Kỹ thuật phân tích Phân tích các nguyên liệu, nhiên liệu và kiểm tra chất lượng sản phẩm trong sản xuất",
+      " Phân tích đánh giá chất lượng môi trường",
+      " Phân"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật hóa học gồm các chuyên ngành Công nghệ các chất vô cơ; Công nghệ hữu cơ – Hóa dầu; Công nghệ điện hóa và bảo vệ kim loại; Côn",
+    "synonyms": [
+      "Công nghệ kỹ thuật hóa học gồm các chuyên ngành Công nghệ các chất vô cơ",
+      " Công nghệ hữu cơ – Hóa dầu",
+      " Công nghệ điện hóa và bảo vệ kim loại",
+      " Côn"
+    ]
+  },
+  {
+    "value": "Công nghệ kỹ thuật môi trường gồm các chuyên ngành Quản lý môi trường; Công nghệ môi trường",
+    "synonyms": [
+      "Công nghệ kỹ thuật môi trường gồm các chuyên ngành Quản lý môi trường",
+      " Công nghệ môi trường"
+    ]
+  },
+  {
+    "value": "Điều dưỡng Liên thông từ Cao Đẳng",
+    "synonyms": [
+      "Điều dưỡng Liên thông từ Cao Đẳng"
+    ]
+  },
+  {
+    "value": "Hộ sinh*",
+    "synonyms": [
+      "Hộ sinh*"
+    ]
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "id": "13454823-7b25-41c5-b684-08c29436635c",
+    "data": [
+      {
+        "text": "đại học tài chính marketing",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " đào tạo mấy ngành",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87737e03-42c7-41b0-b7d9-cfa2afd920a7",
+    "data": [
+      {
+        "text": "đại học lạc hồng",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " có mấy ngành",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8c2f701-81bd-413f-9a59-6392e8c07cc9",
+    "data": [
+      {
+        "text": "đại học dược hà nội",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " có những ngành nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8522915-bd3d-4823-a3a9-fc12842e98c6",
+    "data": [
+      {
+        "text": "trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học đại nam",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " đào tạo gì",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e25a776-cacf-46a7-9a41-11759ccacfcc",
+    "data": [
+      {
+        "text": "Đại học điện lực",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " đào tạo những ngành nào",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7fe52f2-106d-4f5b-b09c-a1d739fbaaab",
+    "data": [
+      {
+        "text": "Đại học Thành Đông",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " có những khoa nào?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "608c8fe7-2c66-4393-ac98-f28acf602577",
+    "data": [
+      {
+        "text": "trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " đào tạo những gì?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

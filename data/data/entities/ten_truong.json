@@ -1,0 +1,9 @@
+{
+  "id": "f9ee07f8-d337-42d4-9244-db47a52e4424",
+  "name": "ten_truong",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "e2154a17-8cd5-4263-a7e2-a67a89f1bb09",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "chưa xác định được intent",
+            "thank you, 1 câu hỏi mới chưa được phân lớp",
+            "thank you, 1 câu nữa nhé \u003d))",
+            "another more ?",
+            "bạn hỏi thêm câu nữa được không :v",
+            "one more time ?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
