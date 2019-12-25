@@ -1,6 +1,6 @@
 intents:
-  - hoi_diem_chuan
-  - hoi_danh_sach_nganh_cua_truong
+  - intent_hoi_diem_chuan
+  - intent_hoi_danh_sach_nganh
   - intent_chao_mung
 
 entities:
@@ -8,26 +8,27 @@ entities:
   - ten_truong
   - nam
 slots:
-  diem_chuan:
+  ten_nganh:
     type: text
-    initial_value: "0"
+    
   ten_truong:
     type: text
-    initial_value: "test"
+
+  nam:
+    type: text
+    initial_value: 2019
+
+forms:
+  - form_hoi_diem_chuan
+  - form_hoi_danh_sach_nganh
 
 actions:
   - utter_chao_mung
-  - action_hoi_diem_chuan
-  - utter_hoi_danh_sach_nganh_cua_truong
-  - utter_hoi_diem_chuan
 
 templates:
   utter_chao_mung:
     - text: "xin chào. Bạn cần giúp gì nào?"
-    - text: "xin chào. Bạn đang cần thêm thông tin để lựa chọn trường đại học?"
+    - text: "xin chào. Bạn đang cần thông tin gì nào?"
     
-  utter_hoi_diem_chuan:
-  - text: "bạn đang hỏi điểm chuẩn trường {diem_chuan}"
-
-  utter_hoi_danh_sach_nganh_cua_truong:
-  - text: "Did that help you?"
+  utter_ask_ten_truong:
+  - text: "Bạn muốn hỏi trường nào?"

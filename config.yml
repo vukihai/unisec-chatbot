@@ -15,6 +15,13 @@ pipeline:
 # Configuration for Rasa Core.
 # https://rasa.com/docs/rasa/core/policies/
 policies:
-  - name: MemoizationPolicy
   - name: KerasPolicy
-  - name: MappingPolicy
+    epochs: 50
+    max_history: 6
+  - name: MemoizationPolicy
+    max_history: 6
+  - name: FallbackPolicy
+    nlu_threshold: 0.3
+    ambiguity_threshold: 0.1
+    core_threshold: 0.3
+  - name: FormPolicy

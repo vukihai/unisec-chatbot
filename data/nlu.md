@@ -1,5 +1,4 @@
 ## intent:intent_chao_mung
-- nè
 - hê lô
 - hê nhô
 - bạn ơi
@@ -22,13 +21,14 @@
 - hello there
 - a good day
 
-## intent:hoi_danh_sach_nganh_cua_truong
+## intent:intent_hoi_danh_sach_nganh
 - [đại học tài chính marketing](ten_truong) đào tạo mấy ngành
 - [đại học lạc hồng](ten_truong) có mấy ngành
 - [đại học dược hà nội](ten_truong) có những ngành nào
 - trường [đại học đại nam](ten_truong) đào tạo gì
 - [Đại học điện lực](ten_truong) đào tạo những ngành nào
 - [Đại học Thành Đông](ten_truong) có những khoa nào?
+- [Đại học công nghệ](ten_truong) có đào tạo [công nghệ thông tin](ten_nganh) không?
 - trường [đại học hòa bình](ten_truong) đào tạo những gì?
 - [qhi](ten_truong) đào tạo mấy ngành
 - [dqu](ten_truong) có mấy ngành
@@ -38,7 +38,7 @@
 - [lph](ten_truong) có những khoa nào?
 - trường [mtc](ten_truong) đào tạo những gì?
 
-## intent:hoi_diem_chuan
+## intent:intent_hoi_diem_chuan
 - [ngành công nghệ thông tin](ten_nganh) lấy điểm chuẩn là bao nhiêu
 - điểm chuẩn [đại học lạc hồng](ten_truong) ra sao
 - điểm chuẩn [qhi](ten_truong) ra sao
