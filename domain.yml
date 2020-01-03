@@ -1,34 +1,27 @@
 intents:
-  - intent_hoi_diem_chuan
-  - intent_hoi_danh_sach_nganh
-  - intent_chao_mung
-
+- intent_hoi_diem_chuan
+- intent_hoi_danh_sach_nganh
+- intent_chao_mung
 entities:
-  - ten_nganh
-  - ten_truong
-  - nam
+- ten_nganh
+- ten_truong
+- nam
 slots:
-  ten_nganh:
-    type: text
-    
-  ten_truong:
-    type: text
-
   nam:
     type: text
     initial_value: 2019
-
-forms:
-  - form_hoi_diem_chuan
-  - form_hoi_danh_sach_nganh
-
-actions:
-  - utter_chao_mung
-
+  ten_nganh:
+    type: text
+  ten_truong:
+    type: text
 templates:
   utter_chao_mung:
-    - text: "xin chào. Bạn cần giúp gì nào?"
-    - text: "xin chào. Bạn đang cần thông tin gì nào?"
-    
+  - text: xin chào. Bạn cần giúp gì nào?
+  - text: xin chào. Bạn đang cần thông tin gì nào?
   utter_ask_ten_truong:
-  - text: "Bạn muốn hỏi trường nào?"
+  - text: Bạn muốn hỏi trường nào?
+actions:
+- utter_chao_mung
+forms:
+- form_hoi_diem_chuan
+- form_hoi_danh_sach_nganh

@@ -1,27 +1,23 @@
-# Configuration for Rasa NLU.
-# https://rasa.com/docs/rasa/nlu/components/
-language: "vi"
+language: vi
 pipeline:
-- name: "WhitespaceTokenizer"
-- name: "RegexFeaturizer"
-- name: "CRFEntityExtractor"
-- name: "EntitySynonymMapper"
-- name: "CountVectorsFeaturizer"
-- name: "CountVectorsFeaturizer"
-  analyzer: "char_wb"
+- name: WhitespaceTokenizer
+- name: RegexFeaturizer
+- name: CRFEntityExtractor
+- name: EntitySynonymMapper
+- name: CountVectorsFeaturizer
+- name: CountVectorsFeaturizer
+  analyzer: char_wb
   min_ngram: 1
   max_ngram: 4
-- name: "EmbeddingIntentClassifier"
-# Configuration for Rasa Core.
-# https://rasa.com/docs/rasa/core/policies/
+- name: EmbeddingIntentClassifier
 policies:
-  - name: KerasPolicy
-    epochs: 50
-    max_history: 6
-  - name: MemoizationPolicy
-    max_history: 6
-  - name: FallbackPolicy
-    nlu_threshold: 0.3
-    ambiguity_threshold: 0.1
-    core_threshold: 0.3
-  - name: FormPolicy
+- name: KerasPolicy
+  epochs: 50
+  max_history: 6
+- name: MemoizationPolicy
+  max_history: 6
+- name: FallbackPolicy
+  nlu_threshold: 0.3
+  ambiguity_threshold: 0.1
+  core_threshold: 0.3
+- name: FormPolicy
