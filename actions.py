@@ -52,7 +52,7 @@ class FormHoiDiemChuan(FormAction):
       if not major is None:
          query['major_name'] = re.compile('^' + major + '$', re.IGNORECASE)
       res = db.admission_scores.find(query)
-
+      
       mes = ""
       for entry in res:
          mes = mes + entry["major_name"] + ":" + entry["score"] + " khối " + entry['combine'] +"\n"
@@ -63,9 +63,10 @@ class FormHoiDiemChuan(FormAction):
          if not major is None:
             dispatcher.utter_message("điểm chuẩn ngành "+ major + " năm "  + str(year) + ": " )
             dispatcher.utter_message(mes)
-            return []
+            return [AllSlotsReset()]
          dispatcher.utter_message("Sau đây là điểm chuẩn đại học "+ university + " năm "  + str(year))
          dispatcher.utter_message(mes)
+         return [AllSlotsReset()]
       return []
       #dispatcher.utter_message("hello")
       #return [SlotSet("diem_chuan",["vukihai"])]
@@ -97,6 +98,35 @@ class FormHoiDanhSachNganh(FormAction):
          dispatcher.utter_message("Hiện chưa có thông tin các ngành đào tạo của " + university)
       else:
          dispatcher.utter_message("Trường "+ university + " hiện đào tạo "  + str(numOfMajor) + " ngành")
+         dispatcher.utter_message(mes)
+      return []
+      #dispatcher.utter_message("hello")
+      #return [SlotSet("diem_chuan",["vukihai"])]
+
+class FormHoiTruong(FormAction):
+   def name(self):
+      return "form_hoi_truong"
+
+   @staticmethod
+   def required_slots(tracker):
+      return ["ten_nganh"]
+
+   def submit(self, dispatcher, tracker, domain):
+      major = tracker.get_slot("ten_nganh")
+      
+      
+      query = {'majors': {'$elemMatch': {'major_name':re.compile('^' + major + '$', re.IGNORECASE)}}}
+      
+      res = db.universities.find(query)
+      mes = ""
+      i = 0
+      for entry in res:
+         i = i + 1
+         mes += entry["name"] + "\n"
+      if len(mes) == 0:
+         dispatcher.utter_message("Không tìm thấy trường đào tạo  " + major)
+      else:
+         dispatcher.utter_message("Hiện có " + str(i) +" trường đào tạo " + major)
          dispatcher.utter_message(mes)
       return []
       #dispatcher.utter_message("hello")

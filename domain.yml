@@ -1,11 +1,20 @@
 intents:
 - intent_hoi_diem_chuan
-- intent_hoi_danh_sach_nganh
+- intent_hoi_nganh
 - intent_chao_mung
+- intent_hoi_truong
+- intent_hoi_to_hop_mon
+- intent_hoi_vi_tri_truong
+- intent_hoi_danh_sach_nganh
 entities:
 - ten_nganh
 - ten_truong
 - nam
+- mon_thi
+- to_hop_mon
+- ten_mien
+- so_diem
+- tinh_thanh
 slots:
   nam:
     type: text
@@ -20,8 +29,20 @@ templates:
   - text: xin chào. Bạn đang cần thông tin gì nào?
   utter_ask_ten_truong:
   - text: Bạn muốn hỏi trường nào?
+  utter_ask_ten_nganh:
+  - text: Bạn muốn hỏi ngành nào?
+  utter_ask_ten_mien:
+  - text: Bạn muốn học ở Miền Bắc, Miền Trung hay Miền Nam?
+  utter_hoi_to_hop_mon:
+  - text: Đây là câu trả lời mặc định cho câu hỏi về tổ hợp môn.
+  utter_hoi_vi_tri_truong:
+  - text: Đây là câu trả lời mặc định cho câu hỏi về vị trí trường.
 actions:
 - utter_chao_mung
+- utter_ask_ten_nganh
+- utter_hoi_to_hop_mon
+- utter_hoi_vi_tri_truong
 forms:
 - form_hoi_diem_chuan
 - form_hoi_danh_sach_nganh
+- form_hoi_truong
