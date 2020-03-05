@@ -1,28 +1,47 @@
 intents:
-- intent_hoi_diem_chuan
-- intent_hoi_nganh
+- intent_chon_truong
+- intent_chon_nganh
 - intent_chao_mung
-- intent_hoi_truong
-- intent_hoi_to_hop_mon
-- intent_hoi_vi_tri_truong
+- intent_hoi_diem_chuan
+- intent_hoi_khoi_thi
+- intent_hoi_dia_chi_truong
+- intent_hoi_thong_tin_truong
 - intent_hoi_danh_sach_nganh
+- intent_hoi_nganh
 entities:
-- ten_nganh
-- ten_truong
-- nam
-- mon_thi
-- to_hop_mon
-- ten_mien
-- so_diem
-- tinh_thanh
+- entity_vung_mien
+- entity_tinh_thanh
+- entity_nganh_hoc
+- entity_diem
+- entity_khoi_thi
+- entity_so_thich
+- entity_truong_dai_hoc
+- entity_mon_hoc
+- entity_nam
+- entity_gioi_tinh
+
 slots:
-  nam:
+  entity_diem:
     type: text
-    initial_value: 2019
-  ten_nganh:
+  entity_mon_hoc:
     type: text
-  ten_truong:
+  entity_nam:
     type: text
+  entity_nganh_hoc:
+    type: text
+  entity_so_thich:
+    type: text
+  entity_tinh_thanh:
+    type: text
+  entity_khoi_thi:
+    type: text
+  entity_truong_dai_hoc:
+    type: text
+  entity_vung_mien:
+    type: text
+  entity_gioi_tinh:
+    type: text
+    
 templates:
   utter_chao_mung:
   - text: xin chào. Bạn cần giúp gì nào?
@@ -43,6 +62,9 @@ actions:
 - utter_hoi_to_hop_mon
 - utter_hoi_vi_tri_truong
 forms:
+- form_chon_truong
+- form_chon_nganh
 - form_hoi_diem_chuan
-- form_hoi_danh_sach_nganh
-- form_hoi_truong
+- form_hoi_khoi_thi
+- form_hoi_dia_chi_truong
+- form_hoi_thong_tin_truong

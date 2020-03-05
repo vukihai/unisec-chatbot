@@ -131,4 +131,61 @@ class FormHoiTruong(FormAction):
       return []
       #dispatcher.utter_message("hello")
       #return [SlotSet("diem_chuan",["vukihai"])]
-    
+class FormChonTruong(FormAction):
+   def name(self):
+      return "form_chon_truong"
+
+   @staticmethod
+   def required_slots(tracker):
+      return []
+
+   def submit(self, dispatcher, tracker, domain):
+      dispatcher.utter_message("active form chọn trường")
+      return []
+
+class FormChonNganh(FormAction):
+   def name(self):
+      return "form_chon_nganh"
+
+   @staticmethod
+   def required_slots(tracker):
+      return []
+
+   def submit(self, dispatcher, tracker, domain):
+      dispatcher.utter_message("active form chọn ngành")
+      return []
+
+class FormHoiKhoiThi(FormAction):
+   def name(self):
+      return "form_hoi_khoi_thi"
+
+   @staticmethod
+   def required_slots(tracker):
+      return []
+
+   def submit(self, dispatcher, tracker, domain):
+      dispatcher.utter_message("active form hỏi khối thi")
+      return []
+
+class FormHoiDiaChiTruong(FormAction):
+   def name(self):
+      return "form_hoi_dia_chi_truong"
+
+   @staticmethod
+   def required_slots(tracker):
+      return []
+
+   def submit(self, dispatcher, tracker, domain):
+      dispatcher.utter_message("active form hỏi địa chỉ trường")
+      return []
+class FormHoiThongTinTruong(FormAction):
+   def name(self):
+      return "form_hoi_thong_tin_truong"
+
+   @staticmethod
+   def required_slots(tracker):
+      return []
+      
+   def submit(self, dispatcher, tracker, domain):
+      dispatcher.utter_message("active form hỏi thông tin trường")
+      return []
