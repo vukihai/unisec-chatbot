@@ -18,26 +18,6 @@
 - hello there
 - a good day
 
-## intent:intent_hoi_nganh
-- [đại học tài chính marketing](entity_truong_dai_hoc) đào tạo mấy ngành
-- [đại học lạc hồng](entity_truong_dai_hoc) có mấy ngành
-- [đại học dược hà nội](entity_truong_dai_hoc) có những ngành nào
-- trường [đại học đại entity_nam](entity_truong_dai_hoc) đào tạo gì
-- [Đại học điện lực](entity_truong_dai_hoc) đào tạo những ngành nào
-- [Đại học Thành Đông](entity_truong_dai_hoc) có những khoa nào?
-- [Đại học công nghệ](entity_truong_dai_hoc) có đào tạo [công nghệ thông tin](entity_nganh_hoc) không?
-- trường [đại học hòa bình](entity_truong_dai_hoc) đào tạo những gì?
-- [qhi](entity_truong_dai_hoc) đào tạo mấy ngành
-- [dqu](entity_truong_dai_hoc) có mấy ngành
-- [dkb](entity_truong_dai_hoc) có những ngành nào
-- trường [kha](entity_truong_dai_hoc) đào tạo gì
-- [kta](entity_truong_dai_hoc) đào tạo những ngành nào
-- [lph](entity_truong_dai_hoc) có những khoa nào?
-- trường [mtc](entity_truong_dai_hoc) đào tạo những gì?
-- Ngành nào cao điểm nhất [đại học giao thông](entity_truong_dai_hoc) vận tải
-- [Đại học giao thông](entity_truong_dai_hoc) vận tải có ngành nào lấy ít điểm nhất
-- Ngành nào điểm chuẩn cao nhất [học viện tài chính](entity_truong_dai_hoc)
-
 ## intent:intent_hoi_diem_chuan
 - [ngành công nghệ thông tin](entity_nganh_hoc) lấy điểm chuẩn là bao nhiêu
 - điểm chuẩn [đại học lạc hồng](entity_truong_dai_hoc) ra sao
@@ -70,9 +50,7 @@
 - điểm chuẩn [đại học công nghệ](entity_truong_dai_hoc:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội) năm kia
 - tôi cần hỏi điểm chuẩn trường [đại học công nghệ](entity_truong_dai_hoc:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội)
 - tôi muốn hỏi [điểm chuẩn](entity_truong_dai_hoc)
-- Điểm chuẩn [đại học giao thông](entity_truong_dai_hoc) vận tải năm vừa rồi là bao nhiêu
-- Điểm chuẩn ngành điện, điện tử trường học viện kĩ thuật quân sự khối A với nam là bao nhiêu
-- Điểm chuẩn ngành điện, điện tử trường học viện kĩ thuật quân sự khối A1 với nữ là bao nhiêu
+- Điểm chuẩn [đại học giao thông vận tải](entity_truong_dai_hoc) năm vừa rồi là bao nhiêu
 - Những trường nào điểm chuẩn ngành [công nghệ thông tin](entity_nganh_hoc) khoảng 24 điểm
 
 ## intent:intent_chon_truong
@@ -85,22 +63,73 @@
 - trường nào đào tạo [điện tử viễn thông](entity_nganh_hoc)
 - trường nào đào tạo [vật lý kỹ thuật](entity_nganh_hoc)
 - những trường nào đào tạo [cơ kỹ thuật](entity_nganh_hoc)
-- Ở Hà Nội có những trường [đại](entity_truong_dai_hoc) học nào
-- [ngành công nghệ thông tin](entity_nganh_hoc) ở khu vực [Hà Nội](entity_tinh_thanh) có những trường nào
-- [ngành công nghệ thông tin](entity_nganh_hoc) ở [TP  Hồ Chí Minh](entity_tinh_thanh) có những trường nào
-- [ngành công nghệ thông tin](entity_nganh_hoc) ở [miền bắc](entity_vung_mien) có những trường nào
-- những trường nào lấy điểm trên [15 điểm](entity_diem) ở [Hà Nội](entity_tinh_thanh)
+- Ở [Hà Nội](entity_nganh_hoc) có những trường đại học nào
+- ngành [công nghệ thông tin](entity_nganh_hoc) ở khu vực [Hà Nội](entity_tinh_thanh) có những trường nào
+- ngành [công nghệ thông tin](entity_nganh_hoc) ở [TP  Hồ Chí Minh](entity_tinh_thanh) có những trường nào
+- ngành [công nghệ thông tin](entity_nganh_hoc) ở [miền bắc](entity_vung_mien) có những trường nào
+- những trường nào lấy điểm trên [15](entity_diem) điểm ở [Hà Nội](entity_tinh_thanh)
 - trường nào ở [Hà Nội](entity_tinh_thanh) đào tạo [công nghệ thông tin](entity_nganh_hoc)
-- những trường nào lấy điểm từ [18 đến 21](entity_diem) ở [Hà Nội](entity_tinh_thanh)
-- những trường nào lấy điểm từ [21 đến 25](entity_diem) ở [Hà Nội](entity_tinh_thanh)
-- những trường nào lấy điểm trên [25 điểm](entity_diem) ở [Hà Nội](entity_tinh_thanh)
-- những trường nào lấy điểm từ [18 đến 21](entity_diem) ở [TP Hồ Chí Minh](entity_tinh_thanh)
-- Những  trường nào tuyển sinh khối V
+- những trường nào lấy điểm từ [18](entity_diem) đến [21](entity_diem) ở [Hà Nội](entity_tinh_thanh)
+- những trường nào lấy điểm từ [21](entity_diem) đến [25](entity_diem) ở [Hà Nội](entity_tinh_thanh)
+- những trường nào lấy điểm trên [25](entity_diem) điểm ở [Hà Nội](entity_tinh_thanh)
+- những trường nào lấy điểm từ [18](entity_diem) đến [21](entity_diem) ở [TP Hồ Chí Minh](entity_tinh_thanh)
+- Những  trường nào tuyển sinh khối [V](entity_khoi_thi)
 - Những trường nào đào tạo [ngành công nghệ thông tin](entity_nganh_hoc)
-- Ở miền Bắc thì trường nào đào tạo ngành kiến trúc tốt nhất
+- Ở miền [Bắc](entity_vung_mien) thì trường nào đào tạo ngành [kiến trúc](entity_nganh_hoc) tốt nhất
+- chọn trường
+- ở trong [nam](entity_vung_mien) thì trường nào tốt
+- nên chọn trường nào ở miền [nam](entity_vung_mien)
+- tôi muốn chọn trường học ở Miền [Bắc](entity_vung_mien)
+- có những trường nào ở [thái nguyên](entity_tinh_thanh)
+- em ở [hà nội](entity_tinh_thanh), muốn chọn trường đại học phù hợp
+- trường nào ở [huế](entity_tinh_thanh) đào tạo tốt
+- ở [hải dương](entity_tinh_thanh) có trường đại học nào
+- nên học trường nào ở [hà nội](entity_tinh_thanh)
+- nên học trường nào ở miền [trung](entity_vung_mien)
+- nên học [sư phạm toán](entity_nganh_hoc) ở đâu
+- nên học [cơ kĩ thuật](entity_nganh_hoc) ở trường nào
+- trường nào đào tạo [y đa khoa](entity_nganh_hoc) tốt
+- Trường nào đào tạo [công nghệ sinh học](entity_nganh_hoc) tốt
+- em học giỏi khối [A](entity_khoi_thi) thì nên học trường nào
+- trường nào điểm chuẩn dưới [25,5](entity_diem)
+- trường nào lấy điểm < [24](entity_truong_dai_hoc)
+- tôi được [25](entity_diem) điểm thì nên học trường nào
+- trường nào ở miền [trung](entity_vung_mien) đào tạo [công nghệ kĩ thuật nhiệt](entity_nganh_hoc) tốt
+- nên học [quản trị kinh doanh](entity_nganh_hoc) ở trường nào trong [nam](entity_vung_mien)
+- trường nào đào tạo [kế toán](entity_nganh_hoc) tốt ở ngoài [bắc](entity_vung_mien)
+- em ở miền [bắc](entity_vung_mien), em muốn chọn trường đại học phù hợp với khả năng của bản thân
+- ở [hà nội](entity_tinh_thanh) có trường nào đào tạo [kỹ thuật sinh học](entity_nganh_hoc) mà điểm dưới [25](entity_diem) không ạ
+- ở [hải dương](entity_tinh_thanh) có trường nào đào tạo [vật lý kỹ thuật](entity_nganh_hoc) không
+- tôi được [24](entity_diem) điểm khối [b](entity_khoi_thi) thì nên học trường nào ở [hà nội](entity_tinh_thanh)
+- ở [hà nội](entity_tinh_thanh) có trường nào lấy điểm chuẩn dưới [24](entity_diem) không
 
 ## intent:intent_chon_nganh
 - ngành nào lấy dưới [25](entity_diem) điểm [khối A](entity_khoi_thi)
+- [thành phố hồ chí minh](entity_tinh_thanh) có những ngành nào  xét tuyển khối [a](entity_khoi_thi)
+- ở [hà nội](entity_tinh_thanh) có ngành nào lấy dưới [21](entity_diem) điểm không
+- tôi được [24](entity_diem) điểm khối [a](entity_khoi_thi), nên học ngành nào ở [hà nội](entity_tinh_thanh)
+- [đại học tài chính marketing](entity_truong_dai_hoc) đào tạo mấy ngành
+- [đại học lạc hồng](entity_truong_dai_hoc) có mấy ngành
+- [đại học dược hà nội](entity_truong_dai_hoc) có những ngành nào
+- trường [đại học đại nam](entity_truong_dai_hoc) đào tạo gì
+- [Đại học điện lực](entity_truong_dai_hoc) đào tạo những ngành nào
+- [Đại học Thành Đông](entity_truong_dai_hoc) có những khoa nào?
+- [Đại học công nghệ](entity_truong_dai_hoc) có đào tạo [công nghệ thông tin](entity_nganh_hoc) không?
+- trường [đại học hòa bình](entity_truong_dai_hoc) đào tạo những gì?
+- [qhi](entity_truong_dai_hoc) đào tạo mấy ngành
+- [dqu](entity_truong_dai_hoc) có mấy ngành
+- [dkb](entity_truong_dai_hoc) có những ngành nào
+- trường [kha](entity_truong_dai_hoc) đào tạo gì
+- [kta](entity_truong_dai_hoc) đào tạo những ngành nào
+- [lph](entity_truong_dai_hoc) có những khoa nào?
+- trường [mtc](entity_truong_dai_hoc) đào tạo những gì?
+- Ngành nào cao điểm nhất [đại học giao thông vận tải](entity_truong_dai_hoc)
+- [Đại học giao thông vận tải](entity_truong_dai_hoc) có ngành nào lấy ít điểm nhất
+- Ngành nào điểm chuẩn cao nhất [học viện tài chính](entity_truong_dai_hoc)
+- [Đại học giao thông](entity_truong_dai_hoc) vận tải có những ngành nào
+- trường [đại học bách khoa hà nội](entity_truong_dai_hoc) có những ngành nào
+- trường [đại học công nghiệp hà nội](entity_truong_dai_hoc) có những ngành nào
+- trường [đại học công nghệ](entity_truong_dai_hoc) có những ngành gì
 
 ## intent:intent_hoi_khoi_thi
 - khoa [công nghệ thông tin](entity_nganh_hoc) trường [đại học công nghệ](entity_truong_dai_hoc) lấy điểm khối nào
@@ -112,7 +141,7 @@
 - [Đại học Cần thơ](entity_truong_dai_hoc) nhận những tổ hợp môn mới không
 - [Ngành công nghệ thông tin](entity_nganh_hoc) tuyển những khối hay tổ hợp môn nào
 - [Ngành công nghệ thông tin](entity_nganh_hoc) lấy những tổ hợp môn nào
-
+- trường [đại học hà nội](entity_truong_dai_hoc) xét tuyển khối nào
 
 ## intent:intent_hoi_dia_chi_truong
 - trường [đại học công nghệ](entity_truong_dai_hoc) ở đâu?
@@ -126,19 +155,13 @@
 ## intent:intent_hoi_thong_tin_truong
 - giới thiệu trường [đại học công nghệ](entity_truong_dai_hoc)
 
-## intent:intent_hoi_danh_sach_nganh
-- [Đại học giao thông](entity_truong_dai_hoc) vận tải có những ngành nào
-- trường [đại học bách khoa hà nội](entity_truong_dai_hoc) có những ngành nào
-- trường [đại học công nghiệp hà nội](entity_truong_dai_hoc) có những ngành nào
-- trường [đại học công nghệ](entity_truong_dai_hoc) có những ngành gì
-
 ## synonym:2018
 - năm kia
 
 ## synonym:2018 - 2019
-- năm 2018 và 2019
 - năm ngoái và năm kia
 - 2 năm gần đây
+- năm 2018 và 2019
 
 ## synonym:2019
 - năm vừa rồi
@@ -168,8 +191,8 @@
 - DCA
 
 ## synonym:Đại Học Công Nghiệp Quảng Ninh
-- cn Quảng Ninh
 - DDM
+- cn Quảng Ninh
 
 ## synonym:Đại Học Công Nghiệp TPHCM
 - HUI

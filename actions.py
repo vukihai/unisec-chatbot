@@ -1,6 +1,6 @@
-from rasa_core_sdk import Action
-from rasa_core_sdk.forms import FormAction
-from rasa_core_sdk.events import SlotSet, AllSlotsReset
+from rasa_sdk import Action
+from rasa_sdk.forms import FormAction
+from rasa_sdk.events import SlotSet, AllSlotsReset, BotUttered
 import pymongo
 import re
 client = pymongo.MongoClient("localhost", 27017)
@@ -41,7 +41,7 @@ class FormHoiDiemChuan(FormAction):
 
    @staticmethod
    def required_slots(tracker):
-      return ["ten_truong"]
+      return ["entity_truong_dai_hoc"]
 
    def submit(self, dispatcher, tracker, domain):
       university = tracker.get_slot("ten_truong")
@@ -109,7 +109,12 @@ class FormHoiTruong(FormAction):
 
    @staticmethod
    def required_slots(tracker):
-      return ["ten_nganh"]
+      if len(tracker.get_slot("entity_vung_mien")) == 0:
+          print("test 1")
+          return ['entity_diem']
+      else:
+          print('test 2')
+          return ['entity_diem']
 
    def submit(self, dispatcher, tracker, domain):
       major = tracker.get_slot("ten_nganh")
@@ -137,7 +142,13 @@ class FormChonTruong(FormAction):
 
    @staticmethod
    def required_slots(tracker):
-      return []
+      if tracker.get_slot("entity_vung_mien") == None:
+          print("test 1")
+          return ['entity_vung_mien']
+      else:
+          print('test 2')
+          
+          return ['entity_diem']
 
    def submit(self, dispatcher, tracker, domain):
       dispatcher.utter_message("active form chọn trường")
