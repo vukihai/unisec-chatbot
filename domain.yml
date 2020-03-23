@@ -1,3 +1,6 @@
+session_config:
+  session_expiration_time: 0.0
+  carry_over_slots_to_new_session: true
 intents:
 - intent_chon_truong
 - intent_chon_nganh
@@ -19,9 +22,12 @@ entities:
 - entity_mon_hoc
 - entity_nam
 - entity_gioi_tinh
-
 slots:
   entity_diem:
+    type: text
+  entity_gioi_tinh:
+    type: text
+  entity_khoi_thi:
     type: text
   entity_mon_hoc:
     type: text
@@ -33,19 +39,21 @@ slots:
     type: text
   entity_tinh_thanh:
     type: text
-  entity_khoi_thi:
-    type: text
   entity_truong_dai_hoc:
     type: text
   entity_vung_mien:
     type: text
-  entity_gioi_tinh:
-    type: text
-    
-templates:
+responses:
   utter_chao_mung:
-  - text: xin chào. Bạn cần giúp gì nào?
-  - text: xin chào. Bạn đang cần thông tin gì nào?
+  - custom:
+      text: xin chào, bạn cần giúp gì nào?
+      blocks:
+      - text: chọn trường
+        img: ảnh chọn trường
+      - text: chọn ngành
+        img: ảnh chọn ngành
+      - text: tra cứu điểm chuẩn
+        img: ảnh tra cứu điểm chuẩn
   utter_ask_ten_truong:
   - text: Bạn muốn hỏi trường nào?
   utter_ask_ten_nganh:
@@ -61,6 +69,8 @@ actions:
 - utter_ask_ten_nganh
 - utter_hoi_to_hop_mon
 - utter_hoi_vi_tri_truong
+- utter_ask_ten_truong
+- utter_ask_ten_mien
 forms:
 - form_chon_truong
 - form_chon_nganh
