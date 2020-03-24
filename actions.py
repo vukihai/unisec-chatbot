@@ -3,6 +3,7 @@ from rasa_sdk.forms import FormAction
 from rasa_sdk.events import SlotSet, AllSlotsReset, BotUttered
 import pymongo
 import re
+from .form_chon_truong import FormChonTruong
 client = pymongo.MongoClient("localhost", 27017)
 db=client["unisec-db"]
 
@@ -136,23 +137,6 @@ class FormHoiTruong(FormAction):
       return []
       #dispatcher.utter_message("hello")
       #return [SlotSet("diem_chuan",["vukihai"])]
-class FormChonTruong(FormAction):
-   def name(self):
-      return "form_chon_truong"
-
-   @staticmethod
-   def required_slots(tracker):
-      if tracker.get_slot("entity_vung_mien") == None:
-          print("test 1")
-          return ['entity_vung_mien']
-      else:
-          print('test 2')
-          
-          return ['entity_diem']
-
-   def submit(self, dispatcher, tracker, domain):
-      dispatcher.utter_message("active form chọn trường")
-      return []
 
 class FormChonNganh(FormAction):
    def name(self):
