@@ -58,10 +58,12 @@ responses:
   - text: Bạn muốn hỏi trường nào?
   utter_ask_ten_nganh:
   - text: Bạn muốn hỏi ngành nào?
-  utter_ask_ten_mien:
+  utter_ask_entity_vung_mien:
   - text: Bạn muốn học ở Miền Bắc, Miền Trung hay Miền Nam?
   utter_hoi_to_hop_mon:
   - text: Đây là câu trả lời mặc định cho câu hỏi về tổ hợp môn.
+  utter_ask_entity_diem:
+  - text: bạn dự kiến được bao nhiêu điểm?
   utter_hoi_vi_tri_truong:
   - text: Đây là câu trả lời mặc định cho câu hỏi về vị trí trường.
 actions:
