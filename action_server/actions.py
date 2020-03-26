@@ -1,1 +1,2 @@
-from Actions.FormChonTruong import FormChonTruong
+from Actions import FormChonTruong
+from Actions import FormHoiDiemChuan

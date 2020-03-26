@@ -12,8 +12,7 @@ REQUESTED_SLOT = "requested_slot"
 class UnisecForm(Action):
     def name(self) -> Text:
         return "Unisec Form"
-    @staticmethod
-    def required_slots(tracker: "Tracker") -> List[Text]:
+    def required_slots(self, tracker: "Tracker") -> List[Text]:
         """A list of required slots that the form has to fill.
 
         Use `tracker` to request different list of slots
