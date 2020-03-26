@@ -1,3 +1,7 @@
+## lookup:entity_truong_dai_hoc
+data/university_lookup.txt
+## lookup:entity_diem
+data/score_lookup.txt
 ## intent:intent_chao_mung
 - chào
 - xin chào
@@ -32,9 +36,8 @@
 - năm [2019](entity_nam) khoa [công nghệ thông tin](entity_nganh_hoc) trường [đại học hòa bình](entity_truong_dai_hoc) lấy bao nhiêu điểm
 - [năm ngoái](entity_nam) trường [HUTECH](entity_truong_dai_hoc) lấy bao nhiêu điểm
 - điểm chuẩn [Đại Học Khoa Học – Đại Học Huế](entity_truong_dai_hoc) khoa [cntt](entity_nganh_hoc) [2 năm gần đây](entity_nam)
-- [đại học bách khoa hà nội](entity_truong_dai_hoc)
-- [công nghệ thông tin](entity_nganh_hoc)
 - mình muốn hỏi điểm chuẩn
+- điểm chuẩn trường [đại học bách khoa](entity_truong_dai_hoc)
 - điểm chuẩn trường [đại học hòa bình](entity_truong_dai_hoc) là bao nhiêu
 - ngành [quản lý công nghiệp](entity_nganh_hoc) lấy bao nhiêu điểm
 - [ngành kế toán](entity_nganh_hoc) [đại học hòa bình](entity_truong_dai_hoc) lấy điểm bao nhiêu

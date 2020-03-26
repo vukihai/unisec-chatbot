@@ -54,14 +54,16 @@ responses:
         img: ảnh chọn ngành
       - text: tra cứu điểm chuẩn
         img: ảnh tra cứu điểm chuẩn
-  utter_ask_ten_truong:
+  utter_ask_entity_truong_dai_hoc:
   - text: Bạn muốn hỏi trường nào?
-  utter_ask_ten_nganh:
+  utter_ask_entity_nganh_hoc:
   - text: Bạn muốn hỏi ngành nào?
   utter_ask_entity_vung_mien:
   - text: Bạn muốn học ở Miền Bắc, Miền Trung hay Miền Nam?
-  utter_hoi_to_hop_mon:
-  - text: Đây là câu trả lời mặc định cho câu hỏi về tổ hợp môn.
+  utter_ask_entity_tinh_thanh:
+  - text: Bạn muốn học ở tỉnh nào?
+  utter_ask_entity_khoi_thi:
+  - text: Khối thi của bạn là gì?
   utter_ask_entity_diem:
   - text: bạn dự kiến được bao nhiêu điểm?
   utter_hoi_vi_tri_truong:
