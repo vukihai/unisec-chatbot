@@ -45,7 +45,7 @@ class UnisecValidator:
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
         index = cos.argmax()
-        return (cos[index][0],self.uniDataframe.iloc[index,1])
+        return (cos[index][0],self.uniDataframe.iloc[index,1],self.uniDataframe.iloc[index,2])
     
     def validate_macro_region(self, name):
         name = name.lower()
@@ -62,5 +62,5 @@ class UnisecValidator:
         return (cos[index][0],self.majorDataframe.iloc[index,1])
 
 
-validator = UnisecValidator.getInstance()
-print(validator.validate_uni("điện điện tử"))
+# validator = UnisecValidator.getInstance()
+# print(validator.validate_uni("y đa khoa y hà nội"))

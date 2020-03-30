@@ -50,12 +50,32 @@ data/score_lookup.txt
 - điểm chuẩn [ngành kế toán](entity_nganh_hoc) [DKC](entity_truong_dai_hoc) là bao nhiêu?
 - điểm chuẩn ngành [quản lý công nghiệp](entity_nganh_hoc)
 - điểm chuẩn [năm kia](entity_nam) là bao nhiêu
-- điểm chuẩn [đại học công nghệ](entity_truong_dai_hoc:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội) năm kia
-- tôi cần hỏi điểm chuẩn trường [đại học công nghệ](entity_truong_dai_hoc:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội)
-- tôi muốn hỏi [điểm chuẩn](entity_truong_dai_hoc)
+- điểm chuẩn [đại học công nghệ](entity_truong_dai_hoc) năm kia
+- tôi cần hỏi điểm chuẩn trường [đại học công nghệ](entity_truong_dai_hoc)
 - Điểm chuẩn [đại học giao thông vận tải](entity_truong_dai_hoc) năm vừa rồi là bao nhiêu
+- điểm chuẩn [Học Viện An Ninh Nhân Dân](entity_truong_dai_hoc) ra sao
+- điểm chuẩn [Đại Học Anh Quốc Việt Nam](entity_truong_dai_hoc) ra sao
+- trường [Học Viện Công Nghệ Bưu Chính Viễn Thông ( Phía Bắc )](entity_truong_dai_hoc) lấy bao nhiêu điểm
+- điểm chuẩn [Đại Học Bà Rịa – Vũng Tàu](entity_truong_dai_hoc) [2018](entity_nam)
+- cho em hỏi điểm chuẩn trường [Đại Học Công Nghiệp Dệt May Hà Nội](entity_truong_dai_hoc) năm [2017](entity_nam) là bao nhiêu?
+- năm [2019](entity_nam) khoa [công nghệ thông tin](entity_nganh_hoc) trường [Đại Học Công Nghiệp Thực Phẩm TP HCM](entity_truong_dai_hoc) lấy bao nhiêu điểm
+- [năm ngoái](entity_nam) trường [Đại Học Ngoại Ngữ – Đại Học Đà Nẵng](entity_truong_dai_hoc) lấy bao nhiêu điểm
+- điểm chuẩn [Khoa Giáo dục thể chất - Đại học Đà Nẵng](entity_truong_dai_hoc) khoa [cntt](entity_nganh_hoc) [2 năm gần đây](entity_nam)
+- điểm chuẩn trường [Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng](entity_truong_dai_hoc)
+- điểm chuẩn trường [Đại Học Lao Động – Xã Hội ( Cơ sở phía Nam)](entity_truong_dai_hoc) là bao nhiêu
+- ngành [quản lý công nghiệp](entity_nganh_hoc) lấy bao nhiêu điểm
+- [ngành kế toán](entity_nganh_hoc) [Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên](entity_truong_dai_hoc) lấy điểm bao nhiêu
+- Điểm chuẩn [Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa](entity_truong_dai_hoc) [2019](entity_nam)
+- trường [Đại Học FPT](entity_truong_dai_hoc) lấy bao nhiêu điểm
+- Điểm chuẩn ngành [công nghệ Dệt may](entity_nganh_hoc) [Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc](entity_truong_dai_hoc) năm [2019](entity_nam)
+- Trường [Đại Học Y Hà Nội](entity_truong_dai_hoc) lấy bao nhiêu điểm?
+- [DKK](entity_truong_dai_hoc) lấy bao nhiêu điểm?
+- điểm chuẩn [ngành kế toán](entity_nganh_hoc) [Cao Đẳng Phát Thanh Truyền Hình I](entity_truong_dai_hoc) là bao nhiêu?
+- điểm chuẩn [ngành kế toán](entity_nganh_hoc) [DKC](entity_truong_dai_hoc) là bao nhiêu?
+- điểm chuẩn ngành [quản lý công nghiệp](entity_nganh_hoc)
+- điểm chuẩn [năm kia](entity_nam) là bao nhiêu
+- Điểm chuẩn [Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM](entity_truong_dai_hoc) năm vừa rồi là bao nhiêu
 - Những trường nào điểm chuẩn ngành [công nghệ thông tin](entity_nganh_hoc) khoảng 24 điểm
-
 ## intent:intent_chon_truong
 - trường nào đào tạo [công nghệ thông tin](entity_nganh_hoc)
 - trường nào có ngành [cơ khí](entity_nganh_hoc)
