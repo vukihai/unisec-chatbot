@@ -10,7 +10,7 @@ db=client["unisec-db"]
 class FormHoiDiemChuan(UnisecForm):
    def name(self):
       return "form_hoi_diem_chuan"
-      
+
    @staticmethod
    def required_validation_slot():
        return ['entity_truong_dai_hoc', 'entity_nganh_hoc']
@@ -53,7 +53,7 @@ class FormHoiDiemChuan(UnisecForm):
         nam_validated = '2019'
       mes = "Điểm chuẩn"
       query = {}
-      if truong_dai_hoc != None:
+      if truong_dai_hoc_validated != None:
           query['university_id'] =  re.compile('^' + truong_dai_hoc_validated + '$', re.IGNORECASE)
           mes += " trường " + truong_dai_hoc
       if nganh_hoc != None:
