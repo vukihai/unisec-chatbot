@@ -21,7 +21,7 @@ class FormHoiDiemChuan(UnisecForm):
       if tracker.get_slot('entity_nganh_hoc') == None:
          return ['entity_nganh_hoc']
       return []
-
+   
    def before_slot_fill(self, dispatcher, tracker, domain):
       # utter universities fited with current slot.
       print("before slot fill called")

@@ -11,6 +11,7 @@ intents:
 - intent_hoi_thong_tin_truong
 - intent_hoi_danh_sach_nganh
 - intent_hoi_nganh
+- intent_hoi_ma_truong
 entities:
 - entity_vung_mien
 - entity_tinh_thanh
@@ -102,3 +103,4 @@ forms:
 - form_hoi_khoi_thi
 - form_hoi_dia_chi_truong
 - form_hoi_thong_tin_truong
+- form_hoi_ma_truong
