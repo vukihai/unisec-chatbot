@@ -43,3 +43,9 @@
    - form_hoi_ma_truong
    - form{"name": "form_hoi_ma_truong"}
    - form{"name": null}
+
+## story hoi ten truong
+* intent_hoi_ten_truong
+   - form_hoi_ten_truong
+   - form{"name": "form_hoi_ten_truong"}
+   - form{"name": null}
