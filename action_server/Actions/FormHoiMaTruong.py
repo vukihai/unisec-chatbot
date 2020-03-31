@@ -7,7 +7,7 @@ import re
 client = pymongo.MongoClient("localhost", 27017)
 db=client["unisec-db"]
 
-class FormDemo(UnisecForm):
+class FormHoiMaTruong(UnisecForm):
    def name(self):
       return "form_hoi_ma_truong"
 
