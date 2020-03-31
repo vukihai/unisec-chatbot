@@ -166,6 +166,11 @@ data/score_lookup.txt
 - [Ngành công nghệ thông tin](entity_nganh_hoc) lấy những tổ hợp môn nào
 - trường [đại học hà nội](entity_truong_dai_hoc) xét tuyển khối nào
 
+## intent:intent_hoi_ma_truong
+- mã trường của trường [đại học công nghiệp Hà Nội](entity_truong_dai_hoc) là gì
+- [Đại học Cần thơ](entity_truong_dai_hoc) có mã trường là gì
+- [UET](entity_truong_dai_hoc) có mã trường là gì
+
 ## intent:intent_hoi_dia_chi_truong
 - trường [đại học công nghệ](entity_truong_dai_hoc) ở đâu?
 - trường [đại học công nghệ](entity_truong_dai_hoc:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội) ở đâu
