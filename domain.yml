@@ -12,6 +12,7 @@ intents:
 - intent_hoi_danh_sach_nganh
 - intent_hoi_nganh
 - intent_hoi_ma_truong
+- intent_hoi_ten_truong
 entities:
 - entity_vung_mien
 - entity_tinh_thanh
@@ -23,44 +24,47 @@ entities:
 - entity_mon_hoc
 - entity_nam
 - entity_gioi_tinh
+- entity_ma_truong
 slots:
   entity_diem:
     type: text
-  entity_gioi_tinh:
-    type: text
-  entity_khoi_thi:
-    type: text
-  entity_mon_hoc:
-    type: text
-  entity_nam:
-    type: text
-  entity_nganh_hoc:
-    type: text
-  entity_so_thich:
-    type: text
-  entity_tinh_thanh:
-    type: text
-  entity_truong_dai_hoc:
-    type: text
-  entity_vung_mien:
-    type: text
   entity_diem_validated:
+    type: text
+  entity_gioi_tinh:
     type: text
   entity_gioi_tinh_validated:
     type: text
+  entity_khoi_thi:
+    type: text
   entity_khoi_thi_validated:
+    type: text
+  entity_ma_truong:
+    type: text
+  entity_mon_hoc:
     type: text
   entity_mon_hoc_validated:
     type: text
+  entity_nam:
+    type: text
   entity_nam_validated:
+    type: text
+  entity_nganh_hoc:
     type: text
   entity_nganh_hoc_validated:
     type: text
+  entity_so_thich:
+    type: text
   entity_so_thich_validated:
+    type: text
+  entity_tinh_thanh:
     type: text
   entity_tinh_thanh_validated:
     type: text
+  entity_truong_dai_hoc:
+    type: text
   entity_truong_dai_hoc_validated:
+    type: text
+  entity_vung_mien:
     type: text
   entity_vung_mien_validated:
     type: text
@@ -96,6 +100,12 @@ actions:
 - utter_hoi_vi_tri_truong
 - utter_ask_ten_truong
 - utter_ask_ten_mien
+- utter_ask_entity_truong_dai_hoc
+- utter_ask_entity_nganh_hoc
+- utter_ask_entity_vung_mien
+- utter_ask_entity_tinh_thanh
+- utter_ask_entity_khoi_thi
+- utter_ask_entity_diem
 forms:
 - form_chon_truong
 - form_chon_nganh
@@ -104,3 +114,4 @@ forms:
 - form_hoi_dia_chi_truong
 - form_hoi_thong_tin_truong
 - form_hoi_ma_truong
+- form_hoi_ten_truong
