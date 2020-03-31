@@ -10,7 +10,7 @@ db=client["unisec-db"]
 class FormHoiDiemChuan(UnisecForm):
    def name(self):
       return "form_hoi_diem_chuan"
-      
+
    @staticmethod
    def required_validation_slot():
        return ['entity_truong_dai_hoc', 'entity_nganh_hoc', 'entity_nam']
