@@ -4,12 +4,20 @@ from typing import Dict, Text, Any, List, Union, Optional, Tuple
 from rasa_sdk import utils
 from rasa_sdk.events import SlotSet, Form, EventType
 from rasa_sdk.interfaces import Action, ActionExecutionRejection
+from .UnisecValidator import UnisecValidator
 logger = logging.getLogger(__name__)
 if typing.TYPE_CHECKING:
     from rasa_sdk import Tracker
     from rasa_sdk.executor import CollectingDispatcher
 REQUESTED_SLOT = "requested_slot"
 class UnisecForm(Action):
+    def __init__(self):
+        listSlot = self.required_validation_slot()
+        self.validated_slots = {}
+        for i in listSlot:
+            self.validated_slots[i] = None
+            self.validated_slots[i + "_validated"] = None
+
     def name(self) -> Text:
         return "Unisec Form"
     def required_slots(self, tracker: "Tracker") -> List[Text]:
@@ -46,7 +54,10 @@ class UnisecForm(Action):
             "intent": intent,
             "not_intent": not_intent,
         }
-
+    # return list of slot need to validate
+    @staticmethod
+    def required_validation_slot():
+        return []
     def from_trigger_intent(
         self,
         value: Any,
@@ -169,6 +180,7 @@ class UnisecForm(Action):
         )
 
         return intent_not_blacklisted or intent in mapping_intents
+
 
     @staticmethod
     def get_entity_value(name: Text, tracker: "Tracker") -> Any:
@@ -378,7 +390,30 @@ class UnisecForm(Action):
             after all required slots are filled"""
 
         raise NotImplementedError("A form must implement a submit method")
-
+    async def unisec_validate_slots(
+        self,
+        dispatcher: "CollectingDispatcher",
+        tracker: "Tracker",
+        domain: Dict[Text, Any],
+    ) -> List[EventType]:
+        print("unisec validated slot called")
+        slot_dict = []
+        validator = UnisecValidator.getInstance()
+        for slot in self.validated_slots:
+            if tracker.get_slot(slot) !=None and slot[-10:] != '_validated':
+                validate_func = getattr(validator, "validate_" +slot)
+                validation_output = validate_func(tracker.get_slot(slot))
+                if validation_output is None:
+                    print("vukihai: validation function not found")
+                    validation_output = (1,tracker.get_slot(slot),tracker.get_slot(slot))
+                self.validated_slots[slot] = validation_output[1]
+                self.validated_slots[slot + "_validated"] = validation_output[2]
+                slot_dict.append(SlotSet(slot, validation_output[1]))
+                slot_dict.append(SlotSet(slot + "_validated", validation_output[2]))
+        print("vukihai slot validate event")
+        print(slot_dict)
+        
+        return slot_dict
     async def before_slot_fill(
         self,
         dispatcher: "CollectingDispatcher",
@@ -389,7 +424,11 @@ class UnisecForm(Action):
             after all required slots are filled"""
 
         raise NotImplementedError("A form must implement a before slot fill method")
-
+    def get_slot(self, name):
+        try:
+            return self.validated_slots[name]
+        except:
+            return None
     # helpers
     @staticmethod
     def _to_list(x: Optional[Any]) -> List[Any]:
@@ -521,16 +560,19 @@ class UnisecForm(Action):
         # activate the form
         events = await self._activate_if_required(dispatcher, tracker, domain)
         # validate user input
-        events.extend(await self._validate_if_required(dispatcher, tracker, domain))
+        # events.extend(await self._validate_if_required(dispatcher, tracker, domain))
+        #vukihai add slot validate
+        events.extend(await self.unisec_validate_slots(dispatcher, tracker, domain))
         # check that the form wasn't deactivated in validation
         if Form(None) not in events:
 
             #vukihai add before fill slot
-            if utils.is_coroutine_action(self.before_slot_fill):
+            if utils.is_coroutine_action(self.submit):
                 events.extend(await self.before_slot_fill(dispatcher, tracker, domain))
             else:
                 events.extend(self.before_slot_fill(dispatcher, tracker, domain))
-    
+
+
             # create temp tracker with populated slots from `validate` method
             temp_tracker = tracker.copy()
             for e in events:

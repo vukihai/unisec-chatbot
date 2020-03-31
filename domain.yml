@@ -43,6 +43,26 @@ slots:
     type: text
   entity_vung_mien:
     type: text
+  entity_diem_validated:
+    type: text
+  entity_gioi_tinh_validated:
+    type: text
+  entity_khoi_thi_validated:
+    type: text
+  entity_mon_hoc_validated:
+    type: text
+  entity_nam_validated:
+    type: text
+  entity_nganh_hoc_validated:
+    type: text
+  entity_so_thich_validated:
+    type: text
+  entity_tinh_thanh_validated:
+    type: text
+  entity_truong_dai_hoc_validated:
+    type: text
+  entity_vung_mien_validated:
+    type: text
 responses:
   utter_chao_mung:
   - custom:
