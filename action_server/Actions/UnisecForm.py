@@ -399,6 +399,14 @@ class UnisecForm(Action):
         print("unisec validated slot called")
         slot_dict = []
         validator = UnisecValidator.getInstance()
+        
+        #reset local slot
+        listSlot = self.required_validation_slot()
+        self.validated_slots = {}
+        for i in listSlot:
+            self.validated_slots[i] = None
+            self.validated_slots[i + "_validated"] = None
+
         for slot in self.validated_slots:
             if tracker.get_slot(slot) !=None and slot[-10:] != '_validated':
                 validate_func = getattr(validator, "validate_" +slot)
