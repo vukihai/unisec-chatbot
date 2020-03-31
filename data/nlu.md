@@ -61,6 +61,11 @@
 - Điểm chuẩn ngành [công nghệ Dệt may](entity_nganh_hoc) [Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc](entity_truong_dai_hoc) năm [2019](entity_nam)
 - Trường [Đại Học Y Hà Nội](entity_truong_dai_hoc) lấy bao nhiêu điểm?
 - điểm chuẩn [ngành kế toán](entity_nganh_hoc) [Cao Đẳng Phát Thanh Truyền Hình I](entity_truong_dai_hoc) là bao nhiêu?
+<<<<<<< HEAD
+=======
+- điểm chuẩn ngành [quản lý công nghiệp](entity_nganh_hoc)
+- điểm chuẩn [năm kia](entity_nam) là bao nhiêu
+>>>>>>> add action hoi dia chi
 - Điểm chuẩn [Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM](entity_truong_dai_hoc) năm vừa rồi là bao nhiêu
 - Những trường nào điểm chuẩn ngành [công nghệ thông tin](entity_nganh_hoc) khoảng 24 điểm
 
