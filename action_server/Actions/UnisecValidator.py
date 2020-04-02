@@ -16,6 +16,7 @@ class UnisecValidator:
         if UnisecValidator.__instance != None:
             raise Exception("This class is a singleton!")
         else:  
+            print("vukihai: instantiated Unisec Validator")
             self.path = os.path.abspath(os.path.dirname(__file__))
             self.loadData()
             UnisecValidator.__instance = self
@@ -48,14 +49,16 @@ class UnisecValidator:
     def validate_entity_nam(self, name):
         return (1, name, name)
     def validate_entity_nganh_hoc(self, name):
-        return (1, name, name)
+        vec = self.majorVectorizer.transform([name])
+        cos = cosine_similarity(self.majorModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.majorDataframe.iloc[index,1],str(self.majorDataframe.iloc[index,2]))
+    
     def validate_entity_so_thich(self, name):
         return (1, name, name)
     def validate_entity_tinh_thanh(self, name):
         return (1, name, name)
     def validate_entity_truong_dai_hoc(self, name):
-        print("validator called")
-        name = name.lower()
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
         index = cos.argmax()
@@ -63,4 +66,4 @@ class UnisecValidator:
     
 UnisecValidator.getInstance() # load & train data immediately after import
 
-# print(validator.validate_uni("y đa khoa y hà nội"))
+# print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
