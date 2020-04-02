@@ -67,6 +67,7 @@ class FormHoiDiemChuan(UnisecForm):
           query['major_group_id'] = re.compile('^' + nganh_hoc_validated + '$', re.IGNORECASE)
           mes += " ngành " + nganh_hoc
 
+<<<<<<< HEAD
       if (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
          # query['year'] = str(nam_validated)
          # mes += " năm " + str(nam_validated)
@@ -92,4 +93,26 @@ class FormHoiDiemChuan(UnisecForm):
       print(query)
       if len(ret) == 1:
          mes = "Tiếc quá, tôi không tìm thấy thông tin điểm chuẩn"
+=======
+      if not (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
+         query['year'] = str(nam_validated)
+         mes += " năm " + str(nam_validated)
+         data = db.admission_scores.find(query)
+         ret = []
+         for entry in data:
+            try:
+               ret.append([entry['university'], entry['major_name'],entry['score'], entry['combine']])
+            except:
+               print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
+      else:
+         data = db.admission_scores.find(query)
+         ret = []
+         for entry in data:
+            try:
+               ret.append([entry['university'], entry['major_name'],entry['score'], entry['combine'], entry['year']])
+            except:
+               print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
+      if len(ret) == 0:
+         mes = "Không tìm thấy điểm chuẩn ngành " + nganh_hoc + " trường " + truong_dai_hoc
+>>>>>>> major lookup. finish form ask admission scores
       return (mes, ret)
