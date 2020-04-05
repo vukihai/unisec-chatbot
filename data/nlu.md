@@ -176,14 +176,3 @@ data/score_lookup.txt
 
 ## intent:intent_hoi_thong_tin_truong
 - giới thiệu trường [đại học công nghệ](entity_truong_dai_hoc)
-
-## intent:funnyquest/hoi_gai_xinh
-- trường nào nhiều trai xinh gái đẹp nhất
-- trường nào nhiều gái xinh nhất
-- trường nào gái đẹp nhất
-- trường nào nhiều trai đẹp nhất
-## intent:funnyquest/hoi_bot
-- bot này do ai tạo ra
-- ai tạo ra bạn hả bot
-- bạn từ đâu mà ra
-- bạn sinh ra như nào

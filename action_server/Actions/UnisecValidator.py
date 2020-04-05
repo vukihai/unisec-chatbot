@@ -27,10 +27,7 @@ class UnisecValidator:
         self.uniDataframe = pd.read_csv(self.path + '/university_lookup.csv')
         self.uniVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
         self.uniModel = self.uniVectorizer.fit_transform(self.uniDataframe.iloc[:,1])
-        fname = self.uniVectorizer.get_feature_names()
-        # print(fname[810])
-        #print(self.uniModel)
-        
+
         ## region
         self.regionDataframe = pd.read_csv(self.path + '/macro_region_lookup.csv')
         self.regionVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
@@ -40,28 +37,15 @@ class UnisecValidator:
         self.majorDataframe = pd.read_csv(self.path + '/major_lookup.csv')
         self.majorVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
         self.majorModel = self.majorVectorizer.fit_transform(self.majorDataframe.iloc[:,1])
-        ## grades
-        self.gradeDataframe = pd.read_csv(self.path + '/khoi_lookup.csv')
-        self.gradeVectorizer = TfidfVectorizer(ngram_range=(1,1), analyzer='char')
-        self.gradeModel = self.gradeVectorizer.fit_transform(self.gradeDataframe.iloc[:,1])
-        ## subjects
-        self.subjectDataframe = pd.read_csv(self.path + '/subject_lookup.csv')
-        self.subjectVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
-        self.subjectModel = self.subjectVectorizer.fit_transform(self.subjectDataframe.iloc[:,1])
+        
     def validate_entity_diem(self, name):
         return (1, name, name)
     def validate_entity_gioi_tinh(self, name):
         return (1, name, name)
     def validate_entity_khoi_thi(self, name):
-        vec = self.gradeVectorizer.transform([name])
-        cos = cosine_similarity(self.gradeModel, vec)
-        index = cos.argmax()
-        return (cos[index][0], self.gradeDataframe.iloc[index,1], self.gradeDataframe.iloc[index,2])
+        return (1, name, name)
     def validate_entity_mon_hoc(self, name):
-        vec = self.subjectVectorizer.transform([name])
-        cos = cosine_similarity(self.subjectModel, vec)
-        index = cos.argmax()
-        return (cos[index][0], self.subjectDataframe.iloc[index,1])
+        return (1, name, name)
     def validate_entity_nam(self, name):
         return (1, name, name)
     def validate_entity_nganh_hoc(self, name):
@@ -81,7 +65,5 @@ class UnisecValidator:
         return (cos[index][0],self.uniDataframe.iloc[index,1],self.uniDataframe.iloc[index,2])
     
 UnisecValidator.getInstance() # load & train data immediately after import
-# UnisecValidator.getInstance().loadData()
+
 # print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
-# print(UnisecValidator.getInstance().validate_entity_truong_dai_hoc("đại công nghiệp hà"))
-# print(UnisecValidator.getInstance().validate_entity_mon_hoc("vẽ"))
