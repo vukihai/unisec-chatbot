@@ -49,3 +49,6 @@
    - form_hoi_ten_truong
    - form{"name": "form_hoi_ten_truong"}
    - form{"name": null}
+## story retrieve
+* funnyquest
+- respond_funnyquest

@@ -106,6 +106,7 @@ actions:
 - utter_ask_entity_tinh_thanh
 - utter_ask_entity_khoi_thi
 - utter_ask_entity_diem
+- respond_funnyquest
 forms:
 - form_chon_truong
 - form_chon_nganh
