@@ -157,8 +157,6 @@ data/score_lookup.txt
 - mã trường của trường [đại học công nghiệp Hà Nội](entity_truong_dai_hoc) là gì
 - [Đại học Cần thơ](entity_truong_dai_hoc) có mã trường là gì
 - tra cứu mã trường [đại học công nghiệp vinh](entity_truong_dai_hoc)
-
-# intent:intent_hoi_ten_truong
 - trường nào có mã là [QHI](entity_ma_truong)
 - trường nào có mã trường là [DCV](entity_ma_truong)
 - trường nào có mã là [qhi](entity_ma_truong)

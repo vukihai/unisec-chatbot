@@ -14,11 +14,11 @@ class FormHoiDiemChuan(UnisecForm):
    @staticmethod
    def required_validation_slot():
        return ['entity_truong_dai_hoc', 'entity_nganh_hoc']
-
+   
    def required_slots(self, tracker):
-      if tracker.get_slot('entity_truong_dai_hoc') == None:
-         return ['entity_truong_dai_hoc']
-      return []
+      # if tracker.get_slot('entity_truong_dai_hoc') == None:
+      #    return ['entity_truong_dai_hoc']
+      return ['entity_truong_dai_hoc']
 
    def before_slot_fill(self, dispatcher, tracker, domain):
       # utter universities fited with current slot.
@@ -28,7 +28,7 @@ class FormHoiDiemChuan(UnisecForm):
           return []
       res = self.getResponse()
       dispatcher.utter_message(res[0])
-      dispatcher.utter_message(json_message=res[1])
+      dispatcher.utter_message(json_message={"data":{"table" : res[1]}})
       return []
 
    def submit(self, dispatcher, tracker, domain):
@@ -41,11 +41,23 @@ class FormHoiDiemChuan(UnisecForm):
    ## query db. 
    ##
    def getResponse(self):
-      truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')
-      truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')
-      nganh_hoc =  self.get_slot('entity_nganh_hoc')
-      nganh_hoc_validated =  self.get_slot('entity_nganh_hoc_validated')
-      nam_validated =  self.get_slot('entity_nam_validated')
+      try:
+         truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')[0]
+         truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')[0]
+      except:
+         truong_dai_hoc = None
+         truong_dai_hoc_validated = None
+      try:
+         nganh_hoc =  self.get_slot('entity_nganh_hoc')[0]
+         nganh_hoc_validated =  self.get_slot('entity_nganh_hoc_validated')[0]
+      except:
+         nganh_hoc = None
+         nganh_hoc_validated = None
+      try:
+         nam_validated =  self.get_slot('entity_nam_validated')[0]
+      except:
+         nam_validated = None
+
       if nam_validated == None:
         nam_validated = '2019'
       mes = "Điểm chuẩn"
@@ -57,6 +69,7 @@ class FormHoiDiemChuan(UnisecForm):
           query['major_group_id'] = re.compile('^' + nganh_hoc_validated + '$', re.IGNORECASE)
           mes += " ngành " + nganh_hoc
 
+      print(query)
       if not (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
          query['year'] = str(nam_validated)
          mes += " năm " + str(nam_validated)
@@ -76,7 +89,7 @@ class FormHoiDiemChuan(UnisecForm):
             except:
                print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
       if len(ret) == 0:
-         mes = "Không tìm thấy điểm chuẩn ngành " + nganh_hoc + " trường " + truong_dai_hoc
+         mes = "Không tìm thấy thông tin điểm chuẩn"
       return (mes, ret)
 
       
