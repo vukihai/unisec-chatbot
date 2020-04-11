@@ -2,8 +2,6 @@ language: vi
 pipeline:
 - name: WhitespaceTokenizer
 - name: RegexFeaturizer
-- name: CRFEntityExtractor
-- name: EntitySynonymMapper
 - name: CountVectorsFeaturizer
 - name: CountVectorsFeaturizer
   analyzer: char_wb
@@ -11,7 +9,7 @@ pipeline:
   max_ngram: 4
 - name: DIETClassifier
 policies:
-- name: KerasPolicy
+- name: TEDPolicy
   epochs: 50
   max_history: 6
 - name: MemoizationPolicy
