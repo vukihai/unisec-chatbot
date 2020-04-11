@@ -27,58 +27,52 @@ entities:
 - entity_ma_truong
 slots:
   entity_diem:
-    type: text
+    type: list
   entity_diem_validated:
-    type: text
+    type: list
   entity_gioi_tinh:
-    type: text
+    type: list
   entity_gioi_tinh_validated:
-    type: text
+    type: list
   entity_khoi_thi:
-    type: text
+    type: list
   entity_khoi_thi_validated:
-    type: text
+    type: list
   entity_ma_truong:
-    type: text
+    type: list
+  entity_ma_truong_validated:
+    type: list
   entity_mon_hoc:
-    type: text
+    type: list
   entity_mon_hoc_validated:
-    type: text
+    type: list
   entity_nam:
-    type: text
+    type: list
   entity_nam_validated:
-    type: text
+    type: list
   entity_nganh_hoc:
-    type: text
+    type: list
   entity_nganh_hoc_validated:
-    type: text
+    type: list
   entity_so_thich:
-    type: text
+    type: list
   entity_so_thich_validated:
-    type: text
+    type: list
   entity_tinh_thanh:
-    type: text
+    type: list
   entity_tinh_thanh_validated:
-    type: text
+    type: list
   entity_truong_dai_hoc:
-    type: text
+    type: list
   entity_truong_dai_hoc_validated:
-    type: text
+    type: list
   entity_vung_mien:
-    type: text
+    type: list
   entity_vung_mien_validated:
-    type: text
+    type: list
 responses:
   utter_chao_mung:
-  - custom:
-      text: xin chào, bạn cần giúp gì nào?
-      blocks:
-      - text: chọn trường
-        img: ảnh chọn trường
-      - text: chọn ngành
-        img: ảnh chọn ngành
-      - text: tra cứu điểm chuẩn
-        img: ảnh tra cứu điểm chuẩn
+  - text: xin chào, bạn cần giúp gì nào?
   utter_ask_entity_truong_dai_hoc:
   - text: Bạn muốn hỏi trường nào?
   utter_ask_entity_nganh_hoc:
@@ -95,6 +89,7 @@ responses:
   - text: Đây là câu trả lời mặc định cho câu hỏi về vị trí trường.
 actions:
 - utter_chao_mung
+- action_chao_mung
 - utter_ask_ten_nganh
 - utter_hoi_to_hop_mon
 - utter_hoi_vi_tri_truong
@@ -113,5 +108,3 @@ forms:
 - form_hoi_khoi_thi
 - form_hoi_dia_chi_truong
 - form_hoi_thong_tin_truong
-- form_hoi_ma_truong
-- form_hoi_ten_truong

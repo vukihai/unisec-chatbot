@@ -10,6 +10,10 @@ class FormChonTruong(UnisecForm):
    def name(self):
       return "form_chon_truong"
 
+   @staticmethod
+   def required_validation_slot():
+      return ['entity_vung_mien', 'entity_tinh_thanh', 'entity_diem', 'entity_khoi_thi', 'entity_nganh_hoc']
+
    def required_slots(self, tracker):
       print("slot fill called")
       if len(self.getResponse(tracker)[1]) < 10:
@@ -26,13 +30,14 @@ class FormChonTruong(UnisecForm):
          return ['entity_khoi_thi']
       if tracker.get_slot('entity_nganh_hoc') == None:
          return ['entity_nganh_hoc']
+      return []
       
 
    def before_slot_fill(self, dispatcher, tracker, domain):
       # utter universities fited with current slot.
       res = self.getResponse(tracker)
       dispatcher.utter_message(res[0])
-      print(res[1])
+      dispatcher.utter_message(json_message = {'table': res[1]})
       return []
 
    def submit(self, dispatcher, tracker, domain):
@@ -46,11 +51,26 @@ class FormChonTruong(UnisecForm):
    ## query db. 
    ##
    def getResponse(self, tracker):
-      vung_mien = tracker.get_slot('entity_vung_mien')
-      tinh_thanh = tracker.get_slot('entity_tinh_thanh')
-      diem_thi = tracker.get_slot('entity_diem')
-      khoi_thi = tracker.get_slot('entity_khoi_thi')
-      nganh_hoc = tracker.get_slot('entity_nganh_hoc')
+      try:
+         vung_mien = self.get_slot('entity_vung_mien')[0]
+      except:
+         vung_mien = None
+      try:
+         tinh_thanh = self.get_slot('entity_tinh_thanh')[0]
+      except:
+         tinh_thanh = None
+      try:
+         diem_thi = self.get_slot('entity_diem')[0]
+      except:
+         diem_thi = None
+      try:
+         khoi_thi = self.get_slot('entity_khoi_thi')[0]
+      except:
+         khoi_thi = None
+      try:
+         nganh_hoc = self.get_slot('entity_nganh_hoc')[0]
+      except:
+         nganh_hoc = None
       if vung_mien == None and tinh_thanh == None and diem_thi == None and khoi_thi == None and nganh_hoc == None:
          ret = db.universities.find({})
          mes = """Hiện cả nước có {} trường đại học.""".format(ret.count())
@@ -64,9 +84,9 @@ class FormChonTruong(UnisecForm):
       #query
       query = {}
       if tinh_thanh != None:
-         query['province'] = tinh_thanh
+         query['province'] = re.compile('^' + tinh_thanh + '$', re.IGNORECASE)
       elif vung_mien != None:
-         query['macro_region'] = vung_mien
+         query['macro_region'] = re.compile('^' + vung_mien + '$', re.IGNORECASE)
       if diem_thi != None:
          pass
       if khoi_thi != None:

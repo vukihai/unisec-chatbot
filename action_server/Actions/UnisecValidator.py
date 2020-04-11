@@ -58,6 +58,10 @@ class UnisecValidator:
         return (1, name, name)
     def validate_entity_tinh_thanh(self, name):
         return (1, name, name)
+    def validate_entity_vung_mien(self, name):
+        return (1, name, name)
+    def validate_entity_ma_truong(self, name):
+        return (1,name, name)
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
@@ -65,5 +69,4 @@ class UnisecValidator:
         return (cos[index][0],self.uniDataframe.iloc[index,1],self.uniDataframe.iloc[index,2])
     
 UnisecValidator.getInstance() # load & train data immediately after import
-
 # print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
