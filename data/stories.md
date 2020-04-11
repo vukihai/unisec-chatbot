@@ -23,6 +23,14 @@
    - utter_chao_mung
    - action_chao_mung
 
+## story_hoi_diem_chuan
+* intent_hoi_diem_chuan
+   - form_hoi_diem_chuan
+   - form{"name" : "form_hoi_diem_chuan"}
+* intent_chao_mung
+   - utter_chao_mung
+   - action_chao_mung
+
 ## story hoi khoi thi
 * intent_hoi_khoi_thi
    - form_hoi_khoi_thi
