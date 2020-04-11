@@ -48,6 +48,7 @@ class UnisecValidator:
         return (1, name, name)
     def validate_entity_nam(self, name):
         return (1, name, name)
+
     def validate_entity_nganh_hoc(self, name):
         vec = self.majorVectorizer.transform([name])
         cos = cosine_similarity(self.majorModel, vec)
@@ -56,8 +57,21 @@ class UnisecValidator:
     
     def validate_entity_so_thich(self, name):
         return (1, name, name)
+
+    
     def validate_entity_tinh_thanh(self, name):
-        return (1, name, name)
+        vec = self.provinceVectorizer.transform([name])
+        cos = cosine_similarity(self.provinceModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.provinceDataframe.iloc[index,1],self.provinceDataframe.iloc[index,2])
+
+    def validate_entity_vung_mien(self, name):
+        vec = self.regionVectorizer.transform([name])
+        cos = cosine_similarity(self.regionModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.regionDataframe.iloc[index,1],self.regionDataframe.iloc[index,2])
+
+
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
