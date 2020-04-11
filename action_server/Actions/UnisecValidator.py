@@ -72,7 +72,7 @@ class UnisecValidator:
         vec = self.provinceVectorizer.transform([name])
         cos = cosine_similarity(self.provinceModel, vec)
         index = cos.argmax()
-        return (cos[index][0],self.provinceDataframe.iloc[index,1])
+        return (cos[index][0],self.provinceDataframe.iloc[index,1], self.provinceDataframe.iloc[index,1])
 
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
