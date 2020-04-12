@@ -37,7 +37,12 @@ class UnisecValidator:
         self.majorDataframe = pd.read_csv(self.path + '/major_lookup.csv')
         self.majorVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
         self.majorModel = self.majorVectorizer.fit_transform(self.majorDataframe.iloc[:,1])
-        
+
+        ## province
+        self.provinceDataframe = pd.read_csv(self.path + '/province_lookup.csv')
+        self.provinceVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
+        self.provinceModel = self.provinceVectorizer.fit_transform(self.provinceDataframe.iloc[:,1])
+          
     def validate_entity_diem(self, name):
         return (1, name, name)
     def validate_entity_gioi_tinh(self, name):
@@ -56,8 +61,19 @@ class UnisecValidator:
     
     def validate_entity_so_thich(self, name):
         return (1, name, name)
+
+    def validate_entity_vung_mien(self, name):
+        vec = self.regionVectorizer.transform([name])
+        cos = cosine_similarity(self.regionModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.regionDataframe.iloc[index,1],self.regionDataframe.iloc[index,2])
+    
     def validate_entity_tinh_thanh(self, name):
-        return (1, name, name)
+        vec = self.provinceVectorizer.transform([name])
+        cos = cosine_similarity(self.provinceModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.provinceDataframe.iloc[index,1], self.provinceDataframe.iloc[index,1])
+
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
@@ -65,5 +81,4 @@ class UnisecValidator:
         return (cos[index][0],self.uniDataframe.iloc[index,1],self.uniDataframe.iloc[index,2])
     
 UnisecValidator.getInstance() # load & train data immediately after import
-
-# print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
+#print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
