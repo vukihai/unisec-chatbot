@@ -67,7 +67,6 @@ class FormHoiDiemChuan(UnisecForm):
           query['major_group_id'] = re.compile('^' + nganh_hoc_validated + '$', re.IGNORECASE)
           mes += " ngành " + nganh_hoc
 
-
       if (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
          # query['year'] = str(nam_validated)
          # mes += " năm " + str(nam_validated)

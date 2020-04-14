@@ -52,8 +52,13 @@ class FormChonTruong(UnisecForm):
    ## query db. 
    ##
    def getResponse(self, tracker):
+      ### get slot
       try:
          vung_mien = self.get_slot('entity_vung_mien_validated')[0]
+      except:
+         vung_mien = None
+      try:
+         tinh_thanh = self.get_slot('entity_tinh_thanh')[0]
       except:
          tinh_thanh = None
       try:
