@@ -73,3 +73,4 @@ class UnisecValidator:
         return (cos[index][0],self.uniDataframe.iloc[index,1],self.uniDataframe.iloc[index,2])
     
 UnisecValidator.getInstance() # load & train data immediately after import
+# print(UnisecValidator.getInstance().validate_entity_vung_mien("miền bắc"))

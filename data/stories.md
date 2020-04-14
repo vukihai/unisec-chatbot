@@ -13,9 +13,7 @@
 * intent_hoi_diem_chuan
    - form_hoi_diem_chuan
    - form{"name" : "form_hoi_diem_chuan"}
-* intent_chao_mung
-   - utter_chao_mung
-   - action_chao_mung
+   - form{"name" : null}
 
 ## story_hoi_diem_chuan
 * intent_hoi_diem_chuan
