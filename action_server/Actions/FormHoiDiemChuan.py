@@ -13,7 +13,7 @@ class FormHoiDiemChuan(UnisecForm):
 
    @staticmethod
    def required_validation_slot():
-       return ['entity_truong_dai_hoc', 'entity_nganh_hoc']
+       return ['entity_truong_dai_hoc', 'entity_nganh_hoc', 'entity_nam']
    
    def required_slots(self, tracker):
       # if tracker.get_slot('entity_truong_dai_hoc') == None:
@@ -28,7 +28,8 @@ class FormHoiDiemChuan(UnisecForm):
           return []
       res = self.getResponse()
       dispatcher.utter_message(res[0])
-      dispatcher.utter_message(json_message={"data":{"table" : res[1]}})
+      if len(res[1]) >1:
+         dispatcher.utter_message(json_message={"data":{"table" : res[1]}})
       return []
 
    def submit(self, dispatcher, tracker, domain):
@@ -56,11 +57,8 @@ class FormHoiDiemChuan(UnisecForm):
       try:
          nam_validated =  self.get_slot('entity_nam_validated')[0]
       except:
-         nam_validated = None
-
-      if nam_validated == None:
-        nam_validated = '2019'
-      mes = "Điểm chuẩn"
+         nam_validated = '2019'
+      mes = "Sau đây là điểm chuẩn"
       query = {}
       if truong_dai_hoc_validated != None:
           query['university_id'] =  re.compile('^' + truong_dai_hoc_validated + '$', re.IGNORECASE)
@@ -69,31 +67,29 @@ class FormHoiDiemChuan(UnisecForm):
           query['major_group_id'] = re.compile('^' + nganh_hoc_validated + '$', re.IGNORECASE)
           mes += " ngành " + nganh_hoc
 
-      print(query)
-      if not (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
-         query['year'] = str(nam_validated)
+      if (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
+         # query['year'] = str(nam_validated)
+         # mes += " năm " + str(nam_validated)
+         data = db.admission_scores.find(query)
+         ret = []
+         ret.append(["năm", "trường", "ngành học", "điểm", "tổ hợp môn"])
+         for entry in data:
+            try:
+               ret.append([entry['year'],entry['university'], entry['major_name'],entry['score'], entry['combine']])
+            except:
+               print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
+      else:
+         query['year'] = int(nam_validated)
          mes += " năm " + str(nam_validated)
          data = db.admission_scores.find(query)
          ret = []
+         ret.append(["trường", "ngành học", "điểm", "tổ hợp môn"])
          for entry in data:
             try:
                ret.append([entry['university'], entry['major_name'],entry['score'], entry['combine']])
             except:
                print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
-      else:
-         data = db.admission_scores.find(query)
-         ret = []
-         for entry in data:
-            try:
-               ret.append([entry['university'], entry['major_name'],entry['score'], entry['combine'], entry['year']])
-            except:
-               print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
-      if len(ret) == 0:
-         mes = "Không tìm thấy thông tin điểm chuẩn"
+      print(query)
+      if len(ret) == 1:
+         mes = "Tiếc quá, tôi không tìm thấy thông tin điểm chuẩn"
       return (mes, ret)
-
-      
-      
-
-
-

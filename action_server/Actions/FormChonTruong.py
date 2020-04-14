@@ -37,22 +37,24 @@ class FormChonTruong(UnisecForm):
       # utter universities fited with current slot.
       res = self.getResponse(tracker)
       dispatcher.utter_message(res[0])
-      dispatcher.utter_message(json_message = {'table': res[1]})
+      if len(res[1]) < 30:
+         dispatcher.utter_message(json_message = {'table': res[1]})
       return []
 
    def submit(self, dispatcher, tracker, domain):
       # reset all slot if needed
       # add utter_chao_mung
       # finish form
-      dispatcher.utter_message("active form chọn trường")
+      # dispatcher.utter_message("active form chọn trường")
       return [AllSlotsReset()]
 
    ##
    ## query db. 
    ##
    def getResponse(self, tracker):
+      ### get slot
       try:
-         vung_mien = self.get_slot('entity_vung_mien')[0]
+         vung_mien = self.get_slot('entity_vung_mien_validated')[0]
       except:
          vung_mien = None
       try:
@@ -69,55 +71,83 @@ class FormChonTruong(UnisecForm):
          khoi_thi = None
       try:
          nganh_hoc = self.get_slot('entity_nganh_hoc')[0]
+         nganh_hoc_validated = self.get_slot('entity_nganh_hoc_validated')[0]
       except:
          nganh_hoc = None
+         nganh_hoc_validated = None
+
       if vung_mien == None and tinh_thanh == None and diem_thi == None and khoi_thi == None and nganh_hoc == None:
          ret = db.universities.find({})
-         mes = """Hiện cả nước có {} trường đại học.""".format(ret.count())
+         mes = """Hiện cả nước có tất cả {} trường đại học.""".format(ret.count())
          list = []
-         for uni in ret:
-            try:
-               list.append((uni["name"], uni["province"]))
-            except:
-               print("vukihai: error while create response: FormChonTruong > getResponse > no slot ")
+         for entry in ret:
+            list.append([entry['name']])
          return (mes, list)
-      #query
+      #gen query
       query = {}
       if tinh_thanh != None:
          query['province'] = re.compile('^' + tinh_thanh + '$', re.IGNORECASE)
       elif vung_mien != None:
          query['macro_region'] = re.compile('^' + vung_mien + '$', re.IGNORECASE)
       if diem_thi != None:
-         pass
+         if not "majors" in query:
+            query["majors"] = {}
+         if not '$elemMatch' in query["majors"]:
+            query["majors"]['$elemMatch'] = {}
+         query["majors"]['$elemMatch']['score'] =  { '$gte': float(diem_thi) - 2, '$lt': float(diem_thi) + 2 }
       if khoi_thi != None:
-         pass
+         if not "majors" in query:
+            query["majors"] = {}
+         if not '$elemMatch' in query["majors"]:
+            query["majors"]['$elemMatch'] = {}
+         if not 'major_combine' in query["majors"]['$elemMatch']:
+            query["majors"]['$elemMatch']['major_combine'] = {}
+         query["majors"]['$elemMatch']['major_combine']['$elemMatch'] =  re.compile('^' + khoi_thi + '$', re.IGNORECASE)
       if nganh_hoc != None:
-         query['majors'] = {'$elemMatch': {'major_name':re.compile('^' + nganh_hoc + '$', re.IGNORECASE)}}
+         if not "majors" in query:
+            query["majors"] = {}
+         if not '$elemMatch' in query["majors"]:
+            query["majors"]['$elemMatch'] = {}
+         query["majors"]['$elemMatch']['major_group'] = nganh_hoc_validated      
       data = db.universities.find(query)
+      # for test in data:
+      #    print(test['name'])
+      #gen answer
       ret = []
-      if nganh_hoc != None:
-         for uni in data:
+      ret.append(["trường", "ngành"])
+      numOfUni = 0
+      for uni in data:
+         try:
+            numOfUni += 1
             for major in uni['majors']:
-               try:
-                  ret.append((uni['name'], major['major_name']))
-               except:
-                  print("vukihai: error while create response: FormChonTruong > getResponse > has majorslot")
-                 
-      else:
-         for uni in data:
-            try:
-               ret.append((uni['name'], uni['province']))
-            except:
-               print("vukihai: error while create response: FormChonTruong > getResponse > majorslot None")
-
+                  if nganh_hoc is not None and major['major_group'] != nganh_hoc_validated:
+                     print(uni['name'] + ' break 1')
+                     continue
+                  if diem_thi is not None and float(diem_thi)-2 > float(major['score']) and float(diem_thi) +2 < float(major['score']):
+                     print(uni['name'] + ' break 2')
+                     continue
+                  if khoi_thi is not None and khoi_thi not in major['major_combine']:
+                     print(uni['name'] + ' break 3')
+                     continue
+                  ret.append([uni['name'], major['major_name']])
+         except:
+            print("vukihai: error while create response: FormChonTruong > getResponse > has majorslot")          
       mes =""
       if tinh_thanh != None:
          mes += "Tại " + tinh_thanh + " có "
       elif vung_mien != None:
-         mes += "Tại miền " + vung_mien + " có "
+         mes += "Ở miền " + vung_mien + " có "
       else:
          mes += "Hiện cả nước có "
-      mes += str(len(ret)) + " trường"
+      mes += str(numOfUni) + " trường"
+      if nganh_hoc is not None:
+         mes += " có đào tạo ngành " + nganh_hoc
+      if diem_thi is not None:
+         mes += " phù hợp với mức điểm của bạn"
+      print(query)
+
+      if len(ret) == 1:
+         mes = "Tôi không tìm được kết quả nào phù hợp với bạn cả :("
       return (mes, ret)
 
       
