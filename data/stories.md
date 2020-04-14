@@ -6,13 +6,7 @@
 ## story chon truong
 * intent_chon_truong
    - form_chon_truong
-   - form{"name" : "form_hoi_chon_truong"}
-   - form{"name" : null}
-
-## story chon nganh
-* intent_chon_nganh
-   - form_chon_nganh
-   - form{"name" : "form_chon_nganh"}
+   - form{"name" : "form_chon_truong"}
    - form{"name" : null}
 
 ## story_hoi_diem_chuan
@@ -39,6 +33,12 @@
 * intent_hoi_dia_chi_truong
    - form_hoi_dia_chi_truong
    - form{"name" : "form_hoi_dia_chi_truong"}
+   - form{"name" : null}
+
+## story hoi ma truong
+* intent_hoi_ma_truong
+   - form_hoi_ma_truong
+   - form{"name" : "form_hoi_ma_truong"}
    - form{"name" : null}
 
 ## story hoi thong tin truong
