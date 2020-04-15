@@ -81,7 +81,7 @@ class UnisecValidator:
         
     def validate_entity_ma_truong(self, name):
         return (1,name, name)
->>>>>>> master
+
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)

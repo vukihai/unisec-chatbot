@@ -95,14 +95,7 @@ class FormChonTruong(UnisecForm):
          if not '$elemMatch' in query["majors"]:
             query["majors"]['$elemMatch'] = {}
          query["majors"]['$elemMatch']['score'] =  { '$gte': float(diem_thi) - 2, '$lt': float(diem_thi) + 2 }
-      if khoi_thi != None:
-         if not "majors" in query:
-            query["majors"] = {}
-         if not '$elemMatch' in query["majors"]:
-            query["majors"]['$elemMatch'] = {}
-         if not 'major_combine' in query["majors"]['$elemMatch']:
-            query["majors"]['$elemMatch']['major_combine'] = {}
-         query["majors"]['$elemMatch']['major_combine']['$elemMatch'] =  re.compile('^' + khoi_thi + '$', re.IGNORECASE)
+      
       if nganh_hoc != None:
          if not "majors" in query:
             query["majors"] = {}
@@ -110,6 +103,7 @@ class FormChonTruong(UnisecForm):
             query["majors"]['$elemMatch'] = {}
          query["majors"]['$elemMatch']['major_group'] = nganh_hoc_validated      
       data = db.universities.find(query)
+      print(query)
       # for test in data:
       #    print(test['name'])
       #gen answer
@@ -121,13 +115,13 @@ class FormChonTruong(UnisecForm):
             numOfUni += 1
             for major in uni['majors']:
                   if nganh_hoc is not None and major['major_group'] != nganh_hoc_validated:
-                     print(uni['name'] + ' break 1')
+                     # print(uni['name'] + ' break 1')
                      continue
                   if diem_thi is not None and float(diem_thi)-2 > float(major['score']) and float(diem_thi) +2 < float(major['score']):
-                     print(uni['name'] + ' break 2')
+                     # print(uni['name'] + ' break 2')
                      continue
                   if khoi_thi is not None and khoi_thi not in major['major_combine']:
-                     print(uni['name'] + ' break 3')
+                     # print(uni['name'] + ' break 3')
                      continue
                   ret.append([uni['name'], major['major_name']])
          except:
