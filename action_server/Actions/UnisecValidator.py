@@ -56,7 +56,19 @@ class UnisecValidator:
         vec = self.gradeVectorizer.transform([name])
         cos = cosine_similarity(self.gradeModel, vec)
         index = cos.argmax()
-        return (cos[index][0], self.gradeDataframe.iloc[index,1], self.gradeDataframe.iloc[index,2])
+        li = list(name)
+        print(len(li))
+        num = len(li)
+        if num == 1:
+            ch = name.upper() + "00"
+            return ch
+        if num == 2:
+            #li = list(name)
+            ch = li[0].upper() + "0" + li[1]
+            return ch
+        #li = list(name)
+        ch = li[0].upper() + li[1] + li[2]
+        return ch
     def validate_entity_mon_hoc(self, name):
         vec = self.subjectVectorizer.transform([name])
         cos = cosine_similarity(self.subjectModel, vec)
@@ -84,4 +96,4 @@ UnisecValidator.getInstance() # load & train data immediately after import
 # UnisecValidator.getInstance().loadData()
 # print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
 # print(UnisecValidator.getInstance().validate_entity_truong_dai_hoc("đại công nghiệp hà"))
-# print(UnisecValidator.getInstance().validate_entity_mon_hoc("vẽ"))
+print(UnisecValidator.getInstance().validate_entity_khoi_thi("b3"))
