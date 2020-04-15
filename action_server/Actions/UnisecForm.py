@@ -5,6 +5,7 @@ from rasa_sdk import utils
 from rasa_sdk.events import SlotSet, Form, EventType
 from rasa_sdk.interfaces import Action, ActionExecutionRejection
 from .UnisecValidator import UnisecValidator
+from .UnisecLogger import UnisecLogger
 logger = logging.getLogger(__name__)
 if typing.TYPE_CHECKING:
     from rasa_sdk import Tracker
@@ -20,6 +21,7 @@ class UnisecForm(Action):
 
     def name(self) -> Text:
         return "Unisec Form"
+
     def required_slots(self, tracker: "Tracker") -> List[Text]:
         """A list of required slots that the form has to fill.
 
@@ -58,6 +60,7 @@ class UnisecForm(Action):
     @staticmethod
     def required_validation_slot():
         return []
+
     def from_trigger_intent(
         self,
         value: Any,
@@ -333,7 +336,7 @@ class UnisecForm(Action):
         If nothing was extracted reject execution of the form action.
         Subclass this method to add custom validation and rejection logic
         """
-
+        # print("vukihai called")
         # extract other slots that were not requested
         # but set by corresponding entity or trigger intent mapping
         slot_values = self.extract_other_slots(dispatcher, tracker, domain)
@@ -354,6 +357,15 @@ class UnisecForm(Action):
         logger.debug(f"Validating extracted slots: {slot_values}")
         return await self.validate_slots(slot_values, dispatcher, tracker, domain)
 
+    @staticmethod
+    def check_reset_form_action_on_intent(tracker, dispatcher):
+        last_intent = tracker.latest_message['intent'].get('name')
+        # if last_intent == 'reset_dialogue':
+            # dispatcher.utter_message('Okay, what else can I do for you?')
+        print(last_intent)
+        return True
+        # else:
+            # return False
     # noinspection PyUnusedLocal
     def request_next_slot(
         self,
@@ -367,8 +379,13 @@ class UnisecForm(Action):
         for slot in self.required_slots(tracker):
             if self._should_request_slot(tracker, slot):
                 logger.debug(f"Request next slot '{slot}'")
-                dispatcher.utter_message(template=f"utter_ask_{slot}", **tracker.slots)
-                return [SlotSet(REQUESTED_SLOT, slot)]
+                try:
+                    utter_func = getattr(self, "utter_ask_{slot}")
+                    dispatcher.utter_message(json_message=utter_func(), **tracker.slots)
+                    return [SlotSet(REQUESTED_SLOT, slot)]
+                except:
+                    dispatcher.utter_message(template=f"utter_ask_{slot}", **tracker.slots)
+                    return [SlotSet(REQUESTED_SLOT, slot)]
 
         # no more required slots to fill
         return None
@@ -396,10 +413,9 @@ class UnisecForm(Action):
         tracker: "Tracker",
         domain: Dict[Text, Any],
     ) -> List[EventType]:
-        print("unisec validated slot called")
+        # print("unisec validated slot called")
         slot_dict = []
         validator = UnisecValidator.getInstance()
-        
         #reset local slot
         listSlot = self.required_validation_slot()
         self.validated_slots = {}
@@ -409,16 +425,36 @@ class UnisecForm(Action):
 
         for slot in self.validated_slots:
             if tracker.get_slot(slot) !=None and slot[-10:] != '_validated':
-                validate_func = getattr(validator, "validate_" +slot)
-                validation_output = validate_func(tracker.get_slot(slot))
-                if validation_output is None:
-                    print("vukihai: validation function not found")
-                    validation_output = (1,tracker.get_slot(slot),tracker.get_slot(slot))
-                self.validated_slots[slot] = validation_output[1]
-                self.validated_slots[slot + "_validated"] = validation_output[2]
-                slot_dict.append(SlotSet(slot, validation_output[1]))
-                slot_dict.append(SlotSet(slot + "_validated", validation_output[2]))
-        print("vukihai slot validate event")
+                # try:
+                    validate_func = getattr(validator, "validate_" +slot)
+                    origin = tracker.get_slot(slot)
+                    validation_output = []
+                    if isinstance(origin, str):
+                        validation_output = validate_func(tracker.get_slot(slot))
+                        if validation_output is None:
+                            print("vukihai: something went wrong with validation function: " + "validate_" +slot )
+                            validation_output = (1,tracker.get_slot(slot),tracker.get_slot(slot))
+                        self.validated_slots[slot] = validation_output[1]
+                        self.validated_slots[slot + "_validated"] = validation_output[2]
+                        slot_dict.append(SlotSet(slot, validation_output[1]))
+                        slot_dict.append(SlotSet(slot + "_validated", validation_output[2]))
+                    else:
+                        validation_output = []
+                        for i in origin:
+                            validation_output.append(validate_func(i))
+                        self.validated_slots[slot] = []
+                        self.validated_slots[slot + "_validated"] = []
+                        for i in validation_output:
+                            self.validated_slots[slot].append(i[1])
+                            self.validated_slots[slot + "_validated"].append(i[2])
+                        slot_dict.append(SlotSet(slot, self.validated_slots[slot]))
+                        slot_dict.append(SlotSet(slot + "_validated", self.validated_slots[slot + "_validated"]))
+
+                    if self.validated_slots[slot] != None:
+                        UnisecLogger.log(UnisecLogger.ENTITY_EXTRACTED, slot,  self.validated_slots[slot], tracker.latest_message.get('text'))
+                # except:
+                #     print('vukihai: validate function not found: ' + "validate_" + slot )
+        # print("vukihai slot validate event")
         print(slot_dict)
         
         return slot_dict
@@ -497,6 +533,7 @@ class UnisecForm(Action):
             return []
         else:
             logger.debug(f"Activated the form '{self.name()}'")
+            UnisecLogger.log(UnisecLogger.FORM_ACTIVATED, self.name(),None, tracker.latest_message.get("text"))
             events = [Form(self.name())]
 
             # collect values of required slots filled before activation
@@ -568,8 +605,8 @@ class UnisecForm(Action):
         # activate the form
         events = await self._activate_if_required(dispatcher, tracker, domain)
         # validate user input
-        # events.extend(await self._validate_if_required(dispatcher, tracker, domain))
-        #vukihai add slot validate
+        events.extend(await self._validate_if_required(dispatcher, tracker, domain))
+        # vukihai add slot validate
         events.extend(await self.unisec_validate_slots(dispatcher, tracker, domain))
         # check that the form wasn't deactivated in validation
         if Form(None) not in events:

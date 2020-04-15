@@ -1,7 +1,3 @@
-## lookup:entity_truong_dai_hoc
-data/university_lookup.txt
-## lookup:entity_diem
-data/score_lookup.txt
 ## intent:intent_chao_mung
 - chào
 - xin chào
@@ -59,17 +55,15 @@ data/score_lookup.txt
 - điểm chuẩn [Khoa Giáo dục thể chất - Đại học Đà Nẵng](entity_truong_dai_hoc) khoa [cntt](entity_nganh_hoc) [2 năm gần đây](entity_nam)
 - điểm chuẩn trường [Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng](entity_truong_dai_hoc)
 - điểm chuẩn trường [Đại Học Lao Động – Xã Hội ( Cơ sở phía Nam)](entity_truong_dai_hoc) là bao nhiêu
-- ngành [quản lý công nghiệp](entity_nganh_hoc) lấy bao nhiêu điểm
 - [ngành kế toán](entity_nganh_hoc) [Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên](entity_truong_dai_hoc) lấy điểm bao nhiêu
 - Điểm chuẩn [Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa](entity_truong_dai_hoc) [2019](entity_nam)
 - trường [Đại Học FPT](entity_truong_dai_hoc) lấy bao nhiêu điểm
 - Điểm chuẩn ngành [công nghệ Dệt may](entity_nganh_hoc) [Trường Sĩ Quan Thông Tin - Hệ Dân Sự - Đại Học Thông Tin Liên Lạc](entity_truong_dai_hoc) năm [2019](entity_nam)
 - Trường [Đại Học Y Hà Nội](entity_truong_dai_hoc) lấy bao nhiêu điểm?
 - điểm chuẩn [ngành kế toán](entity_nganh_hoc) [Cao Đẳng Phát Thanh Truyền Hình I](entity_truong_dai_hoc) là bao nhiêu?
-- điểm chuẩn ngành [quản lý công nghiệp](entity_nganh_hoc)
-- điểm chuẩn [năm kia](entity_nam) là bao nhiêu
 - Điểm chuẩn [Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM](entity_truong_dai_hoc) năm vừa rồi là bao nhiêu
 - Những trường nào điểm chuẩn ngành [công nghệ thông tin](entity_nganh_hoc) khoảng 24 điểm
+
 ## intent:intent_chon_truong
 - trường nào đào tạo [công nghệ thông tin](entity_nganh_hoc)
 - trường nào có ngành [cơ khí](entity_nganh_hoc)
@@ -119,6 +113,7 @@ data/score_lookup.txt
 - ở [hải dương](entity_tinh_thanh) có trường nào đào tạo [vật lý kỹ thuật](entity_nganh_hoc) không
 - tôi được [24](entity_diem) điểm khối [b](entity_khoi_thi) thì nên học trường nào ở [hà nội](entity_tinh_thanh)
 - ở [hà nội](entity_tinh_thanh) có trường nào lấy điểm chuẩn dưới [24](entity_diem) không
+- có những trường nào đào tạo [công nghệ sinh học](entity_nganh_hoc)
 
 ## intent:intent_chon_nganh
 - ngành nào lấy dưới [25](entity_diem) điểm [khối A](entity_khoi_thi)
@@ -157,8 +152,6 @@ data/score_lookup.txt
 - mã trường của trường [đại học công nghiệp Hà Nội](entity_truong_dai_hoc) là gì
 - [Đại học Cần thơ](entity_truong_dai_hoc) có mã trường là gì
 - tra cứu mã trường [đại học công nghiệp vinh](entity_truong_dai_hoc)
-
-# intent:intent_hoi_ten_truong
 - trường nào có mã là [QHI](entity_ma_truong)
 - trường nào có mã trường là [DCV](entity_ma_truong)
 - trường nào có mã là [qhi](entity_ma_truong)
@@ -176,3 +169,12 @@ data/score_lookup.txt
 
 ## intent:intent_hoi_thong_tin_truong
 - giới thiệu trường [đại học công nghệ](entity_truong_dai_hoc)
+
+## synonym:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội
+- đại học công nghệ
+
+## lookup:university_lookup.txt
+  data/university_lookup.txt
+
+## lookup:score_lookup.txt
+  data/score_lookup.txt
