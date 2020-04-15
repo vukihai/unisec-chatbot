@@ -57,7 +57,7 @@ class UnisecValidator:
         cos = cosine_similarity(self.gradeModel, vec)
         index = cos.argmax()
         li = list(name)
-        print(len(li))
+        #print(len(li))
         num = len(li)
         if num == 1:
             ch = name.upper() + "00"
@@ -96,4 +96,4 @@ UnisecValidator.getInstance() # load & train data immediately after import
 # UnisecValidator.getInstance().loadData()
 # print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
 # print(UnisecValidator.getInstance().validate_entity_truong_dai_hoc("đại công nghiệp hà"))
-print(UnisecValidator.getInstance().validate_entity_khoi_thi("b3"))
+#print(UnisecValidator.getInstance().validate_entity_khoi_thi("b3"))
