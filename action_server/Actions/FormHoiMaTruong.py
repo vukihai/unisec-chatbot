@@ -24,12 +24,18 @@ class FormHoiMaTruong(UnisecForm):
       return []
 
    def submit(self, dispatcher, tracker, domain):
-      truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')
-      truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')
-      ma_truong = self.get_slot('entity_ma_truong')
-      ma_truong_validated = self.get_slot('entity_ma_truong_validated')
-      print(ma_truong)
-      print(ma_truong_validated)
+      try:
+         truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')[0]
+         truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')[0]
+      except:
+         truong_dai_hoc = None
+         truong_dai_hoc_validated = None
+      try:
+         ma_truong = self.get_slot('entity_ma_truong')[0]
+      except:
+         ma_truong = None
+
+      
       if ma_truong != None:
          dt = db.universities.find_one({'abbreviation': re.compile('^' + ma_truong + '$', re.IGNORECASE)})
          if dt != None:
