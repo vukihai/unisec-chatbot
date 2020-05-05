@@ -23,8 +23,12 @@ class FormHoiDiaChiTruon(UnisecForm):
       return []
 
    def submit(self, dispatcher, tracker, domain):
-      truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')
-      truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')
+      try:
+         truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')[0]
+         truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')[0]
+      except:
+         truong_dai_hoc = None
+         truong_dai_hoc_validated =  None
       data = []
       if truong_dai_hoc_validated != None:
         data = db.universities.find({'abbreviation': re.compile('^' + truong_dai_hoc_validated + '$', re.IGNORECASE)})

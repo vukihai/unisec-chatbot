@@ -2,18 +2,14 @@ language: vi
 pipeline:
 - name: WhitespaceTokenizer
 - name: RegexFeaturizer
-- name: CRFEntityExtractor
-- name: EntitySynonymMapper
 - name: CountVectorsFeaturizer
 - name: CountVectorsFeaturizer
-- name: ResponseSelector
-  retrieval_intent: funnyquest
   analyzer: char_wb
   min_ngram: 1
   max_ngram: 4
 - name: DIETClassifier
 policies:
-- name: KerasPolicy
+- name: TEDPolicy
   epochs: 50
   max_history: 6
 - name: MemoizationPolicy

@@ -27,10 +27,7 @@ class UnisecValidator:
         self.uniDataframe = pd.read_csv(self.path + '/university_lookup.csv')
         self.uniVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
         self.uniModel = self.uniVectorizer.fit_transform(self.uniDataframe.iloc[:,1])
-        fname = self.uniVectorizer.get_feature_names()
-        # print(fname[810])
-        #print(self.uniModel)
-        
+
         ## region
         self.regionDataframe = pd.read_csv(self.path + '/macro_region_lookup.csv')
         self.regionVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
@@ -40,14 +37,12 @@ class UnisecValidator:
         self.majorDataframe = pd.read_csv(self.path + '/major_lookup.csv')
         self.majorVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
         self.majorModel = self.majorVectorizer.fit_transform(self.majorDataframe.iloc[:,1])
-        ## grades
-        self.gradeDataframe = pd.read_csv(self.path + '/khoi_lookup.csv')
-        self.gradeVectorizer = TfidfVectorizer(ngram_range=(1,1), analyzer='char')
-        self.gradeModel = self.gradeVectorizer.fit_transform(self.gradeDataframe.iloc[:,1])
-        ## subjects
-        self.subjectDataframe = pd.read_csv(self.path + '/subject_lookup.csv')
-        self.subjectVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
-        self.subjectModel = self.subjectVectorizer.fit_transform(self.subjectDataframe.iloc[:,1])
+
+        ## province
+        self.provinceDataframe = pd.read_csv(self.path + '/province_lookup.csv')
+        self.provinceVectorizer = TfidfVectorizer(ngram_range=(1,3), analyzer='char')
+        self.provinceModel = self.provinceVectorizer.fit_transform(self.provinceDataframe.iloc[:,1])
+          
     def validate_entity_diem(self, name):
         return (1, name, name)
     def validate_entity_gioi_tinh(self, name):
@@ -70,10 +65,7 @@ class UnisecValidator:
         ch = li[0].upper() + li[1] + li[2]
         return ch
     def validate_entity_mon_hoc(self, name):
-        vec = self.subjectVectorizer.transform([name])
-        cos = cosine_similarity(self.subjectModel, vec)
-        index = cos.argmax()
-        return (cos[index][0], self.subjectDataframe.iloc[index,1])
+        return (1, name, name)
     def validate_entity_nam(self, name):
         return (1, name, name)
     def validate_entity_nganh_hoc(self, name):
@@ -84,8 +76,27 @@ class UnisecValidator:
     
     def validate_entity_so_thich(self, name):
         return (1, name, name)
+
+    def validate_entity_vung_mien(self, name):
+        vec = self.regionVectorizer.transform([name])
+        cos = cosine_similarity(self.regionModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.regionDataframe.iloc[index,1],self.regionDataframe.iloc[index,2])
+    
     def validate_entity_tinh_thanh(self, name):
-        return (1, name, name)
+        vec = self.provinceVectorizer.transform([name])
+        cos = cosine_similarity(self.provinceModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.provinceDataframe.iloc[index,1], self.provinceDataframe.iloc[index,1])
+    def validate_entity_vung_mien(self, name):
+        vec = self.regionVectorizer.transform([name])
+        cos = cosine_similarity(self.regionModel, vec)
+        index = cos.argmax()
+        return (cos[index][0],self.regionDataframe.iloc[index,0],str(self.regionDataframe.iloc[index,1]))
+        
+    def validate_entity_ma_truong(self, name):
+        return (1,name, name)
+
     def validate_entity_truong_dai_hoc(self, name):
         vec = self.uniVectorizer.transform([name])
         cos = cosine_similarity(self.uniModel, vec)
@@ -97,3 +108,6 @@ UnisecValidator.getInstance() # load & train data immediately after import
 # print(UnisecValidator.getInstance().validate_entity_nganh_hoc("y đa khoa y hà nội"))
 # print(UnisecValidator.getInstance().validate_entity_truong_dai_hoc("đại công nghiệp hà"))
 #print(UnisecValidator.getInstance().validate_entity_khoi_thi("b3"))
+
+# print(UnisecValidator.getInstance().validate_entity_vung_mien("miền bắc"))
+
