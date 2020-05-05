@@ -187,3 +187,46 @@ data/score_lookup.txt
 - ai tạo ra bạn hả bot
 - bạn từ đâu mà ra
 - bạn sinh ra như nào
+## intent:funnyquest/du_thi
+- không dự thi đủ các môn đăng kí thì kết quả có được chấp nhận không ạ
+- không dự thi đủ môn đăng kí
+- không dự thi
+## intent:funnyquest/truot_tot_nghiep
+- bạn em trượt tốt nghiệp THPT thì có phương án nào cho bạn ấy?
+- trượt tốt nghiệp
+- không đỗ tốt nghiệp THPT
+- không tốt nghiệp
+## intent:funnyquest/nhieu_khoi
+- trong 1 ngành người ta xét 2 khối a và a1, cho em hỏi sau khi trường lấy mỗi khối một nửa học sinh hay sao ạ
+- một ngành có nhiều khối
+- nhiều khối trong một ngành
+- các khối khác nhau trong cùng một ngành
+## intent:funnyquest/chi_tieu
+-  chỉ tiêu của trường ĐH đưa ra là 130 cho ngành X, vậy có khi nào chỉ tiêu tuyển sinh đó có thể thay đổi không ạ ? Hay vẫn tuyển đúng theo chỉ tiêu mà trường ĐH đó đã công bố khi xét tuyển thí sinh
+- chỉ tiêu có thay đổi không ạ
+- chỉ tiêu các trường
+## intent:funnyquest/rut_ho_so
+- Cho em hỏi em đã rút hồ sơ khỏi trường thì sau bao lâu tên của em sẽ được xóa khỏi danh sách đăng ký của trường đó ạ
+- rút hồ sơ thì như nào
+- rút hồ sơ
+## intent:funnyquest/hoc_gi_de_xinh
+- học gì để xinh hơn
+- học gì thì đẹp hơn
+- làm thế nào để xinh hơn
+## intent:funnyquest/phi_dang_ki
+- đăng kí nguyện vọng có mất phí không
+- lệ phí đăng kí nguyện vọng
+- phí đăng kí
+## intent:funnyquest/nganh_de_xin_viec
+- ngành nào dễ xin việc
+- ngành nào dễ có việc làm
+- dễ xin việc
+## intent:funnyquest/trai_e
+- trai ế nên vào trường nào
+- trường nào dễ có người yêu
+- trường nào phát người yêu miễn phí
+## intent:funnyquest/lam_giam_doc
+- nghề gì ra làm giám đốc
+- nghề gì làm giám đốc
+- giám đốc thì làm nghề gì
+- muốn làm giám đốc
