@@ -170,7 +170,6 @@
 ## intent:intent_hoi_thong_tin_truong
 - giới thiệu trường [đại học công nghệ](entity_truong_dai_hoc)
 
-<<<<<<< HEAD
 ## intent:funnyquest/hoi_gai_xinh
 - trường nào nhiều trai xinh gái đẹp nhất
 - trường nào nhiều gái xinh nhất
@@ -224,7 +223,6 @@
 - nghề gì làm giám đốc
 - giám đốc thì làm nghề gì
 - muốn làm giám đốc
-=======
 ## synonym:Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội
 - đại học công nghệ
 
@@ -233,4 +231,3 @@
 
 ## lookup:score_lookup.txt
   data/score_lookup.txt
->>>>>>> master
