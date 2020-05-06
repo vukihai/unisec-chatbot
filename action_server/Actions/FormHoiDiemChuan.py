@@ -1,6 +1,7 @@
 from rasa_sdk import Action
 from .UnisecForm import UnisecForm
 from .UnisecValidator import UnisecValidator
+from .UnisecLogger import UnisecLogger
 from rasa_sdk.events import SlotSet, AllSlotsReset, BotUttered, FollowupAction
 import pymongo
 import re
@@ -63,9 +64,11 @@ class FormHoiDiemChuan(UnisecForm):
       if truong_dai_hoc_validated != None:
           query['university_id'] =  re.compile('^' + truong_dai_hoc_validated + '$', re.IGNORECASE)
           mes += " trường " + truong_dai_hoc
+          UnisecLogger.log_university(truong_dai_hoc_validated, truong_dai_hoc)
       if nganh_hoc_validated != None:
           query['major_group_id'] = re.compile('^' + nganh_hoc_validated + '$', re.IGNORECASE)
           mes += " ngành " + nganh_hoc
+          UnisecLogger.log_major(nganh_hoc_validated, nganh_hoc)
 
       if (truong_dai_hoc_validated != None and nganh_hoc_validated != None):
          # query['year'] = str(nam_validated)
