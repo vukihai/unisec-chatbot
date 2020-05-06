@@ -13,6 +13,11 @@ intents:
 - intent_hoi_nganh
 - intent_hoi_ma_truong
 - intent_hoi_ten_truong
+- intent_hoi_xep_hang
+- intent_hoi_khung_dao_tao
+- intent_hoi_muc_luong
+- intent_hoi_viec_lam
+- intent_hoi_thong_tin_nganh
 entities:
 - entity_vung_mien
 - entity_tinh_thanh
@@ -79,6 +84,12 @@ responses:
   - text: Bạn muốn hỏi ngành nào?
   utter_ask_entity_vung_mien:
   - text: Bạn muốn học ở Miền Bắc, Miền Trung hay Miền Nam?
+    custom:
+      data:
+        button:
+          - miền Bắc
+          - miền Trung
+          - miền Nam
   utter_ask_entity_tinh_thanh:
   - text: Bạn muốn học ở tỉnh nào?
   utter_ask_entity_khoi_thi:
@@ -87,6 +98,8 @@ responses:
   - text: bạn dự kiến được bao nhiêu điểm?
   utter_hoi_vi_tri_truong:
   - text: Đây là câu trả lời mặc định cho câu hỏi về vị trí trường.
+  action_default_fallback:
+  - text: Tôi chưa thể giúp bạn việc này. Tôi vẫn đang cố gắng để hoàn thiện hơn.
 actions:
 - utter_chao_mung
 - action_chao_mung
@@ -101,7 +114,7 @@ actions:
 - utter_ask_entity_tinh_thanh
 - utter_ask_entity_khoi_thi
 - utter_ask_entity_diem
-- form_hoi_ma_truong
+- action_default_fallback
 forms:
 - form_chon_truong
 - form_chon_nganh
@@ -109,3 +122,9 @@ forms:
 - form_hoi_khoi_thi
 - form_hoi_dia_chi_truong
 - form_hoi_thong_tin_truong
+- form_hoi_xep_hang
+- form_hoi_ma_truong
+- form_hoi_khung_dao_tao
+- form_hoi_muc_luong
+- form_hoi_viec_lam
+- form_hoi_thong_tin_nganh

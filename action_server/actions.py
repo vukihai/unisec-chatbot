@@ -5,3 +5,8 @@ from Actions import FormHoiTenTruong
 from Actions import FormHoiDiaChiTruong
 from Actions import ActionChaoMung
 from Actions import ActionAllSlotReset
+from Actions import FormHoiXepHang
+from Actions import FormHoiKhungDaoTao
+from Actions import FormHoiViecLam
+from Actions import FormHoiMucLuong
+from Actions import FormHoiThongTinNganh
