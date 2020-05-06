@@ -24,24 +24,27 @@ class FormHoiMaTruong(UnisecForm):
       return []
 
    def submit(self, dispatcher, tracker, domain):
-      truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')
-      truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')
-      ma_truong = self.get_slot('entity_ma_truong')
-      ma_truong_validated = self.get_slot('entity_ma_truong_validated')
-      print(truong_dai_hoc)
-      print(truong_dai_hoc_validated)
-      print(ma_truong)
-      print(ma_truong_validated)
-      if truong_dai_hoc_validated != None:
-         dt = db.universities.find_one({'abbreviation': re.compile('^' + truong_dai_hoc_validated[2] + '$', re.IGNORECASE)})
+      try:
+         truong_dai_hoc = self.get_slot('entity_truong_dai_hoc')[0]
+         truong_dai_hoc_validated =  self.get_slot('entity_truong_dai_hoc_validated')[0]
+      except:
+         truong_dai_hoc = None
+         truong_dai_hoc_validated = None
+      try:
+         ma_truong = self.get_slot('entity_ma_truong')[0]
+      except:
+         ma_truong = None
+
+      
+      if ma_truong != None:
+         dt = db.universities.find_one({'abbreviation': re.compile('^' + ma_truong + '$', re.IGNORECASE)})
          if dt != None:
-            #dispatcher.utter_message("Mã " + truong_dai_hoc_validated[2] + " là của trường " + dt['name'])
-            dispatcher.utter_message("Mã trường của trường Đại Học Giao Thông Vận Tải ( Cơ sở Phía Bắc ) là GHA")
+            dispatcher.utter_message("Mã " + ma_truong + " là của trường " + dt['name'])
          else:
-            dispatcher.utter_message("Tôi không tìm thấy trường nào có mã là " + truong_dai_hoc_validated)
+            dispatcher.utter_message("Tôi không tìm thấy trường nào có mã là " + ma_truong)
          return [AllSlotsReset()]
 
-      dispatcher.utter_message("Mã trường của " + truong_dai_hoc + " là " + truong_dai_hoc_validated[2])
+      dispatcher.utter_message("Mã trường của " + truong_dai_hoc + " là " + truong_dai_hoc_validated)
       return [AllSlotsReset()]
       
 
