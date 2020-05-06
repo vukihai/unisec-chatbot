@@ -1,5 +1,6 @@
 from rasa_sdk import Action
 from .UnisecForm import UnisecForm
+from .UnisecLogger import UnisecLogger
 from .UnisecValidator import UnisecValidator
 from rasa_sdk.events import SlotSet, AllSlotsReset, BotUttered, FollowupAction
 import pymongo
@@ -39,6 +40,7 @@ class FormHoiMaTruong(UnisecForm):
          return [AllSlotsReset()]
 
       dispatcher.utter_message("Mã trường của " + truong_dai_hoc + " là " + truong_dai_hoc_validated)
+      UnisecLogger.log_university(ma_truong, truong_dai_hoc)
       return [AllSlotsReset()]
       
 

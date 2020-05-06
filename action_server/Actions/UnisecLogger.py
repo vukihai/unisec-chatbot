@@ -22,6 +22,8 @@ class UnisecLogger():
         entry['message'] = message
         log_collection.insert_one(entry)
         data = {}
+        # if target == "entity_nganh_hoc":
+        #     log_major()
         print(entry)
     def log_intent(intent, value):
         url = "http://77c0975d.ngrok.io/intent/"+intent+"" 

@@ -103,6 +103,7 @@ class FormChonTruong(UnisecForm):
             query["majors"]['$elemMatch'] = {}
          query["majors"]['$elemMatch']['major_group'] = nganh_hoc_validated      
       data = db.universities.find(query)
+      
       print(query)
       # for test in data:
       #    print(test['name'])

@@ -1,6 +1,7 @@
 from rasa_sdk import Action
 from .UnisecForm import UnisecForm
 from .UnisecValidator import UnisecValidator
+from .UnisecLogger import UnisecLogger
 from rasa_sdk.events import SlotSet, AllSlotsReset, BotUttered, FollowupAction
 import pymongo
 import re
