@@ -17,15 +17,6 @@
    - form{"name" : "form_hoi_diem_chuan"}
    - form{"name" : null}
 
-## story_hoi_diem_chuan
-* intent_hoi_diem_chuan
-   - action_deactivate_form
-   - form_hoi_diem_chuan
-   - form{"name" : "form_hoi_diem_chuan"}
-* intent_chao_mung
-   - utter_chao_mung
-   - action_chao_mung
-
 ## story hoi khoi thi
 * intent_hoi_khoi_thi
    - action_deactivate_form
@@ -52,4 +43,39 @@
    - action_deactivate_form
    - form_hoi_thong_tin_truong
    - form{"name" : "form_hoi_thong_tin_truong"}
+   - form{"name" : null}
+
+## story hoi xep hang
+* intent_hoi_xep_hang
+   - action_deactivate_form
+   - form_hoi_xep_hang
+   - form{"name" : "form_hoi_xep_hang"}
+   - form{"name" : null}
+
+## story hoi khung dao tao
+* intent_hoi_khung_dao_tao
+   - action_deactivate_form
+   - form_hoi_khung_dao_tao
+   - form{"name" : "form_hoi_khung_dao_tao"}
+   - form{"name" : null}
+
+## story hoi khung dao tao
+* intent_hoi_muc_luong
+   - action_deactivate_form
+   - form_hoi_muc_luong
+   - form{"name" : "form_hoi_muc_luong"}
+   - form{"name" : null}
+
+## story hoi viec lam
+* intent_hoi_viec_lam
+   - action_deactivate_form
+   - form_hoi_viec_lam
+   - form{"name" : "form_hoi_viec_lam"}
+   - form{"name" : null}
+
+## story hoi thong tin nganh
+* intent_hoi_thong_tin_nganh
+   - action_deactivate_form
+   - form_hoi_thong_tin_nganh
+   - form{"name" : "form_hoi_thong_tin_nganh"}
    - form{"name" : null}

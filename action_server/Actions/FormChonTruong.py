@@ -40,7 +40,10 @@ class FormChonTruong(UnisecForm):
       if len(res[1]) < 30:
          dispatcher.utter_message(json_message = {'data':{'table': res[1]}})
       return []
-
+   def slot_mappings(self):
+       return {
+        "entity_khoi_thi": self.from_text()
+       }
    def submit(self, dispatcher, tracker, domain):
       # reset all slot if needed
       # add utter_chao_mung
