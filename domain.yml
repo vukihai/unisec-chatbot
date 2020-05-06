@@ -1,5 +1,5 @@
 session_config:
-  session_expiration_time: 0.0
+  session_expiration_time: 0
   carry_over_slots_to_new_session: true
 intents:
 - intent_chon_truong
@@ -13,6 +13,11 @@ intents:
 - intent_hoi_nganh
 - intent_hoi_ma_truong
 - intent_hoi_ten_truong
+- intent_tam_biet
+- intent_hoi_ten_bot
+- intent_cam_on
+- intent_khen
+- intent_chay_bang_gi
 entities:
 - entity_vung_mien
 - entity_tinh_thanh
@@ -73,6 +78,8 @@ slots:
 responses:
   utter_chao_mung:
   - text: xin chào, bạn cần giúp gì nào?
+  utter_tam_biet:
+  - text: Hẹn gặp bạn lần sau :))
   utter_ask_entity_truong_dai_hoc:
   - text: Bạn muốn hỏi trường nào?
   utter_ask_entity_nganh_hoc:
@@ -87,9 +94,24 @@ responses:
   - text: bạn dự kiến được bao nhiêu điểm?
   utter_hoi_vi_tri_truong:
   - text: Đây là câu trả lời mặc định cho câu hỏi về vị trí trường.
+  utter_ten_bot:
+  - text: Tôi tên là Uninsec Chatbot, rất vui được gặp bạn! Bạn cần trợ giúp gì không?
+  utter_cam_on:
+  - text: Không có gì, giúp được bạn tôi là niềm vui lớn nhất của tôi
+  utter_khen:
+  - text: Hihi, bạn khen quá lời rồi
+  utter_chay_bang_gi:
+  - text: Mình chạy trên bằng công nghệ học máy, là một công nghệ rất quan trọng trong
+      công nghệ thông tin. Nếu bạn thấy hay thì hãy chọn ngành công nghệ thông tin
+      để hiểu rõ hơn về công nghệ tạo ra mình nhé.
 actions:
 - utter_chao_mung
 - action_chao_mung
+- utter_tam_biet
+- utter_ten_bot
+- utter_khen
+- utter_cam_on
+- utter_chay_bang_gi
 - utter_ask_ten_nganh
 - utter_hoi_to_hop_mon
 - utter_hoi_vi_tri_truong

@@ -288,7 +288,7 @@ class UnisecForm(Action):
                         f"Successfully extracted '{value}' for requested slot '{slot_to_fill}'"
                     )
                     return {slot_to_fill: value}
-        self.deactivate()
+
         logger.debug(f"Failed to extract requested slot '{slot_to_fill}'")
         return {}
 
@@ -350,7 +350,6 @@ class UnisecForm(Action):
                 # reject to execute the form action
                 # if some slot was requested but nothing was extracted
                 # it will allow other policies to predict another action
-                self.deactivate()
                 raise ActionExecutionRejection(
                     self.name(),
                     f"Failed to extract slot {slot_to_fill} with action {self.name()}",

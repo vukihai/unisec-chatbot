@@ -38,7 +38,7 @@ class FormChonTruong(UnisecForm):
       res = self.getResponse(tracker)
       dispatcher.utter_message(res[0])
       if len(res[1]) < 30:
-         dispatcher.utter_message(json_message = {'data':{'table': res[1]}})
+         dispatcher.utter_message(json_message = {'table': res[1]})
       return []
 
    def submit(self, dispatcher, tracker, domain):
@@ -135,7 +135,7 @@ class FormChonTruong(UnisecForm):
          mes += "Hiện cả nước có "
       mes += str(numOfUni) + " trường"
       if nganh_hoc is not None:
-         mes += " đào tạo " + nganh_hoc
+         mes += " có đào tạo ngành " + nganh_hoc
       if diem_thi is not None:
          mes += " phù hợp với mức điểm của bạn"
       print(query)
