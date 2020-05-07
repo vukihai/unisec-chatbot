@@ -3,6 +3,26 @@
    - utter_chao_mung
    - action_chao_mung
 
+## story_tam_biet   
+* intent_tam_biet
+   - utter_tam_biet
+
+## story_hoi_ten_bot   
+* intent_hoi_ten_bot
+   - utter_ten_bot
+
+## story_cam_on   
+* intent_cam_on
+   - utter_cam_on
+
+## story_khen 
+* intent_khen
+   - utter_khen
+
+## story_chay_bang_gi 
+* intent_chay_bang_gi
+   - utter_chay_bang_gi
+
 ## story chon truong
 * intent_chon_truong
    - action_deactivate_form
