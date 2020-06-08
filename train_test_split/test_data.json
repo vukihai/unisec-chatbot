@@ -1,0 +1,530 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "intent_chao_mung",
+        "text": "hello again"
+      },
+      {
+        "intent": "intent_chao_mung",
+        "text": "heya"
+      },
+      {
+        "intent": "intent_chao_mung",
+        "text": "greetings"
+      },
+      {
+        "intent": "intent_chao_mung",
+        "text": "hey there"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 17,
+            "end": 34,
+            "value": "công nghệ Dệt may",
+            "entity": "entity_nganh_hoc"
+          },
+          {
+            "start": 35,
+            "end": 88,
+            "value": "Trường Sĩ Quan Thông Tin - Đại Học Thông Tin Liên Lạc",
+            "entity": "entity_truong_dai_hoc"
+          },
+          {
+            "start": 93,
+            "end": 97,
+            "value": "2019",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "Điểm chuẩn ngành công nghệ Dệt may Trường Sĩ Quan Thông Tin - Đại Học Thông Tin Liên Lạc năm 2019"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 28,
+            "value": "đại học công nghệ",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "điểm chuẩn đại học công nghệ năm kia"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 6,
+            "end": 25,
+            "value": "công nghệ thông tin",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "ngành công nghệ thông tin lấy điểm chuẩn là bao nhiêu"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 57,
+            "value": "Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa",
+            "entity": "entity_truong_dai_hoc"
+          },
+          {
+            "start": 58,
+            "end": 62,
+            "value": "2019",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "Điểm chuẩn Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa 2019"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 20,
+            "value": "năm ngoái",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "điểm chuẩn năm ngoái ra sao"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 41,
+            "value": "Đại Học Khoa Học – Đại Học Huế",
+            "entity": "entity_truong_dai_hoc"
+          },
+          {
+            "start": 47,
+            "end": 51,
+            "value": "cntt",
+            "entity": "entity_nganh_hoc"
+          },
+          {
+            "start": 52,
+            "end": 65,
+            "value": "2 năm gần đây",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "điểm chuẩn Đại Học Khoa Học – Đại Học Huế khoa cntt 2 năm gần đây"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 38,
+            "value": "Đại học Công nghệ Miền Đông",
+            "entity": "entity_truong_dai_hoc"
+          },
+          {
+            "start": 39,
+            "end": 43,
+            "value": "2018",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "điểm chuẩn Đại học Công nghệ Miền Đông 2018"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 27,
+            "value": "đại học lạc hồng",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "điểm chuẩn đại học lạc hồng ra sao"
+      },
+      {
+        "intent": "intent_hoi_diem_chuan",
+        "entities": [
+          {
+            "start": 11,
+            "end": 51,
+            "value": "Khoa Giáo dục thể chất - Đại học Đà Nẵng",
+            "entity": "entity_truong_dai_hoc"
+          },
+          {
+            "start": 57,
+            "end": 61,
+            "value": "cntt",
+            "entity": "entity_nganh_hoc"
+          },
+          {
+            "start": 62,
+            "end": 75,
+            "value": "2 năm gần đây",
+            "entity": "entity_nam"
+          }
+        ],
+        "text": "điểm chuẩn Khoa Giáo dục thể chất - Đại học Đà Nẵng khoa cntt 2 năm gần đây"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 22,
+            "end": 24,
+            "value": "24",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "trường nào lấy điểm < 24"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 19,
+            "end": 38,
+            "value": "công nghệ thông tin",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "trường nào đạo tạo công nghệ thông tin"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 19,
+            "end": 23,
+            "value": "luật",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "trường nào đào tạo luật"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 22,
+            "end": 33,
+            "value": "thái nguyên",
+            "entity": "entity_tinh_thanh"
+          }
+        ],
+        "text": "có những trường nào ở thái nguyên"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 19,
+            "end": 28,
+            "value": "y đa khoa",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "trường nào đào tạo y đa khoa tốt"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 2,
+            "end": 8,
+            "value": "Hà Nội",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "Ở Hà Nội có những trường đại học nào"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 32,
+            "end": 35,
+            "value": "bắc",
+            "entity": "entity_vung_mien"
+          }
+        ],
+        "text": "tôi muốn chọn trường học ở Miền bắc"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 19,
+            "end": 34,
+            "value": "vật lý kỹ thuật",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "trường nào đào tạo vật lý kỹ thuật"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 10,
+            "end": 13,
+            "value": "bắc",
+            "entity": "entity_vung_mien"
+          }
+        ],
+        "text": "em ở miền bắc, em muốn chọn trường đại học phù hợp với khả năng của bản thân"
+      },
+      {
+        "intent": "intent_chon_truong",
+        "entities": [
+          {
+            "start": 10,
+            "end": 16,
+            "value": "cơ khí",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "học ngành cơ khí ở đâu"
+      },
+      {
+        "intent": "intent_chon_nganh",
+        "entities": [
+          {
+            "start": 7,
+            "end": 24,
+            "value": "đại học công nghệ",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "trường đại học công nghệ có những ngành gì"
+      },
+      {
+        "intent": "intent_chon_nganh",
+        "entities": [
+          {
+            "start": 19,
+            "end": 21,
+            "value": "25",
+            "entity": "entity_diem"
+          },
+          {
+            "start": 32,
+            "end": 33,
+            "value": "A",
+            "entity": "entity_khoi_thi"
+          }
+        ],
+        "text": "ngành nào lấy dưới 25 điểm khối A"
+      },
+      {
+        "intent": "intent_chon_nganh",
+        "entities": [
+          {
+            "start": 2,
+            "end": 8,
+            "value": "hà nội",
+            "entity": "entity_tinh_thanh"
+          },
+          {
+            "start": 31,
+            "end": 33,
+            "value": "21",
+            "entity": "entity_diem"
+          }
+        ],
+        "text": "ở hà nội có ngành nào lấy dưới 21 điểm không"
+      },
+      {
+        "intent": "intent_chon_nganh",
+        "entities": [
+          {
+            "start": 24,
+            "end": 50,
+            "value": "đại học giao thông vận tải",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "Ngành nào cao điểm nhất đại học giao thông vận tải"
+      },
+      {
+        "intent": "intent_hoi_khoi_thi",
+        "entities": [
+          {
+            "start": 6,
+            "end": 25,
+            "value": "công nghệ thông tin",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "Ngành công nghệ thông tin tuyển những khối hay tổ hợp môn nào"
+      },
+      {
+        "intent": "intent_hoi_khoi_thi",
+        "entities": [
+          {
+            "start": 5,
+            "end": 24,
+            "value": "công nghệ thông tin",
+            "entity": "entity_nganh_hoc"
+          },
+          {
+            "start": 32,
+            "end": 49,
+            "value": "đại học công nghệ",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "khoa công nghệ thông tin trường đại học công nghệ lấy điểm khối nào"
+      },
+      {
+        "intent": "intent_hoi_ma_truong",
+        "entities": [
+          {
+            "start": 18,
+            "end": 42,
+            "value": "đại học công nghiệp vinh",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "tra cứu mã trường đại học công nghiệp vinh"
+      },
+      {
+        "intent": "intent_hoi_ma_truong",
+        "entities": [
+          {
+            "start": 20,
+            "end": 23,
+            "value": "qhi",
+            "entity": "entity_ma_truong"
+          }
+        ],
+        "text": "trường nào có mã là qhi"
+      },
+      {
+        "intent": "intent_hoi_dia_chi_truong",
+        "entities": [
+          {
+            "start": 15,
+            "end": 34,
+            "value": "đại học công nghiệp",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "địa chỉ trường đại học công nghiệp"
+      },
+      {
+        "intent": "intent_hoi_dia_chi_truong",
+        "entities": [
+          {
+            "start": 7,
+            "end": 26,
+            "value": "đại học công nghiệp",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "trường đại học công nghiệp ở đâu"
+      },
+      {
+        "intent": "intent_hoi_xep_hang",
+        "entities": [
+          {
+            "start": 20,
+            "end": 37,
+            "value": "đại học công nghệ",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "thứ hạng của trường đại học công nghệ"
+      },
+      {
+        "intent": "intent_hoi_xep_hang",
+        "text": "xếp hạng"
+      },
+      {
+        "intent": "intent_hoi_khung_dao_tao",
+        "entities": [
+          {
+            "start": 20,
+            "end": 37,
+            "value": "khoa học máy tính",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "khung đào tạo ngành khoa học máy tính"
+      },
+      {
+        "intent": "intent_hoi_khung_dao_tao",
+        "text": "khung đào tạo"
+      },
+      {
+        "intent": "intent_hoi_muc_luong",
+        "entities": [
+          {
+            "start": 10,
+            "end": 27,
+            "value": "đạo diễn sân khấu",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "học ngành đạo diễn sân khấu lương bao nhiêu"
+      },
+      {
+        "intent": "intent_hoi_muc_luong",
+        "entities": [
+          {
+            "start": 20,
+            "end": 59,
+            "value": "đảm bảo chất lượng và an toàn thực phẩm",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "mức lương của ngành đảm bảo chất lượng và an toàn thực phẩm"
+      },
+      {
+        "intent": "intent_hoi_viec_lam",
+        "entities": [
+          {
+            "start": 6,
+            "end": 14,
+            "value": "mỹ thuật",
+            "entity": "entity_nganh_hoc"
+          }
+        ],
+        "text": "ngành mỹ thuật có dễ xin việc không"
+      },
+      {
+        "intent": "intent_hoi_thong_tin_nganh",
+        "text": "thông tin ngành"
+      },
+      {
+        "intent": "intent_hoi_thong_tin_truong",
+        "entities": [
+          {
+            "start": 18,
+            "end": 35,
+            "value": "đại học công nghệ",
+            "entity": "entity_truong_dai_hoc"
+          }
+        ],
+        "text": "giới thiệu trường đại học công nghệ"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội",
+        "synonyms": [
+          "đại học công nghệ"
+        ]
+      }
+    ]
+  }
+}

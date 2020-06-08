@@ -1,13 +1,19 @@
 language: vi
 pipeline:
-- name: WhitespaceTokenizer
-- name: RegexFeaturizer
-- name: CountVectorsFeaturizer
-- name: CountVectorsFeaturizer
-  analyzer: char_wb
+- name: SpacyNLP
+  model: "vi_spacy_model"
+  case_sensitive: False
+- name: "Normalizer"
+- name: "SpacyTokenizer"
+- name: "SpacyFeaturizer"
+- name: CRFEntityExtractor	
+  "features": [["low","title","upper"],["bias","low","upper","title","digit","pos","tag", "vector", "dep", "first_word","last_word","first_word_low","last_word_low","prefix1"],["low","title","upper"]]
+- name: "CountVectorsFeaturizer"
   min_ngram: 1
   max_ngram: 4
-- name: DIETClassifier
+
+- name: SklearnIntentClassifier
+
 policies:
 - name: TEDPolicy
   epochs: 50

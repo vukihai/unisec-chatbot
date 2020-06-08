@@ -1,0 +1,44 @@
+{
+  "id": "ecf4834e-08ce-4485-9ac7-2703c7e608b5",
+  "name": "hoi_danh_sach_nganh_cua_truong",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b8aead72-fd7b-4825-8d4f-8466dbb37182",
+          "required": false,
+          "dataType": "@ten_truong",
+          "name": "ten_truong",
+          "value": "$ten_truong",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "hoi_danh_sach_nganh_cua_truong"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

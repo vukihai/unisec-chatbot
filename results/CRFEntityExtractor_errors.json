@@ -1,0 +1,197 @@
+[
+  {
+    "text": "ngànhkế toán đại học hòa bình lấy điểm bao nhiêu",
+    "entities": [
+      {
+        "start": 5,
+        "end": 12,
+        "value": "kế toán",
+        "entity": "entity_nganh_hoc"
+      },
+      {
+        "start": 13,
+        "end": 29,
+        "value": "đại học hòa bình",
+        "entity": "entity_truong_dai_hoc"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "value": "đại_học hòa_bình",
+        "entity": "entity_truong_dai_hoc",
+        "confidence": 0.9705253583234217,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "ngành công nghệ thông tin ở miềnbắc có những trường nào",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "value": "công nghệ thông tin",
+        "entity": "entity_nganh_hoc"
+      },
+      {
+        "start": 32,
+        "end": 35,
+        "value": "bắc",
+        "entity": "entity_vung_mien"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "value": "công_nghệ thông_tin",
+        "entity": "entity_nganh_hoc",
+        "confidence": 0.989646968810617,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "nên học cơ kĩ thuật ở trường nào",
+    "entities": [
+      {
+        "start": 8,
+        "end": 19,
+        "value": "cơ kĩ thuật",
+        "entity": "entity_nganh_hoc"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "ngành công nghệ thông tin ở TP  Hồ Chí Minh có những trường nào",
+    "entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "value": "công nghệ thông tin",
+        "entity": "entity_nganh_hoc"
+      },
+      {
+        "start": 28,
+        "end": 43,
+        "value": "TP  Hồ Chí Minh",
+        "entity": "entity_tinh_thanh"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 6,
+        "end": 25,
+        "value": "công_nghệ thông_tin",
+        "entity": "entity_nganh_hoc",
+        "confidence": 0.9896838726599232,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Những trường nào đào tạo ngànhcông nghệ thông tin",
+    "entities": [
+      {
+        "start": 30,
+        "end": 49,
+        "value": "công nghệ thông tin",
+        "entity": "entity_nganh_hoc"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "thành phố hồ chí minh có những ngành nào  xét tuyển khối a01",
+    "entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "thành phố hồ chí minh",
+        "entity": "entity_tinh_thanh"
+      },
+      {
+        "start": 57,
+        "end": 60,
+        "value": "a01",
+        "entity": "entity_khoi_thi"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 0,
+        "end": 21,
+        "value": "thành_phố hồ_chí minh",
+        "entity": "entity_tinh_thanh",
+        "confidence": 0.6649632301976954,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "Đại học giao thông vận tải có những ngành nào",
+    "entities": [
+      {
+        "start": 0,
+        "end": 18,
+        "value": "Đại học giao thông",
+        "entity": "entity_truong_dai_hoc"
+      }
+    ],
+    "predicted_entities": [
+      {
+        "start": 0,
+        "end": 26,
+        "value": "đại_học giao_thông vận_tải",
+        "entity": "entity_truong_dai_hoc",
+        "confidence": 0.5789032949919346,
+        "extractor": "CRFEntityExtractor"
+      }
+    ]
+  },
+  {
+    "text": "địa chỉ trường đại học giao thôngđại học giao thông vận tải là gì ",
+    "entities": [
+      {
+        "start": 15,
+        "end": 33,
+        "value": "đại học giao thông",
+        "entity": "entity_truong_dai_hoc"
+      },
+      {
+        "start": 33,
+        "end": 59,
+        "value": "đại học giao thông vận tải",
+        "entity": "entity_truong_dai_hoc"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "trườngđại học giao thông vận tải xếp hạng thứ mấy ",
+    "entities": [
+      {
+        "start": 6,
+        "end": 32,
+        "value": "đại học giao thông vận tải",
+        "entity": "entity_truong_dai_hoc"
+      }
+    ],
+    "predicted_entities": []
+  },
+  {
+    "text": "trườngđại học giao thông vận tải xếp hạng bao nhiêu ",
+    "entities": [
+      {
+        "start": 6,
+        "end": 32,
+        "value": "đại học giao thông vận tải",
+        "entity": "entity_truong_dai_hoc"
+      }
+    ],
+    "predicted_entities": []
+  }
+]

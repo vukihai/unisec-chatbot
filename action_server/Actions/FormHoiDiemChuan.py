@@ -79,7 +79,7 @@ class FormHoiDiemChuan(UnisecForm):
             except:
                print("vukihai:error while loading admision score: FormHoiDiemChuan - get response")
       else:
-         query['year'] = int(nam_validated)
+         query['year'] = str(nam_validated)
          mes += " năm " + str(nam_validated)
          data = db.admission_scores.find(query)
          ret = []
