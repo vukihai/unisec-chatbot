@@ -1,0 +1,578 @@
+[
+  {
+    "id": "e5711ac3-093b-4522-a854-43870a7bc740",
+    "data": [
+      {
+        "text": "ngành công nghệ thông tin",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " lấy điểm chuẩn là bao nhiêu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "928f37e1-bddc-4ec5-bad8-a6d0af1217ce",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " ra sao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f266f084-8333-43a0-9044-64a0854e92df",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "năm ngoái",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      },
+      {
+        "text": " ra sao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "796616e5-5bef-4f3c-8231-f8daf1b48d0c",
+    "data": [
+      {
+        "text": "điểm chuẩn các trường ra sao",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fb7c6ed-dfc6-4d73-b03b-54e276a589f3",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "năm ngoái",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "889a59b8-58da-468e-9115-be2392b0953b",
+    "data": [
+      {
+        "text": "ngành công nghệ thông tin",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3d7f8b3d-7de3-4502-83c4-9269688d8fe2",
+    "data": [
+      {
+        "text": "trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09b6a200-007e-4de8-ac30-5dc8ddd9d479",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2018",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c9e9d38a-98aa-443b-916e-818fe2bd282f",
+    "data": [
+      {
+        "text": "cho em hỏi điểm chuẩn trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " năm ",
+        "userDefined": false
+      },
+      {
+        "text": "2017",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6501c79-48d5-4b62-bb80-b1bbf7c8bc9f",
+    "data": [
+      {
+        "text": "năm ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      },
+      {
+        "text": " khoa ",
+        "userDefined": false
+      },
+      {
+        "text": "công nghệ thông tin",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd20d1f4-1f88-4380-8490-5f581bacd49f",
+    "data": [
+      {
+        "text": "năm ngoái",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      },
+      {
+        "text": " trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "03db782c-48fe-402f-8c58-01e2401e848f",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " khoa ",
+        "userDefined": false
+      },
+      {
+        "text": "cntt",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2 năm gần đây",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93106a09-6249-46ba-b42e-1d6427f1c23a",
+    "data": [
+      {
+        "text": "đại học bách khoa hà nội",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dd6b6c2f-2cf2-4613-92c8-6d2897764775",
+    "data": [
+      {
+        "text": "công nghệ thông tin",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67aa2675-5525-4b41-a06f-29bf7a957e8e",
+    "data": [
+      {
+        "text": "mình muốn hỏi điểm chuẩn",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c5d5103-6bca-4d20-9226-58ec4a9f2d7f",
+    "data": [
+      {
+        "text": "điểm chuẩn trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75d13e1b-a838-4b62-a93e-fa3ed7b156a5",
+    "data": [
+      {
+        "text": "ngành ",
+        "userDefined": false
+      },
+      {
+        "text": "quản lý công nghiệp",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "711463d4-7751-4689-9f18-55387bf6c0ed",
+    "data": [
+      {
+        "text": "ngành kế toán",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy điểm bao nhiêu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea60bc0f-0763-48f5-9d46-d53e9f3b8060",
+    "data": [
+      {
+        "text": "Điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df2c1735-f07e-403c-b1bd-3e98ffa224a5",
+    "data": [
+      {
+        "text": "trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học bách khoa hà nội",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd97e203-6fe7-45e3-a0b3-72d0e05164a2",
+    "data": [
+      {
+        "text": "Điểm chuẩn ngành ",
+        "userDefined": false
+      },
+      {
+        "text": "công nghệ Dệt may",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học Bách Khoa hà nội",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " năm ",
+        "userDefined": false
+      },
+      {
+        "text": "2019",
+        "alias": "nam",
+        "meta": "@nam",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61918b16-d24e-4fc3-a926-029cc74600b6",
+    "data": [
+      {
+        "text": "Trường ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học hòa bình",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " lấy bao nhiêu điểm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97a1a8e2-9998-4ae8-a615-075ce73d1293",
+    "data": [
+      {
+        "text": "điểm chuẩn ",
+        "userDefined": false
+      },
+      {
+        "text": "ngành kế toán",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "đại học công nghiệp",
+        "alias": "ten_truong",
+        "meta": "@ten_truong",
+        "userDefined": false
+      },
+      {
+        "text": " là bao nhiêu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "01c56855-cd39-4f1b-8ab0-55c63ca7e2d2",
+    "data": [
+      {
+        "text": "điểm chuẩn ngành ",
+        "userDefined": false
+      },
+      {
+        "text": "quản lý công nghiệp",
+        "alias": "ten_nganh",
+        "meta": "@ten_nganh",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

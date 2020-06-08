@@ -1,0 +1,68 @@
+{
+  "entity_khoi_thi": {
+    "precision": 1.0,
+    "recall": 0.75,
+    "f1-score": 0.8571428571428571,
+    "support": 4
+  },
+  "entity_ma_truong": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 4
+  },
+  "entity_nam": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 10
+  },
+  "entity_tinh_thanh": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1-score": 0.9333333333333333,
+    "support": 24
+  },
+  "entity_vung_mien": {
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1-score": 0.9333333333333333,
+    "support": 8
+  },
+  "entity_truong_dai_hoc": {
+    "precision": 0.9938271604938271,
+    "recall": 0.92,
+    "f1-score": 0.9554896142433236,
+    "support": 175
+  },
+  "entity_nganh_hoc": {
+    "precision": 1.0,
+    "recall": 0.9270833333333334,
+    "f1-score": 0.9621621621621621,
+    "support": 96
+  },
+  "entity_diem": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 14
+  },
+  "micro avg": {
+    "precision": 0.9967741935483871,
+    "recall": 0.9223880597014925,
+    "f1-score": 0.958139534883721,
+    "support": 335
+  },
+  "macro avg": {
+    "precision": 0.9992283950617284,
+    "recall": 0.9183854166666667,
+    "f1-score": 0.9551826625268762,
+    "support": 335
+  },
+  "weighted avg": {
+    "precision": 0.9967753823475216,
+    "recall": 0.9223880597014925,
+    "f1-score": 0.957831307926529,
+    "support": 335
+  }
+}

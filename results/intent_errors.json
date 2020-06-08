@@ -1,0 +1,26 @@
+[
+  {
+    "text": "thông tin ngành nhật bản học",
+    "intent": "intent_hoi_thong_tin_nganh",
+    "intent_prediction": {
+      "name": "intent_hoi_khung_dao_tao",
+      "confidence": 0.21188209964442703
+    }
+  },
+  {
+    "text": "giới thiệu ngành nghệ thuật nghe nhìn",
+    "intent": "intent_hoi_thong_tin_nganh",
+    "intent_prediction": {
+      "name": "intent_hoi_khung_dao_tao",
+      "confidence": 0.29419139994848514
+    }
+  },
+  {
+    "text": "ngành quản lý đô thị và công trình là gì",
+    "intent": "intent_hoi_thong_tin_nganh",
+    "intent_prediction": {
+      "name": "intent_hoi_khung_dao_tao",
+      "confidence": 0.2010500400072215
+    }
+  }
+]

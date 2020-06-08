@@ -26,8 +26,8 @@ class FormChonTruong(UnisecForm):
          return ['entity_vung_mien']
       if tracker.get_slot('entity_diem') == None:
          return ['entity_diem']
-      if tracker.get_slot('entity_khoi_thi') == None:
-         return ['entity_khoi_thi']
+      # if tracker.get_slot('entity_khoi_thi') == None:
+      #    return ['entity_khoi_thi']
       if tracker.get_slot('entity_nganh_hoc') == None:
          return ['entity_nganh_hoc']
       return []
@@ -37,13 +37,10 @@ class FormChonTruong(UnisecForm):
       # utter universities fited with current slot.
       res = self.getResponse(tracker)
       dispatcher.utter_message(res[0])
-      if len(res[1]) < 30:
+      if len(res[1]) < 30 and len(res[1]) >1:
          dispatcher.utter_message(json_message = {'data':{'table': res[1]}})
       return []
-   def slot_mappings(self):
-       return {
-        "entity_khoi_thi": self.from_text()
-       }
+   
    def submit(self, dispatcher, tracker, domain):
       # reset all slot if needed
       # add utter_chao_mung
@@ -123,9 +120,9 @@ class FormChonTruong(UnisecForm):
                   if diem_thi is not None and float(diem_thi)-2 > float(major['score']) and float(diem_thi) +2 < float(major['score']):
                      # print(uni['name'] + ' break 2')
                      continue
-                  if khoi_thi is not None and khoi_thi not in major['major_combine']:
-                     # print(uni['name'] + ' break 3')
-                     continue
+                  # if khoi_thi is not None and khoi_thi not in major['major_combine']:
+                  #    # print(uni['name'] + ' break 3')
+                  #    continue
                   ret.append([uni['name'], major['major_name']])
          except:
             print("vukihai: error while create response: FormChonTruong > getResponse > has majorslot")          

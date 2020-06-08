@@ -1,0 +1,68 @@
+{
+  "id": "bb4f46e9-8a93-4e1a-9cfc-85c1f7933dea",
+  "name": "hoi_diem_chuan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d0cfbd7-7cf5-41bd-9284-c7bd62290e87",
+          "required": true,
+          "dataType": "@ten_truong",
+          "name": "ten_truong",
+          "value": "$ten_truong",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "c1c50f54-4bb5-4bf2-a3ec-664bc6252da1",
+          "required": false,
+          "dataType": "@nam",
+          "name": "nam",
+          "value": "$nam",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d294d16c-bb66-46fe-b4bb-369674c58831",
+          "required": true,
+          "dataType": "@ten_nganh",
+          "name": "ten_nganh",
+          "value": "$ten_nganh",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Bạn đang muốn hỏi điểm chuẩn"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
